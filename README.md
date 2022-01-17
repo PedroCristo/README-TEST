@@ -71,7 +71,7 @@ This project is a quiz game using JavaScript Essentials. Users can play 3 differ
 Quiz Land website is a seven pages site: Home Page, Quiz 1 Page,  and Thanks Page. The default loading page is the Landing Page and it is linked to the Home Page by a button. The Home Page has 8 sections: (1) Trust, (2) About, (3) Banner Bali, (4) Top Trips, (5) Banner Maldives, (6) City Breaks, (7) Partners and Footer. This page, is linked to all the pages in the website by the Navigation Menu on the top. The Contact Page has the Menu at the top and 3 sections: (1) Contact Form, (2) Partners (3) Footer. The Thanks Page has two sections: (1) 'Thanks' message and (2) Footer.
 
 #### Colour Scheme
- ![Landing Page](./assets/images/readme-images/color-pallete.jpg)
+ ![Color Scheme](./assets/images/readme/color-pallete.png)
  There are four main colours used: (1 ) white (#ffffff), (2) a variation of white (#faebd7), (3) an orange tone (#f84f0d) and (4) a black (#111111). The white is used for the main website background, the black is used for text while the orange represents a colour tone that can be seen in the logo, titles and icons. When the user hovers, the white variation (#faebd7) is used for the button background.
  In the Footer Section I used a linear gradient as background using four main colours and orientation of 258 degrees.
 
@@ -86,7 +86,7 @@ Quiz Land website is a seven pages site: Home Page, Quiz 1 Page,  and Thanks Pag
 * At the bottom of the Home page, users can access the game social media links (Facebook and Instagram). Once these icons are clicked they are opened in a new tab. 
   
 ### Wireframe
-[Whatch Project Wireframe](https://cutt.ly/oIkZsAW)
+[Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
 
 ## Features
 
