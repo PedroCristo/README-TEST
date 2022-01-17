@@ -8,7 +8,7 @@ This project is a quiz game using JavaScript Essentials. Users can play 3 differ
 [Live Project Here](https://pedrocristo.github.io/portfolio_project_1/index.html)
 
 
-<p align="center"><img src="./assets/images/readme-images/travel-world-responsiveness.jpg" alt="Travel World Webpage on multiple devices"></p>
+<p align="center"><img src="./assets/images/readme/quiz-land-responsiveness.png" alt="Quiz Land webpage on multiple devices"></p>
 
 ## README Table Content
 
@@ -20,22 +20,16 @@ This project is a quiz game using JavaScript Essentials. Users can play 3 differ
     * [Website Structure](#website-structure)
     * [Colour Scheme](#colour-scheme)
     * [Typography](#typography)
-    * [Imagery](#imagery)
-    * [Videos](#videos)
-    * [Google Maps](#google-maps)
     * [interactive Links](#interactive-links) 
 * [Features](#features)  
-    * [Landing Page](#landing-page) 
-    * [Home Page Header](#home-age-eader)
-    * [About Section](#about-section)
-    * [Banner Section 1 - Bali](#banner-section-1---bali) 
-    * [Top Trips Section](#top-trips-section)
-    * [Banner Section 2 - Maldives](#banner-section-2---maldives)
-    * [City Breaks Section](#city-breaks-section)
-    * [Partners Section](#partners-section)
-    * [Footer Section](#footer-section)
-    * [Contact Page](#Contact-page)
-    * [Thanks Page](#thanks-page)
+    * [Home Page](#home-page) 
+    * [Side Navigation Menu](#home-age-eader)
+    * [Quiz Game 1](#about-section)
+    * [Game End Page](#banner-section-1---bali) 
+    * [Trophy Gold Page](#top-trips-section)
+    * [Trophy Silver Page](#banner-section-2---maldives)
+    * [Trophy Bronze Page](#city-breaks-section)
+    * [Height Scores Page](#partners-section)
 * [Future Features](#future-features)
     * [Customer Review Section](#customer-review-section)
 * [Technologies Used](#technologies-used)
@@ -85,48 +79,51 @@ Quiz Land website is a seven pages site: Home Page, Quiz 1 Page,  and Thanks Pag
 * The Roboto, sans-serif is used as the main font for the whole website.
       
 #### Imagery
-* 3 background images one in the Header and another 2 in the Banner Section.
-* 6 Images for the icons in the Trust Section with the size of 48px by 48px. They are PNG files.
-* 2 images in the About Section with the size of 680px by 410px.
-* 12 images for the Top Trips Section and City Break Section with the size of 950px by 713px.
-* 8 Images in the Partners Section with the size of 580px by 280px.
-* 1 image GiF animation in the Thanks Page.
-* Please Note (All images were converted to the webp files except the 6 images in the Trust Section).
-
+* 3 background images were used for the game pages.
+* 1 was used for the Favicon.
+  
 ### Interactive Links  
 * At the bottom of the Home page, users can access the game social media links (Facebook and Instagram). Once these icons are clicked they are opened in a new tab. 
+  
+### Wireframe
+[Whatch Project Wireframe](https://cutt.ly/oIkZsAW)
 
 ## Features
 
 ### Home Page 
 
-![Home Page](./assets/images/readme-images/landing-page-image.jpg)
+![Home Page](./assets/images/readme/home-page.png)
 
 * The Landing Page is the first contact that users have with this website. This page works as a cover with a video playing in the background. It also features text used as a marketing slogan to retain the users engagement with the website. When clicked, this button drives the viewers to the homepage.  <br>
 [Live Page Here](https://pedrocristo.github.io/portfolio_project_1/index.html)
 
-### Side Navigation Menu
+### Navigation Menu
 
-![Side Navigation Menu](./assets/images/readme-images/navigation-menu.jpg)
+#### Side Navigation Menu Desktop
+![Side Navigation Menu](./assets/images/readme/desktop-side-menu.png)
 * At the top of the website, users can find a fixed navigation menu that is fully responsive in all devices. In this navigation menu users can navigate to the different pages in the website. They can also see the Travel World logo on the left side. <br>
+  #### Side Navigation Menu Tablet
+![Side Navigation Menu Tablet](./assets/images/readme/tablet-side-menu.png)<br>
+  #### Navigation Menu Mobile
+![Side Navigation Menu mobile](./assets/images/readme/mobile-side-menu.png)
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html)
 
 ### Quiz Game 1
 
-![Home Page Header](./assets/images/readme-images/home-page-header-image.jpg)
+![Quiz Game 1](./assets/images/readme/quiz-page.png)
 * In this feature users can see a travel image as a background followed by some services provided by the company. It is advertising cost savings to the user by booking a trip with Travel World. <br>
 [Live Page Here](https://pedrocristo.github.io/portfolio_project_1/home.html)
 
 ### Game End Page
 
-![Game End Page](./assets/images/readme-images/home-page-about-section.jpg)
+![Game End Page](./assets/images/readme/game-end-page.png)
 
 * In this feature users have access to information about the company, for example the company's main purpose, its history, mission statement, and also the benefits of working for Travel World. <br>
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#about-section)
 
 ### Trophy Gold Page
 
-![Trophy Gold Page](./assets/images/readme-images/home-page-banner-section-1.jpg)
+![Trophy Gold Page](./assets/images/readme/trophy-gold-page.png)
 
 * This feature is a highlight banner where the user can see a travel deal and book the trip by clicking on ' Book now' and it will allow the user to ring the  
   Travel World office.<br>
@@ -134,21 +131,21 @@ Quiz Land website is a seven pages site: Home Page, Quiz 1 Page,  and Thanks Pag
 
 ### Trophy Silver Page
 
-![Trophy Silver Page](./assets/images/readme-images/home-page-top-trips-section.jpg)
+![Trophy Silver Page](./assets/images/readme/trophy-silver-page.png)
 
 * This feature is a cards section where the top travel deals are displayed with information about the city, country, price, hotel name, hotel stars and duration of stay (number of days and nights). The card has a button where the user can book. When the user hovers over this, the box-shadow changes.<br>
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#top-trips)
 
 ### Trophy Bronze Page
 
-![Trophy Bronze Page](./assets/images/readme-images/home-page-banner-section-2.jpg)
+![Trophy Bronze Page](./assets/images/readme/trophy-bronze-page.png)
 
 * This feature has the same purpose as the Top Trip Section. A modification to this section is when the user hovers over the card the user can zoom in on the image.<br>
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#banner-maldivas)
 
 ### Height Scores Page
 
-![Height Scores Page](./assets/images/readme-images/home-page-city-trips-section.jpg)
+![Height Scores Page](./assets/images/readme/scores-page.png)
 
 * This feature has the same purpose as the Top Trip Section. The difference  is when the card is hovered by the user the image zoom in.<br>
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#city-trips)
