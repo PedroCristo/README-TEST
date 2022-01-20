@@ -3,7 +3,7 @@
 # Introduction
 Project milestone 2 for Code Institute Full-stack development program: JavaScript Essentials.
 
-This project is a quiz game using JavaScript Essentials. Users can play 3 different quiz games choosing different topics. Also they will be allowed to save their usernames on the High Scores board. 
+Quiz Land is a quiz game that allows players to test their knowledge in different topics. In Quiz Land are available 3 differents quizzes and has 10 questions for each topic and if they could answer the question correctly they will receive points. Quiz Land is a good way to have fun and also learn while playing a game.
 
 [Live Project Here](https://pedrocristo.github.io/portfolio_project_1/index.html)
 
@@ -51,12 +51,12 @@ This project is a quiz game using JavaScript Essentials. Users can play 3 differ
 
 * As a website creator, I want to:
   
-1. Build a website that is visually appealing from the user’s first visit so they are intrigued to explore and play the game.
+1. Build a online quiz that is visually appealing from the user’s first visit so they are intrigued to explore and play the game.
 2. Build an easy to navigate and play the game for its users.
    
 * As a new visitor, I want to:
 
-1. Understand the main purpose of the game.
+1. be able to understand the main purpose of the game.
 2. Be able to easily navigate throughout the game and choose a quiz to play.
 3. Be able to easily access to the game social media pages.
    
@@ -64,30 +64,40 @@ This project is a quiz game using JavaScript Essentials. Users can play 3 differ
 
 1. Be able to find new quizzes when they will be available.
 2. Be able to check the Height Scores page
+3. be able to challenge myself and improve on my scores.
    
 ## Design
 
+### Wireframe
+In this project I decided to build a prototype, using the tool Canva, before start work on the code. It was helpful for UI perspective as I could display the different elements 
+in the screen and worked with them with the objective to build an application that would be easily used by the user.
+[Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
+
 ### Website Structure
-Quiz Land website is a seven pages site: Home Page, Quiz 1 Page,  and Thanks Page. The default loading page is the Landing Page and it is linked to the Home Page by a button. The Home Page has 8 sections: (1) Trust, (2) About, (3) Banner Bali, (4) Top Trips, (5) Banner Maldives, (6) City Breaks, (7) Partners and Footer. This page, is linked to all the pages in the website by the Navigation Menu on the top. The Contact Page has the Menu at the top and 3 sections: (1) Contact Form, (2) Partners (3) Footer. The Thanks Page has two sections: (1) 'Thanks' message and (2) Footer.
+The Quiz Land is a seven pages website has been designed to look like an application in small devices.
+#### Pages:
+Homepage
+Quiz 1 
+Game End 
+Trophy Gold 
+Trophy Silver
+Trophy Bronze
+HigH Scores
 
 #### Colour Scheme
- ![Color Scheme](./assets/images/readme/color-pallete.png)
- There are four main colours used: (1 ) white (#ffffff), (2) a variation of white (#faebd7), (3) an orange tone (#f84f0d) and (4) a black (#111111). The white is used for the main website background, the black is used for text while the orange represents a colour tone that can be seen in the logo, titles and icons. When the user hovers, the white variation (#faebd7) is used for the button background.
- In the Footer Section I used a linear gradient as background using four main colours and orientation of 258 degrees.
+ ![Color Scheme](./assets/images/readme/color-pallete.png)<br>
+ The main colour scheme I chosen for this project is overall blue tones and purple with a darker colour for maximum user accessibility. I have choose a green color as interactive-color to make contrats with the background.
 
 #### Typography
 * The Roboto, sans-serif is used as the main font for the whole website.
       
 #### Imagery
 * 3 background images were used for the game pages.
-* 1 was used for the Favicon.
+* 1 image was used for the Favicon.
   
 ### Interactive Links  
 * At the bottom of the Home page, users can access the game social media links (Facebook and Instagram). Once these icons are clicked they are opened in a new tab. 
   
-### Wireframe
-[Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
-
 ## Features
 
 ### Home Page 
