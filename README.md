@@ -111,12 +111,13 @@ The Quiz Land is a seven pages website has been designed to look like an applica
 
 #### Side Navigation Menu Desktop
 ![Side Navigation Menu](./assets/images/readme/desktop-side-menu.png)
-* At the top of the website, users can find a fixed navigation menu that is fully responsive in all devices. In this navigation menu users can navigate to the different pages in the website. They can also see the Travel World logo on the left side. <br>
+* At the top right of the website, users can find a hamburger menu that is fully responsive in all devices. In this navigation menu users can navigate to the different quizzes and also check the High Scores board.<br>
   #### Side Navigation Menu Tablet
 ![Side Navigation Menu Tablet](./assets/images/readme/tablet-side-menu.png)<br>
   #### Navigation Menu Mobile
 ![Side Navigation Menu mobile](./assets/images/readme/mobile-side-menu.png)
   #### Navigation Menu Day/Night Mode
+  * Menu Day/Night Mode. From 8am to 8pm users will access to the navigation menu when open in day moda (background-color white), from 8pm to 8am users will access to the same menu in night mode (background-color black).
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
 
