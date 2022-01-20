@@ -76,8 +76,7 @@ in the screen and worked with them with the objective to build an application th
 ### Website Structure
 The Quiz Land is a seven pages website has been designed to look like an application in small devices.
 #### Pages:
-* Homepage<br>
-  When thee users reach the website, they are instantly greeted on the Homepage and they have access to the button where to start playing instantly. Also there is a sidebar opening by pressing the hamburger icon on the top right here users can start to play  but also choosing a different quiz or just check the High Scores bord. On the bottom right side the players can access to the game official social media pages.
+* Homepage
 * Quiz 1 
 * Game End 
 * Trophy Gold 
@@ -105,8 +104,8 @@ The Quiz Land is a seven pages website has been designed to look like an applica
 
 ![Home Page](./assets/images/readme/home-page.png)
 
-* The Landing Page is the first contact that users have with this website. This page works as a cover with a video playing in the background. It also features text used as a marketing slogan to retain the users engagement with the website. When clicked, this button drives the viewers to the homepage.  <br>
-[Live Page Here](https://pedrocristo.github.io/portfolio_project_1/index.html)
+* When thee users reach the website, they are instantly greeted on the Homepage and they have access to the button where to start playing instantly. Also there is a sidebar opening by pressing the hamburger icon on the top right here users can start to play  but also choosing a different quiz or just check the High Scores bord. On the bottom right side the players can access to the game official social media pages.<br>
+[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
 
 ### Navigation Menu
 
@@ -117,7 +116,9 @@ The Quiz Land is a seven pages website has been designed to look like an applica
 ![Side Navigation Menu Tablet](./assets/images/readme/tablet-side-menu.png)<br>
   #### Navigation Menu Mobile
 ![Side Navigation Menu mobile](./assets/images/readme/mobile-side-menu.png)
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html)
+  #### Navigation Menu Day/Night Mode
+![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
+[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
 
 ### Quiz Game 1
 
