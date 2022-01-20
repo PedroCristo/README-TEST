@@ -70,19 +70,19 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
 
 ### Wireframe
 In this project I decided to build a prototype, using the tool Canva, before start work on the code. It was helpful for UI perspective as I could display the different elements 
-in the screen and worked with them with the objective to build an application that would be easily used by the user.
+in the screen and worked with them with the objective to build an application that would be easily used by the users.<br>
 [Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
 
 ### Website Structure
 The Quiz Land is a seven pages website has been designed to look like an application in small devices.
 #### Pages:
-Homepage
-Quiz 1 
-Game End 
-Trophy Gold 
-Trophy Silver
-Trophy Bronze
-HigH Scores
+* Homepage
+* Quiz 1 
+* Game End 
+* Trophy Gold 
+* Trophy Silver
+* Trophy Bronze
+* HigH Scores
 
 #### Colour Scheme
  ![Color Scheme](./assets/images/readme/color-pallete.png)<br>
