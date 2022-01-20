@@ -76,7 +76,7 @@ in the screen and worked with them with the objective to build an application th
 ### Website Structure
 The Quiz Land is a seven pages website has been designed to look like an application in small devices.
 #### Pages:
-* Homepage
+* Homepage<br>
   When thee users reach the website, they are instantly greeted on the Homepage and they have access to the button where to start playing instantly. Also there is a sidebar opening by pressing the hamburger icon on the top right here users can start to play  but also choosing a different quiz or just check the High Scores bord. On the bottom right side the players can access to the game official social media pages.
 * Quiz 1 
 * Game End 
