@@ -70,7 +70,7 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
 ## Design
 
 ### Wireframe
-In this project I decided to build a prototype using the tool Canva before start work on the code. It was helpful for UI perspective as I could display the different elements 
+In this project I decided to build a prototype using the tool Canva before start work on the code. It was helpful for UX perspective as I could display the different elements 
 in the screen and worked with them with the objective to build an application that would be easily used by the users.<br>
 [Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
 
@@ -150,43 +150,41 @@ The topic of the questions in the quiz 1 is Sports. <br>
 ![Game End Page](./assets/images/readme/game-end-page.png)
 
 * Game End feature is the page that users go after a quiz is finished. Here the players can see the last score and save their usernames.<br>
-[Live Feature Here](pages/game-end.html)
+[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-end.html)
 
 ### Trophy Gold Page
 
 ![Trophy Gold Page](./assets/images/readme/trophy-gold-page.png)
 
-* This feature is a highlight banner where the user can see a travel deal and book the trip by clicking on ' Book now' and it will allow the user to ring the  
-  Travel World office.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#banner-bali)
+* After user save the game and if they score 250 they be brought to this feature to get the gold medal.<br>
+[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-gold.html)
 
 ### Trophy Silver Page
 
 ![Trophy Silver Page](./assets/images/readme/trophy-silver-page.png)
 
-* This feature is a cards section where the top travel deals are displayed with information about the city, country, price, hotel name, hotel stars and duration of stay (number of days and nights). The card has a button where the user can book. When the user hovers over this, the box-shadow changes.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#top-trips)
+* After user save the game and if they score 225 they be brought to this feature to get the silver medal.<br>
+[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-silver.html)
 
 ### Trophy Bronze Page
 
 ![Trophy Bronze Page](./assets/images/readme/trophy-bronze-page.png)
 
-* This feature has the same purpose as the Top Trip Section. A modification to this section is when the user hovers over the card the user can zoom in on the image.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#banner-maldivas)
+* After user save the game and if they score 200 they be brought to this feature to get the bronze medal.<br>
+[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-bronze.html)
 
 ### Height Scores Page
 
 ![Height Scores Page](./assets/images/readme/scores-page.png)
 
-* This feature has the same purpose as the Top Trip Section. The difference  is when the card is hovered by the user the image zoom in.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#city-trips)
+* In the High Scores feature users can check the best scores made by the players.<br>
+[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/scores.html)
 
 ## Future Features
   
-### Customer Review Section
+### Progress Bar Right/Wrong Answers
 
-* Add a Customer Review Section in the Home page. This would allow users to offer suggestions on how to improve the website and display customers' experiences and their opinions of Travel World.
-
+* I am planning to add a two progress bar, one to show the right answers and another one to show the wrong answers.
 
 ## Technologies Used
 
@@ -206,10 +204,14 @@ The topic of the questions in the quiz 1 is Sports. <br>
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub:](https://github.com/)
     * GitHub is used to store the project's code after being pushed from Git.
+* [VSCode:](https://code.visualstudio.com/)
+    * VSCode was used to create and edit the website.
+* [Mobile Simulator:](ttps://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+    * Mobile Simulater was used to test the website on a mobile device.
 * [PIXLR:](https://pixlr.com/pt/)
     * PIXLR was used to create, modify and resize all images on this website.
 * [Canva](https://www)
-   * Canva was used to create the the 3 background images and also the Favicon
+   * Canva was used to create wireframe, the 3 background images and also the Favicon.
   
 ## Testing
 
@@ -315,8 +317,8 @@ The website development was created in the "main" branch. This branch was deploy
 ## Content
 
 * All the questions provide in the game  were taken from 2 online quizzes.
-* [Lovatts & Puzzles](https://lovattspuzzles.com/online-puzzles-competitions/ultimate-online-trivia-quiz/).
-* [Lovatts & Puzzles](https://lovattspuzzles.com/online-puzzles-competitions/ultimate-online-trivia-quiz/).
+* [Lovatts & Puzzles](https://lovattspuzzles.com/).
+* [Britannica Quiz](https://www.britannica.com/).
 
   
 ## Special Thanks
