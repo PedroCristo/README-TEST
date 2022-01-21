@@ -184,7 +184,7 @@ The topic of the questions in the quiz 1 is Sports. <br>
   
 ### Progress Bar Right/Wrong Answers
 
-* I am planning to add a two progress bar, one to show the right answers and another one to show the wrong answers.
+* I am planning to add a feature with two progress bar, one to show the number of right answers and another one to show number of the wrong answers made in the last game played.
 
 ## Technologies Used
 
@@ -217,8 +217,22 @@ The topic of the questions in the quiz 1 is Sports. <br>
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Website Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_1%2Findex.html)
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Website Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+#### [W3C Markup Validator](https://validator.w3.org) - 
+* [HomePage Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Findex.html)
+* [Game 1 Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-1.html)
+* [Game 2 Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-2.html)
+* [Game 3 Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-3.html)
+* [Game End Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-end.html)
+* [Trophy Gold Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Ftrophy-gold.html)
+* [Trophy Silver Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Ftrophy-silver.html)
+* [Trophy Bronze Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Ftrophy-bronze.html)
+* [High Scores Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fscores.html)
+  
+
+#### [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
+* [Main CSS Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+* [Responsive CSS Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fresponsive.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  
 
 Google Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices.
 
