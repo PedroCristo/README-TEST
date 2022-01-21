@@ -112,13 +112,16 @@ The Quiz Land is a seven pages website has been designed to look like an applica
 #### Side Navigation Menu Desktop
 ![Side Navigation Menu](./assets/images/readme/desktop-side-menu.png)
 * At the top right of the website, users can find a hamburger menu that is fully responsive in all devices. In this navigation menu users can navigate to the different quizzes and also check the High Scores board.<br>
+* 
   #### Side Navigation Menu Tablet
 ![Side Navigation Menu Tablet](./assets/images/readme/tablet-side-menu.png)<br>
+
   #### Navigation Menu Mobile
 ![Side Navigation Menu mobile](./assets/images/readme/mobile-side-menu.png)
+
   #### Navigation Menu Day/Night Mode
-  * Menu Day/Night Mode. From 8am to 8pm users will access to the navigation menu when open in day moda (background-color white), from 8pm to 8am users will access to the same menu in night mode (background-color black).
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
+  * Menu Day/Night Mode. From 8am to 8pm users will access to the navigation menu when open in day mode (background-color white), from 8pm to 8am users will access to the same menu in night mode (background-color black).
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
 
 ### Quiz Game 1
@@ -240,15 +243,14 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
 * Pages all load correctly on all device screen sizes.
 * All social media links work correctly and open on a new tab.
 * All the buttons are working correctly and bring the users to the function that they were built for.
+* The game is working correctly the question came in the right time and it gives a reply back to the user after it answering. 
+* The score has no issues and it increments 25 points any time the user gives a right anwser. 
+* The progress bar and question counter have also no issues and increment background color (from 0% to 100%) and the number of question any time the user choose a anwser.
 
 
    ## Bugs
 
 * I was unable to add padding to the arrow default in the form select.
-
-   ## Website Development Issues
-
-* At the initial stages of my project, I made an error when using Git Commit. Following my first call with my mentor he clarified how to do it and I have followed his recommended approach.
 
 ## Deployment of This Project
 
