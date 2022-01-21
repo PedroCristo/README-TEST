@@ -53,12 +53,13 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
   
 1. Build a online quiz that is visually appealing from the user’s first visit so they are intrigued to explore and play the game.
 2. Build an easy to navigate and play the game for its users.
+3. Build a quiz that is both enjoyable and challenging for the user.
    
 * As a new visitor, I want to:
 
 1. be able to understand the main purpose of the game.
 2. Be able to easily navigate throughout the game and choose a quiz to play.
-3. Be able to easily access to the game social media pages.
+3. Be able to see my results after playing the game.
    
 * As a returning visitor, I want to:
 
@@ -69,20 +70,22 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
 ## Design
 
 ### Wireframe
-In this project I decided to build a prototype, using the tool Canva, before start work on the code. It was helpful for UI perspective as I could display the different elements 
+In this project I decided to build a prototype using the tool Canva before start work on the code. It was helpful for UI perspective as I could display the different elements 
 in the screen and worked with them with the objective to build an application that would be easily used by the users.<br>
 [Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
 
 ### Website Structure
-The Quiz Land is a seven pages website has been designed to look like an application in small devices.
+The Quiz Land is a nine pages website has been designed to look like an application in small devices.
 #### Pages:
 * Homepage
-* Quiz 1 
+* Quiz 1/Sports
+* Quiz 2/History
+* Quiz 3/Geography
 * Game End 
 * Trophy Gold 
 * Trophy Silver
 * Trophy Bronze
-* HigH Scores <br>
+* High Scores <br>
 
 #### Colour Scheme
  ![Color Scheme](./assets/images/readme/color-pallete.png)<br>
@@ -92,7 +95,7 @@ The Quiz Land is a seven pages website has been designed to look like an applica
 * The Roboto, sans-serif is used as the main font for the whole website.
       
 #### Imagery
-* 3 background images were used for the game pages.
+* 3 images were used as a background for the website pages.
 * 1 image was used for the Favicon.
   
 ### Interactive Links  
@@ -122,20 +125,32 @@ The Quiz Land is a seven pages website has been designed to look like an applica
   #### Navigation Menu Day/Night Mode
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
   * Menu Day/Night Mode. From 8am to 8pm users will access to the navigation menu when open in day mode (background-color white), from 8pm to 8am users will access to the same menu in night mode (background-color black).
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
 
-### Quiz Game 1
+### Quiz Game 1/Sports
 
 ![Quiz Game 1](./assets/images/readme/quiz-page.png)
-* In this feature users can see a travel image as a background followed by some services provided by the company. It is advertising cost savings to the user by booking a trip with Travel World. <br>
-[Live Page Here](https://pedrocristo.github.io/portfolio_project_1/home.html)
+* In this feature is where all the game happens. Here the users will see the questions and 4 choices as answers. The player will choose one and will see if the answer given is right or wrong. 
+The topic of the questions in the quiz 1 is Sports. <br>
+[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-1.html)
+
+### Quiz Game 2/History
+
+![Quiz Game 2](./assets/images/readme/quiz-page.png)
+* This feature has the same purpose as the Quiz 1 but here the questions topic is History. <br>
+[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-2.html)
+
+### Quiz Game 3/Geography
+
+![Quiz Game 3](./assets/images/readme/quiz-page.png)
+* This feature has the same purpose as the Quiz 1 and Quiz 2 but here the questions topic is Georaphy. <br>
+[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-3.html)
 
 ### Game End Page
 
 ![Game End Page](./assets/images/readme/game-end-page.png)
 
-* In this feature users have access to information about the company, for example the company's main purpose, its history, mission statement, and also the benefits of working for Travel World. <br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_1/home.html#about-section)
+* Game End feature is the page that users go after a quiz is finished. Here the players can see the last score and save their usernames.<br>
+[Live Feature Here](pages/game-end.html)
 
 ### Trophy Gold Page
 
