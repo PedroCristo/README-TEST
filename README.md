@@ -264,8 +264,9 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
     * Apple iPhone 6/7/8 Plus (414px x 736px)
     * Apple iPhone X (375px x 812px)
     * 
-### Google Lighthouse 
-was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices. 
+### Lighthouse 
+
+ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices. 
 
 * Desktop Results:
 
@@ -332,6 +333,9 @@ The website development was created in the "main" branch. This branch was deploy
 * [W3Schools](https://www.w3schools.com/).
 
 * [Stack Overflow](https://stackoverflow.com/).
+  
+  The JavaScript code for the Fancy Text Animation used in the Homepage was taken from this tutorial
+* [Dev ED](https://www.youtube.com/watch?v=GUEB9FogoP8)
   
 
 ## Content
