@@ -212,19 +212,19 @@ On the top right the users can check any time what quiz they are on [6].
 
 ### Frameworks - Libraries - Programs Used
 
-* [Google Fonts:](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/)
    * Google fonts were used to import the 'Roboto' font throughout the style.css.
-* [Font Awesome:](https://fontawesome.com/)
+* [Font Awesome](https://fontawesome.com/)
     * Font Awesome are used as an icons for user UX purposes.
 * [Git](https://git-scm.com/)
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-* [GitHub:](https://github.com/)
+* [GitHub](https://github.com/)
     * GitHub is used to store the project's code after being pushed from Git.
-* [VSCode:](https://code.visualstudio.com/)
+* [VSCode](https://code.visualstudio.com/)
     * VSCode was used to create and edit the website.
-* [Mobile Simulator:](ttps://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+* [Mobile Simulator](ttps://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
     * Mobile Simulater was used to test the website on a mobile device.
-* [PIXLR:](https://pixlr.com/pt/)
+* [PIXLR](https://pixlr.com/pt/)
     * PIXLR was used to create, modify and resize all images on this website.
 * [Canva](https://www)
    * Canva was used to create wireframe, the 3 background images and also the Favicon.
