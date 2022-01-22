@@ -291,11 +291,11 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
 
 
 ## Bugs 
-* Text Overlaping Mobile Devices
+#### Text Overlaping Mobile Devices
 ![Text Overlaping Mobile Devices](./assets/images/readme/quiz-land-mobile-issue.jpeg)
 * I had this issue on my project when I build the the layout for the Quiz Page as they are many elements in the same page.<br>
 
-* Fix Bug
+#### Fix Bug
 ![Fix Bug](./assets/images/readme/quiz-land-bug-mobile-fixed.png)
 * I had to add media queries for portrait and landscape to avoid this issue to happen.<br>
 
