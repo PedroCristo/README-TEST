@@ -334,8 +334,8 @@ The website development was created in the "main" branch. This branch was deploy
 
 * [Stack Overflow](https://stackoverflow.com/).
   
-  The JavaScript code for the Fancy Text Animation used in the Homepage was taken from this tutorial
-* [Dev ED](https://www.youtube.com/watch?v=GUEB9FogoP8)
+* The JavaScript code for the Fancy Text Animation used in the Homepage was taken from follow tutorial:<br>[Dev ED](https://www.youtube.com/watch?v=GUEB9FogoP8)
+
   
 
 ## Content
