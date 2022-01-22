@@ -34,13 +34,11 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
     * [Trophy Bronze Page](#trophy-bronze-page)
     * [High Scores Page](#hign-scores-page)
 * [Future Features](#future-features)
-    * [Progress Bar Right/Wrong Answers](#progress-Bar-right/wrong-answers)
 * [How to Play](#how-to-play)
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
     * [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
 * [Testing](#testing)
-    * [Bugs](#bugs)
 * [Deployment](#deployment-this-project)
     * [Deployment This Project](#deployment-this-project)
     * [Forking This Project](#forking-this-project)
@@ -176,9 +174,9 @@ The topic of the questions in the quiz 1 is Sports. <br>
 * After user save the game and if they score 200 they be brought to this feature to get the bronze medal.<br>
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-bronze.html)
 
-### Height Scores Page
+### High Scores Page
 
-![Height Scores Page](./assets/images/readme/scores-page.png)
+![HighScores Page](./assets/images/readme/scores-page.png)
 
 * In the High Scores feature users can check the best scores made by the players.<br>
 [Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/scores.html)
