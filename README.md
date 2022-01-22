@@ -25,7 +25,7 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
 * [Features](#features)  
     * [Home Page](#home-page) 
     * [Navigation Menu](#navigation-menu)
-    * [Quiz Game 1/Sports](#quiz-game-1-/-sports)
+    * [Quiz Game 1 - Sports](#quiz-game-1---sports)
     * [Quiz Game 2/History](#quiz-game-2/history)
     * [Quiz Game 3/Geography](#quiz-game-3/geography)
     * [Game End Page](#game-end-page) 
@@ -81,9 +81,9 @@ in the screen and worked with them with the objective to build an application th
 The Quiz Land is a nine pages website has been designed to look like an application in small devices.
 #### Pages:
 * Homepage
-* Quiz 1/Sports
-* Quiz 2/History
-* Quiz 3/Geography
+* Quiz 1 - Sports
+* Quiz 2 - History
+* Quiz 3 - Geography
 * Game End 
 * Trophy Gold 
 * Trophy Silver
