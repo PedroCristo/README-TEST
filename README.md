@@ -186,6 +186,13 @@ The topic of the questions in the quiz 1 is Sports. <br>
 
 * I am planning to add a feature with two progress bar, one to show the number of right answers and another one to show number of the wrong answers made in the last game played.
 
+## How To Play
+![How To Play](./assets/images/readme/quiz-page-how-play.png)
+*The player has 3 different quizzes in the game. For each quiz the user will see the question on the top center [2] and are available
+4 choices [3], the player has to choose one of the choices and if the answer is right will win 25 points. The score will be displayed on the bottom right[5]. 
+While the game is going on, users can see the progress bar [1] updating any time they answer a question so as the question counter [4] on the bottom left.
+On the top right the users can check any time what quiz they are on [6].
+
 ## Technologies Used
 
 ### Languages Used 
@@ -291,11 +298,11 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
 
 
 ## Bugs 
-#### Text Overlaping Mobile Devices
+### Text Overlaping Mobile Devices
 ![Text Overlaping Mobile Devices](./assets/images/readme/quiz-land-mobile-issue.jpeg)
 * I had this issue on my project when I build the the layout for the Quiz Page as they are many elements in the same page.<br>
 
-#### Fix Bug
+### Fix Bug
 ![Fix Bug](./assets/images/readme/quiz-land-bug-mobile-fixed.png)
 * I had to add media queries for portrait and landscape to avoid this issue to happen.<br>
 
