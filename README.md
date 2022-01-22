@@ -222,7 +222,7 @@ On the top right the users can check any time what quiz they are on [6].
     * GitHub is used to store the project's code after being pushed from Git.
 * [VSCode](https://code.visualstudio.com/)
     * VSCode was used to create and edit the website.
-* [Mobile Simulator](ttps://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+* [Mobile Simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
     * Mobile Simulater was used to test the website on a mobile device.
 * [PIXLR](https://pixlr.com/pt/)
     * PIXLR was used to create, modify and resize all images on this website.
