@@ -230,13 +230,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * [High Scores](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fscores.html)
   
 
-#### [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
+### [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
 #### Results:
 * [Main CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 * [Responsive CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fresponsive.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   
-
-Google Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices.
 
 The testing was done using the Google Chrome Browser. Chrome Developer Tools was used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox on desktop, and again on Google Chrome and Opera on the Huawei P20.
 
@@ -247,11 +245,14 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
     * BlackBerry Z30 (360px x 640px)  
     * BlackBerry PlayBook (600px x 1024px)  
     * Samsung Galaxy Note 3 (360px x 640px) 
-    * Samsung Galaxy S3 (360px x 640px)   
+    * Samsung Galaxy S3 (360px x 640px) 
+    * Samsung Galaxy S8 (360px x 740px)   
     * Samsung Galaxy S9+(320px x 658px) 
+    * Samsung Galaxy Tab S4(712px x 1138px) 
     * LG Optimus L70 (384px x 640px)
     * Microsoft Lumia 550 (640px x 360px) 
     * Microsoft Lumia 950 (360px x 640px) 
+    * Motorola G4 (360px x 640px)
     * Nexus 4 (384px x 640px) 
     * Nokia Lumia 520 (320px x 533px) 
     * Nokia N9 (480px x 854px) 
@@ -262,14 +263,17 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
     * Apple iPhone 6/7/8 (375px x 667px)
     * Apple iPhone 6/7/8 Plus (414px x 736px)
     * Apple iPhone X (375px x 812px)
+    * 
+### Google Lighthouse 
+was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices. 
 
 * Desktop Results:
 
-  ![Lighthouse Destop Result](./assets/images/readme-images/travel-world-lighthouse-desktop-results.jpg).
+  ![Lighthouse Destop Result](./assets/images/readme/lighthouse_desktop_result.jpg).
 
 * Mobile Results:
 
-  ![Lighthouse Mobile Result](./assets/images/readme-images/travel-world-lighthouse-mobile-results.jpg).
+  ![Lighthouse Mobile Result](./assets/images/readme/lighthouse_mobile_result.jpg).
 
    ## Functionality
 * All links have been hovered and clicked to ensure accessibility.
