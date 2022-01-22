@@ -234,6 +234,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 #### Results:
 * [Main CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 * [Responsive CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fresponsive.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### [Jshint](https://jshint.com/)
+
+![Jshint Result](./assets/images/readme/jshint_result.jpg).
   
 
 The testing was done using the Google Chrome Browser. Chrome Developer Tools was used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox on desktop, and again on Google Chrome and Opera on the Huawei P20.
@@ -330,13 +334,11 @@ The website development was created in the "main" branch. This branch was deploy
 
 ### Information Sources/Resources
 
-* [W3Schools](https://www.w3schools.com/).
+* [W3Schools](https://www.w3schools.com/)
 
-* [Stack Overflow](https://stackoverflow.com/).
+* [Stack Overflow](https://stackoverflow.com/)
   
-* The JavaScript code for the Fancy Text Animation used in the Homepage was taken from follow tutorial:<br>[Dev ED](https://www.youtube.com/watch?v=GUEB9FogoP8)
-
-  
+* The JavaScript code for the Fancy Text Animation used in the Homepage was taken from follow the tutorial:<br>[Dev ED](https://www.youtube.com/watch?v=GUEB9FogoP8)
 
 ## Content
 
