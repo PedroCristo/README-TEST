@@ -188,10 +188,18 @@ The topic of the questions in the quiz 1 is Sports. <br>
 
 ## How To Play
 ![How To Play](./assets/images/readme/quiz-page-how-play.png)
-*The player has 3 different quizzes in the game. For each quiz the user will see the question on the top center [2] and are available
+* The player has 3 different quizzes in the game. For each quiz the user will see the question on the top center [2] and are available
 4 choices [3], the player has to choose one of the choices and if the answer is right will win 25 points. The score will be displayed on the bottom right[5]. 
-While the game is going on, users can see the progress bar [1] updating any time they answer a question so as the question counter [4] on the bottom left.
+While the game is going on, users can see the progress bar updating any time they answer a question [1] so as the question counter on the bottom left [4] .
 On the top right the users can check any time what quiz they are on [6].
+
+#### Right Answer
+![Right Answer](./assets/images/readme/quiz-land-right-answer.png)
+* 
+
+#### Wrong Answer
+![Wrong Answer](./assets/images/readme/quiz-land-wrong-page.png)
+* 
 
 ## Technologies Used
 
