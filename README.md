@@ -195,11 +195,11 @@ On the top right the users can check any time what quiz they are on [6].
 
 #### Right Answer
 ![Right Answer](./assets/images/readme/quiz-land-right-answer.png)
-* 
+* When the user answers the question right will see a message the "Right Answer" on the top center [7] and the background color on the choice will turn green [8].
 
 #### Wrong Answer
-![Wrong Answer](./assets/images/readme/quiz-land-wrong-page.png)
-* 
+![Wrong Answer](./assets/images/readme/quiz-land-wrong-answer.png)
+* When the user answers the question wrong will see a message the "Wrong Answer" on the top center [9] and the background color on the choice will turn red [10].
 
 ## Technologies Used
 
