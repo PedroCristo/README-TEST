@@ -280,7 +280,7 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
 
   ![Lighthouse Mobile Result](./assets/images/readme/lighthouse_mobile_result.jpg).
 
-   ## Functionality
+## Functionality
 * All links have been hovered and clicked to ensure accessibility.
 * Pages all load correctly on all device screen sizes.
 * All social media links work correctly and open on a new tab.
@@ -290,9 +290,13 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
 * The progress bar and question counter have also no issues and increment background color (from 0% to 100%) and the number of question any time the user choose a anwser.
 
 
-   ## Bugs
-
-* I was unable to add padding to the arrow default in the form select.
+## Bugs 
+#### Text Overlaping Mobile Devices
+(./assets/images/readme/quiz-land-mobile-issue.jpeg)
+* I had this issue on my project when I build the the layout for the Quiz Page as they are many elements in the same page.
+#### Fix Bug
+(./assets/images/readme/quiz-land-bug-mobile-fixed.png)
+* I had to add media queries for portrait and landscape to avoid this issue to happen.
 
 ## Deployment of This Project
 
