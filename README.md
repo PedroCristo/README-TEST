@@ -26,8 +26,8 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
     * [Home Page](#home-page) 
     * [Navigation Menu](#navigation-menu)
     * [Quiz Game 1 - Sports](#quiz-game-1---sports)
-    * [Quiz Game 2/History](#quiz-game-2/history)
-    * [Quiz Game 3/Geography](#quiz-game-3/geography)
+    * [Quiz Game 2 - History](#quiz-game-2---history)
+    * [Quiz Game 3 - Geography](#quiz-game-3---geography)
     * [Game End Page](#game-end-page) 
     * [Trophy Gold Page](#trophy-gold-page)
     * [Trophy Silver Page](#trophy-silver-page)
@@ -129,20 +129,20 @@ The Quiz Land is a nine pages website has been designed to look like an applicat
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
   * Menu Day/Night Mode. From 8am to 8pm users will access to the navigation menu when open in day mode (background-color white), from 8pm to 8am users will access to the same menu in night mode (background-color black).
 
-### Quiz Game 1/Sports
+### Quiz Game 1 - Sports
 
 ![Quiz Game 1](./assets/images/readme/quiz-page.png)
 * In this feature is where all the game happens. Here the users will see the questions and 4 choices as answers. The player will choose one and will see if the answer given is right or wrong. 
 The topic of the questions in the quiz 1 is Sports. <br>
 [Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-1.html)
 
-### Quiz Game 2/History
+### Quiz Game 2 - History
 
 ![Quiz Game 2](./assets/images/readme/quiz-page.png)
 * This feature has the same purpose as the Quiz 1 but here the questions topic is History. <br>
 [Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-2.html)
 
-### Quiz Game 3/Geography
+### Quiz Game 3 - Geography
 
 ![Quiz Game 3](./assets/images/readme/quiz-page.png)
 * This feature has the same purpose as the Quiz 1 and Quiz 2 but here the questions topic is Georaphy. <br>
