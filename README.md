@@ -16,12 +16,8 @@ The main goal of the game is to guess letters or the full word that the computer
 * [Introduction](#introduction)
 * [User Experience UX](#user-experience---UX)
 * [Design](#Design)
-    * [Wireframe](#Wireframe)
-    * [Website Structure](#website-structure)
-    * [Colour Scheme](#colour-scheme)
-    * [Imagery](#Imagery)
+    * [Flow](#Wireframe)
     * [Typography](#typography)
-    * [interactive Links](#interactive-links) 
   
 * [Features](#features)  
     * [Home Page](#home-page) 
@@ -69,22 +65,9 @@ The main goal of the game is to guess letters or the full word that the computer
    
 ## Design
 
-### Wireframe
+### Flow
 In this project I decided to build a prototype using the tool Canva before starting work on the code. It was helpful from an UX perspective as I could display the different elements in the screen and work with them with the objective of building an application that would be easily used by the users.<br>
 [Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
-
-### Website Structure
-The Quiz Land is a nine page website that has been designed to look like an application in small devices.
-#### Pages:
-* Homepage
-* Quiz 1 - Sports
-* Quiz 2 - History
-* Quiz 3 - Geography
-* Game End 
-* Trophy Gold 
-* Trophy Silver
-* Trophy Bronze
-* High Scores <br>
 
 #### Colour Scheme
  ![Color Scheme](./assets/images/readme/color-pallete.png)<br>
@@ -93,18 +76,11 @@ The Quiz Land is a nine page website that has been designed to look like an appl
 #### Typography
 * The Roboto, sans-serif is used as the main font for the whole website.
       
-#### Imagery
-* 3 images were used as a background for the website pages.
-* 1 image was used for the Favicon.
-  
-### Interactive Links  
-* At the bottom of the Home page, users can access the game's social media links (Facebook and Instagram). Once these icons are clicked they open a new tab. 
-  
 ## Features
 
-### Home Page 
+### Logo and Intro Message
 
-![Home Page](./assets/images/readme/home-page.png)
+![Home Page](./assets/images/readme/hangman-feature-1.jpg)
 
 * When the users reach the website, they are instantly greeted on the Homepage and they have access to the button to start playing immmediately. Also there is a sidebar opening by pressing the hamburger icon on the top right, here users can start to play but they can also choose a different quiz or just check the High Scores board. On the bottom right side the players can access the game's official social media pages.<br>
 [Live Page Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
