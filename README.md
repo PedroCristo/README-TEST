@@ -86,19 +86,19 @@ I spent time planning and thiking about the logic behind the game to ensure I ha
 
 ### Ask Player Name and City
 
-![Ask Player Name and Citu](./assets/images/readme/hangman-feature-2.jpg)
+![Ask Player Name and City](./assets/images/readme/hangman-feature-2.jpg)
 * After the player see the intro feature the computer will ask the user's name and city to be adding by input.<br>
 
-#### Input for Name and City Empty
-![ Input for Name and City Empty](./assets/images/readme/hangman-feature-3.jpg)
+#### Empty Input for Name and City
+![Empty Input for Name and City](./assets/images/readme/hangman-feature-3.jpg)
 * If the player is trying to submit an empty input for name and city will see  this alert.<br>
 
 ### Welcome Message and Game Rules
 ![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
 * After the user input the name and city the program will display the welcome message and the game rules. The player just need to press any key to start the game.<br>
 
-### Game Feature
-![Game Feature](./assets/images/readme/hangman-feature-5.jpg)<br>
+### Game Feature 
+![Game Feature](./assets/images/readme/hangman-feature-5.jpg)<br><br>
 This feature is where the main scene happens. Here the user can play and see information about the game: 
 * Numbers of letters choose by the computer. 
 * Stage of the hangman 
@@ -114,59 +114,43 @@ This feature is where the main scene happens. Here the user can play and see inf
 * Currently number of attempts 
 * Input to guess a letter or a full word
 
-### Quiz Game 1 - Sports
+### Hangman Stage 2
 
-![Quiz Game 1](./assets/images/readme/quiz-page.png)
-* All of the game happens in this feature. Here the users will see the questions and they have 4 choices as their answer. The player will choose one and will see if the answer given is right or wrong. 
-The topic questions in Quiz 1 are Sports. <br>
-[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-1.html)
+![Quiz Game 1](./assets/images/readme/hangman-feature-6.jpg)
 
-### Quiz Game 2 - History
+### Hangman Stage 3
 
-![Quiz Game 2](./assets/images/readme/quiz-page.png)
-* This feature has the same purpose as Quiz 1 but here the topic questions are History. <br>
-[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-2.html)
+![Quiz Game 1](./assets/images/readme/hangman-feature-7.jpg)
 
-### Quiz Game 3 - Geography
+### Hangman Stage 4
 
-![Quiz Game 3](./assets/images/readme/quiz-page.png)
-* This feature has the same purpose as Quiz 1 and Quiz 2 but here the topic questions are Georaphy. <br>
-[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-3.html)
+![Quiz Game 1](./assets/images/readme/hangman-feature-8.jpg)
 
-### Game End Page
+### Hangman Stage 5
 
-![Game End Page](./assets/images/readme/game-end-page.png)
+![Quiz Game 1](./assets/images/readme/hangman-feature-9.jpg)
 
-* Game End feature is the page that users go after a quiz is finished. Here the players can see the last score and save their usernames.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/game-end.html)
+### Hangman Stage 6
 
-### Trophy Gold Page
+![Quiz Game 1](./assets/images/readme/hangman-feature-10.jpg)
 
-![Trophy Gold Page](./assets/images/readme/trophy-gold-page.png)
+### Hangman Stage 7
 
-* After the user saves the game and if they score 250 they are brought to this feature to receive the gold medal.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-gold.html)
+![Quiz Game 1](./assets/images/readme/hangman-feature-11.jpg)
 
-### Trophy Silver Page
+### Hangman Stage 8
 
-![Trophy Silver Page](./assets/images/readme/trophy-silver-page.png)
+![Quiz Game 1](./assets/images/readme/hangman-feature-12.jpg)
 
-* After the user saves the game and if they score 225 they are brought to this feature to receive the silver medal.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-silver.html)
+### Hangman Stage 9
 
-### Trophy Bronze Page
+![Quiz Game 1](./assets/images/readme/hangman-feature-13.jpg)
 
-![Trophy Bronze Page](./assets/images/readme/trophy-bronze-page.png)
+### Hangman Stage 10
 
-* After the user saves the game and if they score 200 they are brought to this feature to receive the bronze medal.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/trophy-bronze.html)
+![Quiz Game 1](./assets/images/readme/hangman-feature-14.jpg)
 
-### High Scores Page
 
-![HighScores Page](./assets/images/readme/scores-page.png)
-
-* In the High Scores feature users can check the best scores by the individual players.<br>
-[Live Feature Here](https://pedrocristo.github.io/portfolio_project_2/pages/scores.html)
 
 ## Future Features
   
