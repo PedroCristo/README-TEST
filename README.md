@@ -93,10 +93,11 @@ In this project I decided to build a prototype using the tool Canva before start
 ![ Input for Name and City Empty](./assets/images/readme/hangman-feature-3.jpg)<br>
 * If the player is trying to submit an empty input for name and city will see  this alert.
 
-  #### Navigation Menu Mobile
-![Side Navigation Menu mobile](./assets/images/readme/mobile-side-menu.png)
+### Welcome Message and Game Rules
+![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
+* After the user input the name and city the program will display to the player the welcome message and the game rules.
 
-  #### Navigation Menu Day/Night Mode
+#### Navigation Menu Day/Night Mode
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
   * Menu Day/Night Mode. From 8am to 8pm users can access the navigation menu when open in day mode (background-color white), from 8pm to 8am users can access the same menu in night mode (background-color black).
 
