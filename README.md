@@ -65,13 +65,13 @@ The main goal of the game is to guess letters or the full word that the computer
    
 ## Design
 
-### Flow
-In this project I decided to build a prototype using the tool Canva before starting work on the code. It was helpful from an UX perspective as I could display the different elements in the screen and work with them with the objective of building an application that would be easily used by the users.<br>
-[Live Project Wireframe Here](https://cutt.ly/oIkZsAW)
+### Flowcharts 
+ ![Color Scheme](./assets/images/readme/hangman-flowcharts.jpg)<br>
+I spent time planning and thiking about the logic behind the game to ensure I had a general idea of how it should be built. I created flowcharts to allow me to follow the logic through the application. The charts were generated using https://lucid.app/ Integration and are shown below.<br>
+[Flowcharts ](https://cutt.ly/oIkZsAW)
 
-#### Colour Scheme
- ![Color Scheme](./assets/images/readme/color-pallete.png)<br>
- The main colour scheme I chose for this project is an overall blue tone and purple with a darker colour for maximum user accessibility. I have choosen a green color as an interactive-color to contrast with the background.
+#### Colours
+* The colours in the game are supplied by using the the Python Colorama Model.
 
 #### Typography
 * The Arial is used as the main font for the whole website.
@@ -95,7 +95,7 @@ In this project I decided to build a prototype using the tool Canva before start
 
 ### Welcome Message and Game Rules
 ![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
-* After the user input the name and city the program will display to the welcome message and the game rules. The player just need to press any key to start the game.<br>
+* After the user input the name and city the program will display the welcome message and the game rules. The player just need to press any key to start the game.<br>
 
 #### Navigation Menu Day/Night Mode
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
