@@ -90,12 +90,12 @@ In this project I decided to build a prototype using the tool Canva before start
 * After the player see the intro feature the computer will ask the user's name and city to be adding by input.<br>
 
 #### Input for Name and City Empty
-![ Input for Name and City Empty](./assets/images/readme/hangman-feature-3.jpg)<br>
-* If the player is trying to submit an empty input for name and city will see  this alert.
+![ Input for Name and City Empty](./assets/images/readme/hangman-feature-3.jpg)
+* If the player is trying to submit an empty input for name and city will see  this alert.<br>
 
 ### Welcome Message and Game Rules
 ![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
-* After the user input the name and city the program will display to the player the welcome message and the game rules.
+* After the user input the name and city the program will display to the welcome message and the game rules. The player just need to press any key to start the game.<br>
 
 #### Navigation Menu Day/Night Mode
 ![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
