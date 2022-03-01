@@ -98,7 +98,7 @@ I spent time planning and thiking about the logic behind the game to ensure I ha
 * After the user input the name and city the program will display the welcome message and the game rules. The player just need to press any key to start the game.<br>
 
 ### Game Feature
-![Game Feature](./assets/images/readme/hangman-feature-5.jpg)
+![Game Feature](./assets/images/readme/hangman-feature-5.jpg)<br>
 This feature is where the main scene happens. Here the user can play and see information about the game: 
 * Numbers of letters choose by the computer. 
 * Stage of the hangman 
