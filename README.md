@@ -20,7 +20,7 @@ The main goal of the game is to guess letters or the full word that the computer
     * [Typography](#typography)
   
 * [Features](#features)  
-    * [Home Page](#home-page) 
+    * [Logo and Intro Message](#logo-and-intro-message) 
     * [Navigation Menu](#navigation-menu)
     * [Quiz Game 1 - Sports](#quiz-game-1---sports)
     * [Quiz Game 2 - History](#quiz-game-2---history)
@@ -74,22 +74,20 @@ In this project I decided to build a prototype using the tool Canva before start
  The main colour scheme I chose for this project is an overall blue tone and purple with a darker colour for maximum user accessibility. I have choosen a green color as an interactive-color to contrast with the background.
 
 #### Typography
-* The Roboto, sans-serif is used as the main font for the whole website.
+* The Arial is used as the main font for the whole website.
       
 ## Features
 
 ### Logo and Intro Message
 
-![Home Page](./assets/images/readme/hangman-feature-1.jpg)
+![Logo and Intro Message](./assets/images/readme/hangman-feature-1.jpg)
 
-* When the users reach the website, they are instantly greeted on the Homepage and they have access to the button to start playing immmediately. Also there is a sidebar opening by pressing the hamburger icon on the top right, here users can start to play but they can also choose a different quiz or just check the High Scores board. On the bottom right side the players can access the game's official social media pages.<br>
-[Live Page Here](https://pedrocristo.github.io/portfolio_project_2/index.html)
+* When the users reach the website, they will see this feature where it will be displayed the game logo and the intro message.<br>
 
-### Navigation Menu
+### Ask Player Name and City
 
-#### Side Navigation Menu Desktop
-![Side Navigation Menu](./assets/images/readme/desktop-side-menu.png)
-* At the top right of the website, users can find a hamburger menu that is fully responsive in all devices. In this navigation menu users can navigate to the different quizzes and also check the High Scores board.<br>
+![Ask Player Name and Citu](./assets/images/readme/hangman-feature-2.jpg)
+* After the player see the intro feature the computer will ask the user's name and city to be adding by input.<br>
 * 
   #### Side Navigation Menu Tablet
 ![Side Navigation Menu Tablet](./assets/images/readme/tablet-side-menu.png)<br>
