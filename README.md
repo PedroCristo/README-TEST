@@ -97,9 +97,22 @@ I spent time planning and thiking about the logic behind the game to ensure I ha
 ![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
 * After the user input the name and city the program will display the welcome message and the game rules. The player just need to press any key to start the game.<br>
 
-#### Navigation Menu Day/Night Mode
-![Side Navigation Day/Night Mode](./assets/images/readme/menu-day-night-mode.png)
-  * Menu Day/Night Mode. From 8am to 8pm users can access the navigation menu when open in day mode (background-color white), from 8pm to 8am users can access the same menu in night mode (background-color black).
+### Game Feature
+![Game Feature](./assets/images/readme/menu-day-night-mode.png)
+This feature is where the main scene happens. Here the user can play and see information about the game: 
+* Numbers of letters choose by the computer. 
+* Stage of the hangman 
+* Letters guessed right
+* Letters guessed wrong
+* Curenntly score
+* Curently number of attempts
+* Input to guess a letter or a full word
+* Stage of the hangman 
+* Letters guessed right 
+* Letters guessed wrong 
+* Currently score 
+* Currently number of attempts 
+* Input to guess a letter or a full word
 
 ### Quiz Game 1 - Sports
 
