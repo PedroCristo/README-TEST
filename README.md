@@ -1,14 +1,15 @@
-# Quiz Land - Game
+# Hangman - Game
 
 # Introduction
-Project milestone 2 for Code Institute Full-stack development program: JavaScript Essentials.
+Project milestone 3 for Code Institute Full-stack development program: JavaScript Essentials.
 
-Quiz Land is a quiz game that allows players to test their knowledge in different topics. In Quiz Land there are 3 different quizzes available and it has 10 questions for each topic. If the user can answer the question correctly they will receive points. Quiz Land is a good way to have fun and also to learn while playing a game.
+Hangman is a Python terminal game, with runs in the Code Institute mock terminal on Heroku. 
+The main goal of the game is to guess letters or the full word that the computer randomly selects.
 
-[Live Project Here](https://pedrocristo.github.io/portfolio_project_1/index.html)
+[Live Project Here](https://portfolio-project-3.herokuapp.com/)
 
 
-<p align="center"><img src="./assets/images/readme/quiz-land-responsiveness.png" alt="Quiz Land webpage on multiple devices"></p>
+<p align="center"><img src="./assets/images/readme/hangman-cover.png" alt="Hangman game webpage on multiple devices"></p>
 
 ## README Table Content
 
@@ -52,21 +53,19 @@ Quiz Land is a quiz game that allows players to test their knowledge in differen
 
 * As a website creator, I want to:
   
-1. Build an online quiz that is visually appealing from the user’s first visit so they are intrigued to explore and play the game.
-2. Build an easy to navigate quiz and game for its users to play.
-3. Build a quiz that is both enjoyable and challenging for the user. 
+1. Build an easy app for the users to play the game.
+2. Build a game that is both enjoyable and challenging for the players.
    
 * As a new visitor, I want to:
 
-1. Be able to understand the main purpose of the game.
-2. Be able to easily navigate throughout the game and choose a quiz to play.
-3. Be able to see my results after playing the game.
+1. Be able to understand the main purpose of the App and start a new game. 
+2. Be able to follow along the score, wrong and right letters already guessed and the remaining of available tries while I am playing the game.
+3. Be able to watch my results and other players results on the Leaderboard.
    
 * As a returning visitor, I want to:
 
-1. Be able to find new quizzes when they are available.
-2. Be able to check the Height Scores page
-3. Be able to challenge myself and improve on my scores.
+1. Be able to guess a different word choose by the computer. 
+2. Be able to challenge myself and try to improve on my scores and compare with other users on the leaderboard
    
 ## Design
 
