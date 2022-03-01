@@ -88,9 +88,10 @@ In this project I decided to build a prototype using the tool Canva before start
 
 ![Ask Player Name and Citu](./assets/images/readme/hangman-feature-2.jpg)
 * After the player see the intro feature the computer will ask the user's name and city to be adding by input.<br>
-* 
-  #### Side Navigation Menu Tablet
-![Side Navigation Menu Tablet](./assets/images/readme/tablet-side-menu.png)<br>
+
+#### Input for Name and City Empty
+![ Input for Name and City Empty](./assets/images/readme/hangman-feature-3.jpg)<br>
+* If the player is trying to submit an empty input for name and city will see  this alert.
 
   #### Navigation Menu Mobile
 ![Side Navigation Menu mobile](./assets/images/readme/mobile-side-menu.png)
