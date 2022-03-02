@@ -185,8 +185,9 @@ This feature is where the main scene happens. Here the user can play and see inf
 ![How to Play](./assets/images/readme/hangman-message-back.jpg)<br>
  The player will have to guess the the right word by inputting letters or the full word, chosen by the computer randomly from a list. 
 * When the game starts the player can see how many letters is in the word [1] and the computer will ask the player to input a letter or a word [7].
-* If the player guesses a right letter will see the letter displayed in the word length [3], the hangman stage will remain the same [2] and the score will increase by 25 point [5]
-* If the player guesses a wrong letter will see the letter displayed in the wrong letters guesses [4], the hangman stage will turn to the next stage [2] and the number of attempts will decrease by 1 [6]
+* If the player guesses a right letter will see a message from the compuer [8] the letter guessed displayed in the word length [3], the hangman stage will remain the same [2] and the score will increase by 25 point [5]
+* If the player guesses a wrong letter will see a message from the computer [9] the letter guessed displayed in the wrong letters guesses [4], the hangman stage will turn to the next stage [2] and the number of attempts will decrease by 1 [6]
+* When the player type a not valid input will see a message from the computer [10].
 
 #### Right Answer
 ![Right Answer](./assets/images/readme/quiz-land-right-answer.png)
