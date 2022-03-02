@@ -215,7 +215,7 @@ This feature is where the main scene happens. Here the user can play and see inf
     * VSCode was used to create and edit the website.
 * [Lucidchart](https://lucid.app/)
     * Lucidchart was used to create the flowchart
-  [PEP8](http://pep8online.com/)
+* [PEP8](http://pep8online.com/)
     * The PEP8 was used to validate all the Python code.
 * [Patorjk](https://patorjk.com)
     * Patorjk (ASCII Art Generator) was used to draw the game logos.
@@ -257,22 +257,29 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ## Deployment of This Project
 
-The website development was created in the "main" branch. This branch was deployed using GitHub Pages.
-
 * This site was deployed by completing the following steps:
 
-1. Open [GitHub](https://github.com/).
-2. Click on the project to be deployed.
-3. Navigate to the "Settings".
-4. Navigate down to the "GitHub Pages".
-5. Click on "Check it out here!".
-6. Select the "main" branch and select "Save".
-7. The link to the live website was ready on the top.
+1. Log in to [Heroku](https://id.heroku.com) or create an account.
+2. In the main page click the button labelled New in the top right corner and from the drop-down menu select Create New App.
+3. You must enter a unique app name
+4. Next, select your region
+5. Click on the Create App button.
+6. The next page you will see is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars.
+7. Click Reveal Config Vars and enter port into the Key box and 8000 into the Value box and click the Add button.
+8. Click Reveal Config Vars again and and enter CREDS into the Key box and the google credentials into the Value box.
+9. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes.
+10. Repeat step 8 to add node.js. o Note: The Buildpacks must be in the correct order. If not click and drag them to move into the correct order.
+11. Scroll to the top of the page and now choose the Deploy tab.
+12. Select Github as the deployment method.
+13. Confirm you want to connect to GitHub.
+14. Search for the repository name and click the connect button.
+15. Scroll to the bottom of the deploy page and select preferred deployment type:
+16. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github.
 
 ## Forking This Project
 
 * Fork this project following the steps:
--
+
 1. Open [GitHub](https://github.com/).
 2. Click on the project to be forked.
 3. Find the 'Fork' button at the top right of the page.
@@ -281,7 +288,7 @@ The website development was created in the "main" branch. This branch was deploy
 ## Cloning This Project
 
 * Clone this project following the steps:
-
+  
 1. Open [GitHub](https://github.com/).
 2. Click on the project to be cloned.
 3. You will be provided with three options to choose from, HTTPS, SSH or GitHub CLI, click the clipboard icon in order to copy the URL.
