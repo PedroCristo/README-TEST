@@ -243,11 +243,13 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ## Bugs 
 ### Text Overlaping Mobile Devices
-![Text Overlaping Mobile Devices](./assets/images/readme/quiz-land-mobile-issue.jpeg)
+![Lines to long](./assets/images/readme/hangman-issue.jpg)
+![Lines to long](./assets/images/readme/hangman-issue-result.jpg)
+
 * I had this issue with my project when I built the layout for the Quiz Page as they are many elements in the same page.<br>
 
 ### Fix Bug
-![Fix Bug](./assets/images/readme/quiz-land-bug-mobile-fixed.png)
+![Fix Bug](./assets/images/readme/hangman-issue-fixed.jpg)
 * I had to add media queries for portrait and landscape to avoid this issue happening.<br>
 
 ## Deployment of This Project
