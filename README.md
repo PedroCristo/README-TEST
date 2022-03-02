@@ -158,9 +158,9 @@ This feature is where the main scene happens. Here the user can play and see inf
 ### Menu Options
 
 ![Menu Options](./assets/images/readme/hangman-menu.jpg)
-* In the end of the game users will have access to the menu where they can choose from this options: 
-[A] - Play Again 
-[B] - Leaderboard
+* In the end of the game users will have access to the menu where they can choose from this options: <br>
+[A] - Play Again <br>
+[B] - Leaderboard <br>
 [C] - Exit Game
 
 ### Leaderboard
@@ -171,10 +171,8 @@ This feature is where the main scene happens. Here the user can play and see inf
 ![Exit Game](./assets/images/readme/hangman-exit-game.jpg)
 * The players will see this message if the will chose exit the game by typing [C].
 
-## Future Features
-  
 
-## How to Play
+### How to Play
 ![How to Play](./assets/images/readme/hangman-explanation-1.jpg)<br>
 ![How to Play](./assets/images/readme/hangman-message-back.jpg)<br>
  The player will have to guess the the right word by inputting letters or the full word, chosen by the computer randomly from a list. 
@@ -296,17 +294,11 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ### Information Sources/Resources
 
-* [W3Schools](https://www.w3schools.com/)
 
-* [Stack Overflow](https://stackoverflow.com/)
-  
-* The JavaScript code for the Fancy Text Animation used in the Homepage was taken from the following tutorial:<br>[Dev ED](https://www.youtube.com/watch?v=GUEB9FogoP8)
 
 ## Content
 
-* All the questions provided in the game were taken from 2 online quizzes.
-* [Lovatts & Puzzles](https://lovattspuzzles.com/).
-* [Britannica Quiz](https://www.britannica.com/).
+
 
   
 ## Special Thanks
