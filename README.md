@@ -140,19 +140,19 @@ This feature is where the main scene happens. Here the user can play and see inf
 ![Hangman Stage 7](./assets/images/readme/hangman-feature-11.jpg)
 * 6 letters guessed wrong and the player will see the hangman, rope, head, torso, both arms and left leg in red. Also an alert with the message "Danger Zone" will be displayed.
 
-### Hangman Stage 8 / Lose
+### Hangman Stage 8 - Lose
 
-![Hangman Stage 8 / Lose](./assets/images/readme/hangman-feature-12.jpg)
+![Hangman Stage 8 - Lose](./assets/images/readme/hangman-feature-12.jpg)
 * 7 letters guessed wrong and the player will see the full hangman and the game is over. 
 
-### Hangman Stage 9 Win
+### Hangman Stage 9 - Win
 
-![Hangman Stage 9 / Win](./assets/images/readme/hangman-feature-13.jpg)
+![Hangman Stage 9 - Win](./assets/images/readme/hangman-feature-13.jpg)
 * If the player guessed the full word letter by letter will see this feature and will win the game and get 200 points
 
-### Hangman Stage 10 / Win
+### Hangman Stage 10 - Win
 
-![Hangman Stage 10 / Win](./assets/images/readme/hangman-feature-14.jpg)
+![Hangman Stage 10 - Win](./assets/images/readme/hangman-feature-14.jpg)
 * If the player guessed the full word at once or at least no more that 3 letters guessed right before try to guess the full word will see this features and will win the game and get 500 extra points.
 
 ### Menu Options
@@ -180,7 +180,7 @@ This feature is where the main scene happens. Here the user can play and see inf
 * If the player guesses a right letter will see a message from the compuer [8] the letter guessed displayed in the word length [3], the hangman stage will remain the same [2] and the score will increase by 25 point [5]
 * If the player guesses a wrong letter will see a message from the computer [9] the letter guessed displayed in the wrong letters guesses [4], the hangman stage will turn to the next stage [2] and the number of attempts will decrease by 1 [6]
 * When the player type a not valid input will see a message from the computer [10].
-* If the user will guess the right word will see the [Winer Feature](#Hangman-Stage-9-Win)
+* If the user will guess the right word will see the [Winer Feature](#Hangman-Stage-9---Win)
 
 ## Technologies Used
 ### Languages Used 
