@@ -117,49 +117,67 @@ This feature is where the main scene happens. Here the user can play and see inf
 
 ### Hangman Stage 2 
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-6.jpg)<br><br>
+![Hangman Stage 2 ](./assets/images/readme/hangman-feature-6.jpg)<br><br>
   Any time the player guess a wrong letter the hangman begin building step by step. 
 * 1 letter guessed wrong and the player will see the hangman and a rope in green.
 
 ### Hangman Stage 3
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-7.jpg)
+![Hangman Stage 3](./assets/images/readme/hangman-feature-7.jpg)
 * 2 letters guessed wrong and the player will see the hangman, rope and the head in green.
 
 ### Hangman Stage 4
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-8.jpg)
+![Hangman Stage 4](./assets/images/readme/hangman-feature-8.jpg)
 * 3 letters guessed wrong and the player will see the hangman, rope, head and torso in yellow.
 
 ### Hangman Stage 5
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-9.jpg)
+![Hangman Stage 5](./assets/images/readme/hangman-feature-9.jpg)
 * 4 letters guessed wrong and the player will see the hangman, rope, head, torso and the right arm in yellow.
 
 ### Hangman Stage 6
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-10.jpg)
+![Hangman Stage 6](./assets/images/readme/hangman-feature-10.jpg)
 * 5 letters guessed wrong and the player will see the hangman, rope, head, torso and both arms in red. Also an alert with the message "Danger Zone" will be displayed.
 
 ### Hangman Stage 7
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-11.jpg)
+![Hangman Stage 7](./assets/images/readme/hangman-feature-11.jpg)
 * 6 letters guessed wrong and the player will see the hangman, rope, head, torso, both arms and left leg in red. Also an alert with the message "Danger Zone" will be displayed.
 
 ### Hangman Stage 8 / Lose
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-12.jpg)
+![Hangman Stage 8 / Lose](./assets/images/readme/hangman-feature-12.jpg)
 * 7 letters guessed wrong and the player will see the full hangman and the game is over. 
 
 ### Hangman Stage 9 / Win
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-13.jpg)
+![Hangman Stage 9 / Win](./assets/images/readme/hangman-feature-13.jpg)
 * If the player guessed the full word letter by letter will see this feature and will win the game and get 200 points
 
-### Hangman Stage 10 /Win
+### Hangman Stage 10 / Win
 
-![Quiz Game 1](./assets/images/readme/hangman-feature-14.jpg)
+![Hangman Stage 10 / Win](./assets/images/readme/hangman-feature-14.jpg)
 * If the player guessed the full word at once or at least no more that 3 letters guessed right before try to guess the full word will see this features and will win the game and get 500 extra points.
+
+### Menu Options
+
+![Menu Options](./assets/images/readme/hangman-menu.jpg)
+* In the end of the game users will have access to the menu where they can choose from this options: 
+[A] - Play Again 
+[B] - Leaderboard
+[C] - Exit Game
+
+### Leaderboard
+![Leaderboard](./assets/images/readme/hangman-leaderboard.jpg)
+* The players can check the 15 best scores made by others users on the leaderboard.
+
+### Exit Game
+![Exit Game](./assets/images/readme/hangman-exit-game.jpg)
+* The players will see this message if the will chose exit the game by typing [C].
+
+
 
 
 
