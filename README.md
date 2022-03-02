@@ -202,93 +202,39 @@ This feature is where the main scene happens. Here the user can play and see inf
 * [Colorama](https://pypi.org/project/colorama/): allows terminal text to be printed in different colours/styles
 * [Time](https://pypi.org/project/time/): defined time sleep
 * [google.oauth2.service_accoun](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to google service accounts
-* 
   
 ### Frameworks - Libraries - Programs Used
 
-* [Google Fonts](https://fonts.google.com/)
-   * Google fonts were used to import the 'Roboto' font throughout the style.css.
-* [Font Awesome](https://fontawesome.com/)
-    * Font Awesome are used as an icons for user UX purposes.
 * [Git](https://git-scm.com/)
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub](https://github.com/)
     * GitHub is used to store the project's code after being pushed from Git.
+* [Heroku](https://id.heroku.com)
+    * Heroku was used to deploying the live project
 * [VSCode](https://code.visualstudio.com/)
     * VSCode was used to create and edit the website.
-* [Mobile Simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
-    * Mobile Simulater was used to test the website on a mobile device.
-* [PIXLR](https://pixlr.com/pt/)
-    * PIXLR was used to create, modify and resize all images on this website.
-* [Canva](https://www)
-   * Canva was used to create wireframe, the 3 background images and also the Favicon.
+* [Lucidchart](https://lucid.app/)
+    * Lucidchart was used to create the flowchart
+  [PEP8](http://pep8online.com/)
+    * The PEP8 was used to validate all the Python code.
+* [Patorjk](https://patorjk.com)
+    * Patorjk (ASCII Art Generator) was used to draw the game logos.
   
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
-### [W3C Markup Validator](https://validator.w3.org)
-#### Results:
-* [HomePage](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Findex.html)
-* [Game 1](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-1.html)
-* [Game 2](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-2.html)
-* [Game 3](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-3.html)
-* [Game End](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fgame-end.html)
-* [Trophy Gold](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Ftrophy-gold.html)
-* [Trophy Silver](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Ftrophy-silver.html)
-* [Trophy Bronze](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Ftrophy-bronze.html)
-* [High Scores](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fpages%2Fscores.html)
-  
-
-### [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
-#### Results:
-* [Main CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fmain.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-* [Responsive CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpedrocristo.github.io%2Fportfolio_project_2%2Fassets%2Fcss%2Fresponsive.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-### [Jshint](https://jshint.com/)
-
-![Jshint Result](./assets/images/readme/jshint_result.jpg).
-  
-
-The testing was done using the Google Chrome Browser. Chrome Developer Tools was used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Firefox on desktop, and again on Google Chrome and Opera on the Huawei P20.
-
-* Responsive on all device sizes between 320px - 2600px wide
-
-* Devices tested using the Google Developer Tools emulator
-
-    * BlackBerry Z30 (360px x 640px)  
-    * BlackBerry PlayBook (600px x 1024px)  
-    * Samsung Galaxy Note 3 (360px x 640px) 
-    * Samsung Galaxy S3 (360px x 640px) 
-    * Samsung Galaxy S8 (360px x 740px)   
-    * Samsung Galaxy S9+(320px x 658px) 
-    * Samsung Galaxy Tab S4(712px x 1138px) 
-    * LG Optimus L70 (384px x 640px)
-    * Microsoft Lumia 550 (640px x 360px) 
-    * Microsoft Lumia 950 (360px x 640px) 
-    * Motorola G4 (360px x 640px)
-    * Nexus 4 (384px x 640px) 
-    * Nokia Lumia 520 (320px x 533px) 
-    * Nokia N9 (480px x 854px) 
-    * Pixel 3 (393px x 786px)
-    * Apple iPad Mini (468px x 4024)
-    * Apple iPhone 4 (320px x 480px)
-    * Apple iPhone 5/S (320px 568px)
-    * Apple iPhone 6/7/8 (375px x 667px)
-    * Apple iPhone 6/7/8 Plus (414px x 736px)
-    * Apple iPhone X (375px x 812px)
+![PEP8](./assets/images/readme/hangman-pep8-results.jpg).
+* No errors or warnings were found during the testing the code in PEP8
   
 ### Lighthouse 
 
- Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices. 
+ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop. 
 
 * Desktop Results:
 
-  ![Lighthouse Destop Result](./assets/images/readme/lighthouse_desktop_result.jpg).
+  ![Lighthouse Result](./assets/images/readme/hangman-lighthouse.jpg).
 
-* Mobile Results:
-
-  ![Lighthouse Mobile Result](./assets/images/readme/lighthouse_mobile_result.jpg).
 
 ## Functionality
 * All links have been hovered and clicked to ensure accessibility.
