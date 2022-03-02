@@ -181,7 +181,7 @@ This feature is where the main scene happens. Here the user can play and see inf
 * If the player guesses a wrong letter will see a message from the computer [9] the letter guessed displayed in the wrong letters guesses [4], the hangman stage will turn to the next stage [2] and the number of attempts will decrease by 1 [6]
 * When the player type a not valid input will see a message from the computer [10].
 * If the user will guess the right word will see the [Winer Feature](#Hangman-Stage-9---Win)
-* If the player guessed the full word at once or at least no more that 3 letters guessed right before try to guess the full word will win the game winning 500 extra points and see this featute [Winner Feature - Extra Points]([#Hangman-Stage-10---Win)
+* If the player guessed the full word at once or at least no more that 3 letters guessed right before try to guess the full word will win the game winning 500 extra points and see this featute [Winner Feature]([#Hangman-Stage-10---Win)
 * 7 letters guessed wrong and the player will see the [Loser Feature](#Hangman-Stage-8---lose)
 
 ## Technologies Used
