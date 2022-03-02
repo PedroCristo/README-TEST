@@ -196,11 +196,13 @@ This feature is where the main scene happens. Here the user can play and see inf
 
 #### Python Packages
 
-* [Rondom](https://docs.python.org/3/library/random.html?highlight=random#module-random)
-* [Datetime](https://pypi.org/project/DateTime/)
-* [Gspread](https://pypi.org/project/gspread/):allows communication wit Google Sheets
-* [Colorama](https://pypi.org/project/colorama/)
-* [Time](https://pypi.org/project/time/) 
+* [Rondom](https://docs.python.org/3/library/random.html?highlight=random#module-random): returns a random integer to get a random word
+* [Datetime](https://pypi.org/project/DateTime/): returns the full date
+* [Gspread](https://pypi.org/project/gspread/): allows communication wit Google Sheets
+* [Colorama](https://pypi.org/project/colorama/): allows terminal text to be printed in different colours/styles
+* [Time](https://pypi.org/project/time/): defined time sleep
+* [google.oauth2.service_accoun](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to google service accounts
+* 
   
 ### Frameworks - Libraries - Programs Used
 
