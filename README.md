@@ -182,10 +182,10 @@ This feature is where the main scene happens. Here the user can play and see inf
 
 ## How to Play
 ![How to Play](./assets/images/readme/hangman-explanation-1.jpg)
-* The player has 3 different quizzes in the game. For each quiz the user will see the question on the top center [2] and 4 choices [3] are available.
-The player then has to choose one of the choices and if the answer is right will win 25 points. The score will be displayed on the bottom right[5]. 
-While the game is going on, users can see the progress bar updating any time they answer a question [1] and the question counter will also update on the bottom left [4] .
-On the top right the users can check at any time what quiz they are on [6].
+ The player will have to guess the the right word by inputting letters or the full word, chosen by the computer randomly from a list. 
+* When the game starts the player can see how many letters is in the word [1] and the computer will ask the player to input a letter or a word [7].
+* If the player guesses a right letter will see the letter displayed in the word length[3], the hangman stage will remain the same[2] and the score will increase by 25 point[5]
+* If the player guesses a wrong letter will see the letter displayed in the wrong letters guesses[4], the hangman stage will turn to the next stage[2] and the number of attempts will decrease by 1 [6]
 
 #### Right Answer
 ![Right Answer](./assets/images/readme/quiz-land-right-answer.png)
@@ -196,7 +196,6 @@ On the top right the users can check at any time what quiz they are on [6].
 * When the user answers the question wrong the message "Wrong Answer" will appear on the top center [9] and the background color of their choice answer will turn red [10].
 
 ## Technologies Used
-
 ### Languages Used 
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
