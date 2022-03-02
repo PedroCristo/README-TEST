@@ -177,18 +177,11 @@ This feature is where the main scene happens. Here the user can play and see inf
 ![Exit Game](./assets/images/readme/hangman-exit-game.jpg)
 * The players will see this message if the will chose exit the game by typing [C].
 
-
-
-
-
 ## Future Features
   
-### Progress Bar Right/Wrong Answers
 
-* I am planning to add a feature with two progress bars.  One progress bar to show the number of right answers and the other to show the number of wrong answers in the last game played.
-
-## How To Play
-![How To Play](./assets/images/readme/quiz-page-how-play.png)
+## How to Play
+![How to Play](./assets/images/readme/hangman-explanation-1.jpg)
 * The player has 3 different quizzes in the game. For each quiz the user will see the question on the top center [2] and 4 choices [3] are available.
 The player then has to choose one of the choices and if the answer is right will win 25 points. The score will be displayed on the bottom right[5]. 
 While the game is going on, users can see the progress bar updating any time they answer a question [1] and the question counter will also update on the bottom left [4] .
