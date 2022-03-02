@@ -246,11 +246,11 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 ![Lines to long](./assets/images/readme/hangman-issue.jpg)
 ![Lines to long](./assets/images/readme/hangman-issue-result.jpg)
 
-* I had this issue with my project when I built the layout for the Quiz Page as they are many elements in the same page.<br>
+* When I first builded the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8..<br>
 
 ### Fix Bug
 ![Fix Bug](./assets/images/readme/hangman-issue-fixed.jpg)
-* I had to add media queries for portrait and landscape to avoid this issue happening.<br>
+* I had to rebuilt the logo using the program  Patorjk (ASCII Art Generator) and avoid this issues.
 
 ## Deployment of This Project
 
