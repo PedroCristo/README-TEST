@@ -108,12 +108,6 @@ This feature is where the main scene happens. Here the user can play and see inf
 * Curenntly score
 * Curently number of attempts
 * Input to guess a letter or a full word
-* Stage of the hangman 
-* Letters guessed right 
-* Letters guessed wrong 
-* Currently score 
-* Currently number of attempts 
-* Input to guess a letter or a full word
 
 ### Hangman Stage 2 
 
