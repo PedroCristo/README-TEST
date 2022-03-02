@@ -231,15 +231,15 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
   ![Lighthouse Result](./assets/images/readme/hangman-lighthouse.jpg).
 
 
-## Functionality
-* All links have been hovered and clicked to ensure accessibility.
-* Pages all load correctly on all device screen sizes.
-* All social media links work correctly and open a new tab.
-* All the buttons are working correctly and bring the users to the function that they were built for.
-* The game is working correctly the question comes at the right time and it gives a reply back to the user when answered. 
-* The score has no issues and it increases by 25 points any time the user gives a right anwser. 
-* The progress bar and question counter have also no issues, the background color increases (from 0% to 100%) and the number of questions also increases any time the user chooses an anwser.
-
+## Functionality 
+* The terminal has no issues and is working properly 
+* The typewriter starts typing in the right time and is working correctly 
+* The input for name and city have the right behavior and shows the user an alert if the input is empty
+* The game rules come without problems after the player submit the name and city 
+* The option to press any key to start a game is running well
+* The game runs without problems and has the behavior that was built for
+* In the end of the game the Leaderboard is updating correctly
+* All the menu options are working without fails
 
 ## Bugs 
 ### Text Overlaping Mobile Devices
