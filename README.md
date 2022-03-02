@@ -189,21 +189,19 @@ This feature is where the main scene happens. Here the user can play and see inf
 * If the player guesses a wrong letter will see a message from the computer [9] the letter guessed displayed in the wrong letters guesses [4], the hangman stage will turn to the next stage [2] and the number of attempts will decrease by 1 [6]
 * When the player type a not valid input will see a message from the computer [10].
 
-#### Right Answer
-![Right Answer](./assets/images/readme/quiz-land-right-answer.png)
-* When the user answers the question right the message "Right Answer" will appear on the top center [7] and the background color of their choice answer will turn green [8].
-
-#### Wrong Answer
-![Wrong Answer](./assets/images/readme/quiz-land-wrong-answer.png)
-* When the user answers the question wrong the message "Wrong Answer" will appear on the top center [9] and the background color of their choice answer will turn red [10].
-
 ## Technologies Used
 ### Languages Used 
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
-* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-* [javaScript](https://www.javascript.com/)
+* [Python](https://www.python.org/)
 
+#### Python Packages
+
+* [Rondom](https://docs.python.org/3/library/random.html?highlight=random#module-random)
+* [Datetime](https://pypi.org/project/DateTime/)
+* [Gspread](https://pypi.org/project/gspread/):allows communication wit Google Sheets
+* [Colorama](https://pypi.org/project/colorama/)
+* [Time](https://pypi.org/project/time/) 
+  
 ### Frameworks - Libraries - Programs Used
 
 * [Google Fonts](https://fonts.google.com/)
