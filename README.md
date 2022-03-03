@@ -300,14 +300,14 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 ## Content
 
 * All the content in the game is original 
-* The terminal function and template for the deployable application was provided by Code Institute 
+* The terminal function and template for the deployable application was provided by [Code Institute - Template](https://github.com/Code-Institute-Org/python-essentials-template)
 * The Python code for the typewriter was taken from the following tutotial: [Kwasii](https://www.youtube.com/watch?v=A_1THfBpCH8)
 
 ### Information Sources / Resources
 
-[W3Schools - Python](https://www.w3schools.com/python/)
-[Stack Overflow][https://stackoverflow.com/]
-[Scrimba - Pyhton](https://scrimba.com/learn/python)
+* [W3Schools - Python](https://www.w3schools.com/python/)
+* [Stack Overflow][https://stackoverflow.com/]
+* [Scrimba - Pyhton](https://scrimba.com/learn/python)
 
 
 ## Special Thanks
