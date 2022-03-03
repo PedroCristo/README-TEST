@@ -286,7 +286,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 1. Log in to [Heroku](https://id.heroku.com) or create an account
 2. In the main page click the button labelled New in the top right corner and from the drop-down menu select Create New App
 3. You must enter a unique app name
-4. Next, select your region
+4. Next select your region
 5. Click on the Create App button
 6. The next page you will see is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
 7. Click Reveal Config Vars and enter port into the Key box and 8000 into the Value box and click the Add button
