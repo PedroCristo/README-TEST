@@ -1,7 +1,7 @@
 # Hangman - Game
 
 # Introduction
-Project milestone 3 for Code Institute Full-stack development program: JavaScript Essentials.
+Project milestone 3 for Code Institute Full-stack development program: Python Terminal.
 
 Hangman is a Python terminal game, with runs in the Code Institute mock terminal on Heroku. The main goal of the game is to guess letters and find the word that the computer randomly selects.
 The inpiration for this project was the pencil guessing game for two or more players. A game that according to the site [Gambiter](http://gambiter.com/paper-pencil/Hangman_game.html) has be around since 1894 under the name "Birds, Beasts and Fishes".
@@ -39,7 +39,7 @@ The inpiration for this project was the pencil guessing game for two or more pla
     * [Leaderboard](#Leaderboard)
     * [Exit Game](#Exit-Game)
     * [How to Play](#how-to-play)
-* [Storage Data](Storage-Data)
+* [Storage Data](#Storage-Data)
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
     * [Python Packages](#Python-Packages)
