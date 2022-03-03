@@ -198,7 +198,7 @@ This feature is where the main scene happens. Here the user can play and see inf
 
 ## Storage Data
 
-To save the players scores I am using a google sheet that is connected to the code through the Google Drive and Google Sheet API by the Google Cloud Platform. This method allows me to send and receive data as I had access to the Google Sheet API credentials and I input this creds when I was deploying the project in the Heroku. As a sensitive data we should add the creds.json in the Git ignore file to make sure that this Credentials never will be push to the repository.
+To save the player name, city, score and date I am using a google sheet that is connected to the code through the Google Drive and Google Sheet API by the Google Cloud Platform. This method allows me to send and receive data as I had access to the Google Sheet API credentials and I input this creds when I was deploying the project in the Heroku. As a sensitive data we should add the creds.json in the Git ignore file to make sure that this credentials never will be push to the repository.
 
 ### Code to Connect to Google Sheet
 
