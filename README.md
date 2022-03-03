@@ -322,6 +322,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 * [W3Schools - Python](https://www.w3schools.com/python/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Scrimba - Pyhton](https://scrimba.com/learn/python)
+* [Gambiter](http://gambiter.com/paper-pencil/Hangman_game.html)
 
 
 ## Special Thanks
