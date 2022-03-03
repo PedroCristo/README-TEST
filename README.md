@@ -99,11 +99,11 @@ I spent time planning and thinking about the logic behind the game to ensure I h
 ### Ask Player Name and City
 
 ![Ask Player Name and City](./assets/images/readme/hangman-feature-2.jpg)
-After the player see the intro feature the computer will ask the user's name and city to be added by input.<br>
+* After the player see the intro feature the computer will ask the user's name and city to be added by input.<br>
 
 #### Empty Input for Name and City
 ![Empty Input for Name and City](./assets/images/readme/hangman-feature-3.jpg)
-If the player is trying to submit an empty input for name and city will see this alert.<br>
+* If the player is trying to submit an empty input for name and city will see this alert.<br>
 
 ### Welcome Message and Game Rules
 ![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
