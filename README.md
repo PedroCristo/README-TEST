@@ -3,7 +3,7 @@
 # Introduction
 Project milestone 3 for Code Institute Full-stack development program: JavaScript Essentials.
 
-Hangman is a Python terminal game, with runs in the Code Institute mock terminal on Heroku. The main goal of the game is to guess letters and dind the word that the computer randomly selects.
+Hangman is a Python terminal game, with runs in the Code Institute mock terminal on Heroku. The main goal of the game is to guess letters and find the word that the computer randomly selects.
 The inpiration for this project was the pencil guessing game for two or more players. A game that according to the site [Gambiter](http://gambiter.com/paper-pencil/Hangman_game.html) has be around since 1894 under the name "Birds, Beasts and Fishes".
 
 [Live Project Here](https://portfolio-project-3.herokuapp.com/)
@@ -61,31 +61,31 @@ The inpiration for this project was the pencil guessing game for two or more pla
 
 * As a website creator, I want to:
   
-1. Build an easy app for the users to play the game.
-2. Build a game that is both enjoyable and challenging for the players.
+1. Build an easy app for the users to play the game
+2. Build a game that is both enjoyable and challenging for the players
    
 * As a new visitor, I want to:
 
-1. Be able to understand the main purpose of the App and start a new game. 
-2. Be able to follow along the score, wrong and right letters already guessed and the remaining of available tries while I am playing the game.
-3. Be able to watch my results and other players results on the Leaderboard.
+1. Be able to understand the main purpose of the App and start a new game
+2. Be able to follow along the score, wrong and right letters already guessed and the remaining of available tries while I am playing the game
+3. Be able to watch my results and other players results on the Leaderboard
    
 * As a returning visitor, I want to:
 
-1. Be able to guess a different word choose by the computer. 
+1. Be able to guess a different word choose by the computer 
 2. Be able to challenge myself and try to improve on my scores and compare with other users on the leaderboard
    
 ## Design
 
 ### Flowcharts 
 ![Flowcharts](./assets/images/readme/hangman-flowcharts.jpg)<br>
-I spent time planning and thiking about the logic behind the game to ensure I had a general idea of how it should be built. I created flowcharts to allow me to follow the logic through the application. The charts were generated using https://lucid.app/ Integration and are shown below.<br>
+I spent time planning and thiking about the logic behind the game to ensure I had a general idea of how it should be built. I created flowcharts to allow me to follow the logic through the application. The charts were generated using [Lucidchart](https://lucid.app/) Integration and are shown below.<br>
 
 #### Colours
-* The colours in the game are supplied by using the the Python Colorama Model.
+* The colours in the game are supplied by using the the Python Colorama Model
 
 #### Typography
-* The Arial is used as the main font for the whole website.
+* The Arial is used as the main font for the whole website
       
 ## Features
 
@@ -113,7 +113,7 @@ I spent time planning and thiking about the logic behind the game to ensure I ha
 ### Hangman Stage 1
 ![Game Feature](./assets/images/readme/hangman-feature-5.jpg)<br><br>
 This feature is where the main scene happens. Here the user can play and see information about the game: 
-* Numbers of letters choose by the computer. 
+* Numbers of letters choose by the computer 
 * Stage of the hangman 
 * Letters guessed right
 * Letters guessed wrong
@@ -196,6 +196,18 @@ This feature is where the main scene happens. Here the user can play and see inf
 * If the player guessed the full word at once or at least no more that 3 letters guessed right before try to guess the full word will win the game winning 500 extra points and see this featute [Winner Feature / Extra Points](#Hangman-Stage-10---Win)
 * 7 letters guessed wrong and the player will see the [Loser Feature](#Hangman-Stage-8---lose)
 
+## Storage Data
+
+To save the players scores I am using a google sheet that is connected to the code through the Google Drive and Google Sheet API by the Google Cloud Platform. This method allows me to send and receive data as I had access to the Google Sheet API credentials and I input this creds when I was deploying the project in the Heroku. As a sensitive data we should add the creds.json in the Git ignore file to make sure that this Credentials never will be push to the repository.
+
+### Code to Connect to Google Sheet
+
+![Code to Connect to Google Sheet](./assets/images/readme/hangman-creds.jpg)
+
+### Google Sheet Hangman Leaderboard
+
+![Google Sheet Hangman Leaderboard](./assets/images/readme/hangman-google-sheet.jpg)
+
 ## Technologies Used
 ### Languages Used 
 
@@ -213,19 +225,19 @@ This feature is where the main scene happens. Here the user can play and see inf
 ### Frameworks - Libraries - Programs Used
 
 * [Git](https://git-scm.com/)
-    * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
 * [GitHub](https://github.com/)
-    * GitHub is used to store the project's code after being pushed from Git.
+    * GitHub is used to store the project's code after being pushed from Git
 * [Heroku](https://id.heroku.com)
     * Heroku was used to deploying the live project
 * [VSCode](https://code.visualstudio.com/)
-    * VSCode was used to create and edit the website.
+    * VSCode was used to create and edit the website
 * [Lucidchart](https://lucid.app/)
     * Lucidchart was used to create the flowchart
 * [PEP8](http://pep8online.com/)
-    * The PEP8 was used to validate all the Python code.
+    * The PEP8 was used to validate all the Python code
 * [Patorjk](https://patorjk.com)
-    * Patorjk (ASCII Art Generator) was used to draw the game logos.
+    * Patorjk (ASCII Art Generator) was used to draw the game logos
   
 ## Testing
 
@@ -234,7 +246,7 @@ This feature is where the main scene happens. Here the user can play and see inf
 The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
 ![PEP8](./assets/images/readme/hangman-pep8-results.jpg).
-* No errors or warnings were found during the testing the code in PEP8
+* No errors or warnings were found during the testing the code in PEP8.
   
 ### Lighthouse 
 
@@ -260,7 +272,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 ![Lines to long](./assets/images/readme/hangman-issue.jpg)
 ![Lines to long](./assets/images/readme/hangman-issue-result.jpg)
 
-* When I first builded the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8..<br>
+* When I first builded the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8.<br>
 
 ### Fixed Bug
 ![Fix Bug](./assets/images/readme/hangman-issue-fixed.jpg)
@@ -270,44 +282,44 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 * This site was deployed by completing the following steps:
 
-1. Log in to [Heroku](https://id.heroku.com) or create an account.
-2. In the main page click the button labelled New in the top right corner and from the drop-down menu select Create New App.
+1. Log in to [Heroku](https://id.heroku.com) or create an account
+2. In the main page click the button labelled New in the top right corner and from the drop-down menu select Create New App
 3. You must enter a unique app name
 4. Next, select your region
-5. Click on the Create App button.
-6. The next page you will see is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars.
-7. Click Reveal Config Vars and enter port into the Key box and 8000 into the Value box and click the Add button.
-8. Click Reveal Config Vars again and and enter CREDS into the Key box and the google credentials into the Value box.
-9. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes.
-10. Repeat step 8 to add node.js. o Note: The Buildpacks must be in the correct order. If not click and drag them to move into the correct order.
-11. Scroll to the top of the page and now choose the Deploy tab.
-12. Select Github as the deployment method.
-13. Confirm you want to connect to GitHub.
-14. Search for the repository name and click the connect button.
-15. Scroll to the bottom of the deploy page and select preferred deployment type:
-16. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github.
+5. Click on the Create App button
+6. The next page you will see is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
+7. Click Reveal Config Vars and enter port into the Key box and 8000 into the Value box and click the Add button
+8. Click Reveal Config Vars again and and enter CREDS into the Key box and the google credentials into the Value box
+9. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
+10. Repeat step 8 to add node.js. o Note: The Buildpacks must be in the correct order. If not click and drag them to move into the correct order
+11. Scroll to the top of the page and now choose the Deploy tab
+12. Select Github as the deployment method
+13. Confirm you want to connect to GitHub
+14. Search for the repository name and click the connect button
+15. Scroll to the bottom of the deploy page and select preferred deployment type
+16. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
 
 ## Forking This Project
 
 * Fork this project following the steps:
 
-1. Open [GitHub](https://github.com/).
-2. Click on the project to be forked.
-3. Find the 'Fork' button at the top right of the page.
-4. Once you click the button the fork will be in your repository..
+1. Open [GitHub](https://github.com/)
+2. Click on the project to be forked
+3. Find the 'Fork' button at the top right of the page
+4. Once you click the button the fork will be in your repository
 
 ## Cloning This Project
 
 * Clone this project following the steps:
   
-1. Open [GitHub](https://github.com/).
-2. Click on the project to be cloned.
-3. You will be provided with three options to choose from, HTTPS, SSH or GitHub CLI, click the clipboard icon in order to copy the URL.
-4. Once you click the button the fork will be in your repository.
-5. Open a new terminal.
-6. Change the current working directory to the location that you want the cloned directory.
-7. Type 'git clone' and paste the URL copied in step 3.
-8. Press 'Enter' and the project is cloned.
+1. Open [GitHub](https://github.com/)
+2. Click on the project to be cloned
+3. You will be provided with three options to choose from, HTTPS, SSH or GitHub CLI, click the clipboard icon in order to copy the URL
+4. Once you click the button the fork will be in your repository
+5. Open a new terminal
+6. Change the current working directory to the location that you want the cloned directory
+7. Type 'git clone' and paste the URL copied in step 3
+8. Press 'Enter' and the project is cloned
 
 ## Credits
 
