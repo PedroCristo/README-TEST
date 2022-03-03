@@ -3,8 +3,8 @@
 # Introduction
 Project milestone 3 for Code Institute Full-stack development program: JavaScript Essentials.
 
-Hangman is a Python terminal game, with runs in the Code Institute mock terminal on Heroku. 
-The main goal of the game is to guess letters or the full word that the computer randomly selects.
+Hangman is a Python terminal game, with runs in the Code Institute mock terminal on Heroku. The main goal of the game is to guess letters and dind the word that the computer randomly selects.
+The inpiration for this project was the pencil guessing game for two or more players. A game that according to the site [Gambiter](http://gambiter.com/paper-pencil/Hangman_game.html) has be around since 1894 under the name "Birds, Beasts and Fishes".
 
 [Live Project Here](https://portfolio-project-3.herokuapp.com/)
 
@@ -24,7 +24,7 @@ The main goal of the game is to guess letters or the full word that the computer
     * [Logo and Intro Message](#Logo-and-Intro-Message) 
     * [Ask Player Name and City](#Ask-Player-Name-and-City)
     * [Empty Input for Name and City](#Empty-Input-for-Name-and-City)
-* [Game Features](game-features)
+* [Game Features](#game-features)
     * [Hangman Stage 1](#Hangman-Stage-1)
     * [Hangman Stage 2](#Hangman-Stage-2) 
     * [Hangman Stage 3](#Hangman-Stage-3)
@@ -41,12 +41,12 @@ The main goal of the game is to guess letters or the full word that the computer
     * [How to Play](#how-to-play)
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
-    * [Python Packages](Python-Packages)
+    * [Python Packages](#Python-Packages)
     * [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
 * [Testing](#testing)
-    * [PEP 8 Online](PEP-8-Online)
-    * [Lighthouse](Lighthouse)
-    * [Functionality](Functionality)
+    * [PEP 8 Online](#PEP-8-Online)
+    * [Lighthouse](#Lighthouse)
+    * [Functionality](#Functionality)
     * [Bugs](Bugs)
 * [Deployment](#deployment-this-project)
     * [Deployment This Project](#deployment-this-project)
@@ -109,6 +109,7 @@ I spent time planning and thiking about the logic behind the game to ensure I ha
 * After the user input the name and city the program will display the welcome message and the game rules. The player just need to press any key to start the game.<br>
 
 ## Game Features
+
 ### Hangman Stage 1
 ![Game Feature](./assets/images/readme/hangman-feature-5.jpg)<br><br>
 This feature is where the main scene happens. Here the user can play and see information about the game: 
