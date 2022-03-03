@@ -16,21 +16,29 @@ The main goal of the game is to guess letters or the full word that the computer
 * [Introduction](#introduction)
 * [User Experience UX](#user-experience---UX)
 * [Design](#Design)
-    * [Flow](#Wireframe)
+    * [Flowcharts](#Flowcharts)
+    * [Colours](#Colours)
     * [Typography](#typography)
   
 * [Features](#features)  
-    * [Logo and Intro Message](#logo-and-intro-message) 
-    * [Navigation Menu](#navigation-menu)
-    * [Quiz Game 1 - Sports](#quiz-game-1---sports)
-    * [Quiz Game 2 - History](#quiz-game-2---history)
-    * [Quiz Game 3 - Geography](#quiz-game-3---geography)
-    * [Game End Page](#game-end-page) 
-    * [Trophy Gold Page](#trophy-gold-page)
-    * [Trophy Silver Page](#trophy-silver-page)
-    * [Trophy Bronze Page](#trophy-bronze-page)
-    * [High Scores Page](#hign-scores-page)
-* [Future Features](#future-features)
+    * [Logo and Intro Message](#Logo-and-Intro-Message) 
+    * [Ask Player Name and City](#Ask-Player-Name-and-City)
+    * [Empty Input for Name and City](#Empty-Input-for-Name-and-City)
+*  Game Features
+    * [Hangman Stage 1](#Hangman-Stage-1)
+    * [Hangman Stage 2](#Hangman-Stage-1) 
+    * [Hangman Stage 3](#Hangman-Stage-3)
+    * [Hangman Stage 4](#Hangman-Stage-4)
+    * [Hangman Stage 5](#Hangman-Stage-5)
+    * [Hangman Stage 6](#Hangman-Stage-6)
+    * [Hangman Stage 7](#Hangman-Stage-7)
+    * [Hangman Stage 8 - Lose](#Hangman-Stage-8---Lose)
+    * [Hangman Stage 9 - Win](#Hangman-Stage-9---Win)
+    * [Hangman Stage 10 - Win Extra](#Hangman-Stage-10---Win-Extra)
+    * [Menu Options](#Menu-Options)
+    * [Leaderboard](#Leaderboard)
+    * [Exit Game](#Exit-Game)
+    * 
 * [How to Play](#how-to-play)
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
@@ -45,7 +53,7 @@ The main goal of the game is to guess letters or the full word that the computer
 
 ## User Experience - UX
 
- ### User Stories
+### User Stories
 
 * As a website creator, I want to:
   
@@ -66,9 +74,8 @@ The main goal of the game is to guess letters or the full word that the computer
 ## Design
 
 ### Flowcharts 
- ![Color Scheme](./assets/images/readme/hangman-flowcharts.jpg)<br>
+![Flowcharts](./assets/images/readme/hangman-flowcharts.jpg)<br>
 I spent time planning and thiking about the logic behind the game to ensure I had a general idea of how it should be built. I created flowcharts to allow me to follow the logic through the application. The charts were generated using https://lucid.app/ Integration and are shown below.<br>
-[Flowcharts ](https://cutt.ly/oIkZsAW)
 
 #### Colours
 * The colours in the game are supplied by using the the Python Colorama Model.
@@ -150,9 +157,9 @@ This feature is where the main scene happens. Here the user can play and see inf
 ![Hangman Stage 9 - Win](./assets/images/readme/hangman-feature-13.jpg)
 * If the player guessed the full word letter by letter will see this feature and will win the game and get 200 points
 
-### Hangman Stage 10 - Win
+### Hangman Stage 10 - Win Extra
 
-![Hangman Stage 10 - Win](./assets/images/readme/hangman-feature-14.jpg)
+![Hangman Stage 10 - Win Extra](./assets/images/readme/hangman-feature-14.jpg)
 * If the player guessed the full word at once or at least no more that 3 letters guessed right before try to guess the full word will see this features.
 
 ### Menu Options
@@ -248,7 +255,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 * When I first builded the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8..<br>
 
-### Fix Bug
+### Fixed Bug
 ![Fix Bug](./assets/images/readme/hangman-issue-fixed.jpg)
 * I had to rebuilt the logo using the program  Patorjk (ASCII Art Generator) and avoid this issues.
 
@@ -297,7 +304,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ## Credits
 
-## Content
+### Content
 
 * All the content in the game is original 
 * The terminal function and template for the deployable application was provided by [Code Institute - Template](https://github.com/Code-Institute-Org/python-essentials-template)
