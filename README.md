@@ -242,7 +242,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 * All the menu options are working without fails
 
 ## Bugs 
-### Text Overlaping Mobile Devices
+### Lines to lo
 ![Lines to long](./assets/images/readme/hangman-issue.jpg)
 ![Lines to long](./assets/images/readme/hangman-issue-result.jpg)
 
@@ -297,15 +297,19 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ## Credits
 
-### Information Sources/Resources
-
-
-
 ## Content
 
+* All the content in the game is original 
+* The terminal function and template for the deployable application was provided by Code Institute 
+* The Python code for the typewriter was taken from the following tutotial: [Kwasii](https://www.youtube.com/watch?v=A_1THfBpCH8)
+
+### Information Sources / Resources
+
+[W3Schools - Python](https://www.w3schools.com/python/)
+[Stack Overflow][https://stackoverflow.com/]
+[Scrimba - Pyhton](https://scrimba.com/learn/python)
 
 
-  
 ## Special Thanks
 
  * Special thanks to my mentor Sandeep Aggarwal, my colleagues at Code Institute, Kasia Bogucka and Mairéad Gillic for their assistance throughout this project.
