@@ -20,13 +20,13 @@ The main goal of the game is to guess letters or the full word that the computer
     * [Colours](#Colours)
     * [Typography](#typography)
   
-* [Features](#features)  
+* Features
     * [Logo and Intro Message](#Logo-and-Intro-Message) 
     * [Ask Player Name and City](#Ask-Player-Name-and-City)
     * [Empty Input for Name and City](#Empty-Input-for-Name-and-City)
-*  Game Features
+* Game Features
     * [Hangman Stage 1](#Hangman-Stage-1)
-    * [Hangman Stage 2](#Hangman-Stage-1) 
+    * [Hangman Stage 2](#Hangman-Stage-2) 
     * [Hangman Stage 3](#Hangman-Stage-3)
     * [Hangman Stage 4](#Hangman-Stage-4)
     * [Hangman Stage 5](#Hangman-Stage-5)
@@ -38,12 +38,16 @@ The main goal of the game is to guess letters or the full word that the computer
     * [Menu Options](#Menu-Options)
     * [Leaderboard](#Leaderboard)
     * [Exit Game](#Exit-Game)
-    * 
-* [How to Play](#how-to-play)
+    * [How to Play](#how-to-play)
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
+    * [Python Packages][Python-Packages]
     * [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
 * [Testing](#testing)
+    * [PEP 8 Online](PEP-8-Online)
+    * [Lighthouse](Lighthouse)
+    * [Functionality](Functionality)
+    * [Bugs](Bugs)
 * [Deployment](#deployment-this-project)
     * [Deployment This Project](#deployment-this-project)
     * [Forking This Project](#forking-this-project)
@@ -223,6 +227,8 @@ This feature is where the main scene happens. Here the user can play and see inf
     * Patorjk (ASCII Art Generator) was used to draw the game logos.
   
 ## Testing
+
+### PEP 8 Online
 
 The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
