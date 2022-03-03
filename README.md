@@ -242,7 +242,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 * All the menu options are working without fails
 
 ## Bugs 
-### Lines to lo
+### Python Lines to Long
 ![Lines to long](./assets/images/readme/hangman-issue.jpg)
 ![Lines to long](./assets/images/readme/hangman-issue-result.jpg)
 
@@ -306,7 +306,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 ### Information Sources / Resources
 
 * [W3Schools - Python](https://www.w3schools.com/python/)
-* [Stack Overflow][https://stackoverflow.com/]
+* [Stack Overflow](https://stackoverflow.com/)
 * [Scrimba - Pyhton](https://scrimba.com/learn/python)
 
 
