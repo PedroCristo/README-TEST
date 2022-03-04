@@ -21,7 +21,8 @@ The inspiration for this project was the pencil guessing game for two or more pl
 * [Logic](#logic)
      * [Flowcharts](#Flowcharts)
   
-* [Features](Features)
+* 
+* [Features](#features)
     * [Logo and Intro Message](#Logo-and-Intro-Message) 
     * [Ask Player Name and City](#Ask-Player-Name-and-City)
     * [Empty Input for Name and City](#Empty-Input-for-Name-and-City)
