@@ -16,9 +16,10 @@ The inspiration for this project was the pencil guessing game for two or more pl
 * [Introduction](#introduction)
 * [User Experience UX](#user-experience---UX)
 * [Design](#Design)
-    * [Flowcharts](#Flowcharts)
     * [Colours](#Colours)
     * [Typography](#typography)
+* [Logic](#logic)
+     * [Flowcharts](#Flowcharts)
   
 * [Features](Features)
     * [Logo and Intro Message](#Logo-and-Intro-Message) 
@@ -78,15 +79,17 @@ The inspiration for this project was the pencil guessing game for two or more pl
    
 ## Design
 
-### Flowcharts 
-![Flowcharts](./assets/images/readme/hangman-flowcharts.jpg)<br>
-I spent time planning and thinking about the logic behind the game to ensure I had a general idea of how it should be built. I created flowcharts to allow me to follow the logic through the application. The charts were generated using [Lucidchart](https://lucid.app/) Integration and are shown below.<br>
-
 #### Colours
 * The colours in the game are supplied by the Python Colorama Model
 
 #### Typography
 * The Arial is used as the main font for the whole project
+
+## Logic
+
+### Flowcharts 
+![Flowcharts](./assets/images/readme/hangman-flowcharts.jpg)<br>
+I spent time planning and thinking about the logic behind the game to ensure I had a general idea of how it should be built. I created flowcharts to allow me to follow the logic through the application. The charts were generated using [Lucidchart](https://lucid.app/) Integration and are shown below.<br>
       
 ## Features
 
