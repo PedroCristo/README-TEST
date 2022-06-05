@@ -1,64 +1,74 @@
-# Hangman - Game
+# Tasty Blog
 
 # Introduction
-Project milestone 3 for Code Institute Full-stack development program: Python Terminal.
-Hangman is a Python terminal game, which runs in the Code Institute mock terminal on Heroku. The main goal of the game is to guess letters in order to find the word that the computer randomly selects. This project was inspired by the pencil guessing game for two or more players. 
-According to the site Gambiter, this game has been around since 1894 under the name "Birds, Beasts, and Fishes".
-
-[Live Project Here](https://portfolio-project-3.herokuapp.com/)
+Project milestone 4 for Code Institute Full-stack development program: Django Framework.
+For this project, I have decided to build a food recipes blog
 
 
-<p align="center"><img src="./assets/images/readme/hangman-cover.png" alt="Hangman game webpage on multiple devices"></p>
+[Live Project Here](https://tasty-blog-portfolio-project-4.herokuapp.com/)
+
+
+<p align="center"><img src="./assets/images/readme/tasty_blog_responsiveveness.jpg" alt="Tasty Blog webpage on multiple devices"></p>
 
 ## README Table Content
 
-* [Introduction](#introduction)
-* [User Experience UX](#user-experience---UX)
-* [Design](#Design)
-    * [Colours](#Colours)
-    * [Typography](#typography)
-* [Logic](#logic)
-     * [Flowcharts](#flowcharts)
-  
-* Features
-    * [Logo and Intro Message](#Logo-and-Intro-Message) 
-    * [Ask Player Name and City](#Ask-Player-Name-and-City)
-    * [Empty Input for Name and City](#Empty-Input-for-Name-and-City)
-* [Game Features](#game-features)
-    * [Hangman Stage 1](#Hangman-Stage-1)
-    * [Hangman Stage 2](#Hangman-Stage-2) 
-    * [Hangman Stage 3](#Hangman-Stage-3)
-    * [Hangman Stage 4](#Hangman-Stage-4)
-    * [Hangman Stage 5](#Hangman-Stage-5)
-    * [Hangman Stage 6](#Hangman-Stage-6)
-    * [Hangman Stage 7](#Hangman-Stage-7)
-    * [Hangman Stage 8 - Lose](#Hangman-Stage-8---Lose)
-    * [Hangman Stage 9 - Win](#Hangman-Stage-9---Win)
-    * [Hangman Stage 10 - Win Extra](#Hangman-Stage-10---Win-Extra)
-    * [Menu Options](#Menu-Options)
-    * [Leaderboard](#Leaderboard)
-    * [Exit Game](#Exit-Game)
-    * [How to Play](#how-to-play)
-* [Storage Data](#Storage-Data)
-* [Technologies Used](#technologies-used)
-    * [Languages Used](#languages-used)
-    * [Python Packages](#Python-Packages)
-    * [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
-* [Testing](#testing)
-    * [PEP 8 Online](#PEP-8-Online)
-    * [Lighthouse](#Lighthouse)
-    * [Functionality](#Functionality)
-    * [Bugs](Bugs)
-* [Deployment](#deployment-this-project)
-    * [Deploying of This Project](#deployment-this-project)
-    * [Forking This Project](#forking-this-project)
-    * [Cloning This Project](#cloning-this-project)
-* [Credits](#credits)
-* [Content](#content)
+- [Tasty Blog](#tasty-blog)
+- [Introduction](#introduction)
+  - [README Table Content](#readme-table-content)
+  - [User Experience - UX](#user-experience---ux)
+    - [User Stories](#user-stories)
+  - [Design](#design)
+      - [Colours](#colours)
+      - [Typography](#typography)
+  - [Logic](#logic)
+    - [Flowcharts](#flowcharts)
+  - [Features](#features)
+    - [Logo and Intro Message](#logo-and-intro-message)
+    - [Ask Player Name and City](#ask-player-name-and-city)
+      - [Empty Input for Name and City](#empty-input-for-name-and-city)
+    - [Welcome Message and Game Rules](#welcome-message-and-game-rules)
+  - [Game Features](#game-features)
+    - [Hangman Stage 1](#hangman-stage-1)
+    - [Hangman Stage 2](#hangman-stage-2)
+    - [Hangman Stage 3](#hangman-stage-3)
+    - [Hangman Stage 4](#hangman-stage-4)
+    - [Hangman Stage 5](#hangman-stage-5)
+    - [Hangman Stage 6](#hangman-stage-6)
+    - [Hangman Stage 7](#hangman-stage-7)
+    - [Hangman Stage 8 - Lose](#hangman-stage-8---lose)
+    - [Hangman Stage 9 - Win](#hangman-stage-9---win)
+    - [Hangman Stage 10 - Win Extra](#hangman-stage-10---win-extra)
+    - [Menu Options](#menu-options)
+    - [Leaderboard](#leaderboard)
+    - [Exit Game](#exit-game)
+    - [How to Play](#how-to-play)
+  - [Storage Data](#storage-data)
+    - [Code to Connect to Google Sheet](#code-to-connect-to-google-sheet)
+    - [Google Sheet Hangman Leaderboard](#google-sheet-hangman-leaderboard)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+      - [Python Packages](#python-packages)
+    - [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
+  - [Testing](#testing)
+    - [PEP 8 Online](#pep-8-online)
+    - [Lighthouse](#lighthouse)
+  - [Functionality](#functionality)
+  - [Bugs](#bugs)
+    - [Python Lines too Long](#python-lines-too-long)
+    - [Fixed Bug](#fixed-bug)
+  - [Deployment of This Project](#deployment-of-this-project)
+  - [Forking This Project](#forking-this-project)
+  - [Cloning This Project](#cloning-this-project)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Information Sources / Resources](#information-sources--resources)
+  - [Special Thanks](#special-thanks)
 
 ## User Experience - UX
 
 ### User Stories
+A list of my user stories and their tasks can be found
+[here](https://github.com/PedroCristo/portfolio_project_4/issues)
 
 * As a website creator, I want to:
   
