@@ -8,7 +8,7 @@ For this project, I have decided to build a food recipes blog
 [Live Project Here](https://tasty-blog-portfolio-project-4.herokuapp.com/)
 
 
-<p align="center"><img src="./assets/images/readme/tasty_blog_responsiveveness.jpg" alt="Tasty Blog webpage on multiple devices"></p>
+<p align="center"><img src="./assets/images/readme/tasty_blog_responsiveness.jpg" alt="Tasty Blog webpage on multiple devices"></p>
 
 ## README Table Content
 
