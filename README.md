@@ -2,7 +2,7 @@
 
 # Introduction
 Project milestone 4 for Code Institute Full-stack development program: Django Framework.
-For this project, I have decided to build a food recipes blog
+This project is a Full Stack website built using the Django framework. Tasty Blog is a recipe book where users can look or search for a recipe to prepare and if they are login they can also like/unlike, comment on a post and upload or update their user image and details. As a user admin, they can post new recipes, approve comments and add new authors.
 
 
 [Live Project Here](https://tasty-blog-portfolio-project-4.herokuapp.com/)
@@ -70,30 +70,27 @@ For this project, I have decided to build a food recipes blog
 A list of my user stories and their tasks can be found
 [here](https://github.com/PedroCristo/portfolio_project_4/issues)
 
-* As a website creator, I want to:
+* As a website user, I can:
+1. Navigate around the site so that I can easily view desired content.
+2. View a list of recipes so that I can choose one to read.
+3. Search recipes so that I can find specific recipes I'm looking for.
+4. Click on a recipe so that I can read the recipe details.
+5. Register for an account so that I can begin to use the services afforded to members
+
+* As website user login, I can:
+1. Like/unlike recipes so that I can mark which recipes I enjoyed.
+2. View the number of likes on a recipe so that I can see which is most popular.
+3. View comments on recipes so that I can read other user's opinions.
+4. Comment on recipes so that I can give my opiniom about the posts.
+5. log in/out so that I can like recipes, comment on recipes and manage my profile.
   
-1. Build an easy app for the users to play the game
-2. Build a game that is both enjoyable and challenging for the players
-   
-* As a new visitor, I want to:
-
-1. Be able to understand the purpose of the App and start a new game
-2. Be able to follow the score, see the wrong and right letters appear once I take a turn, and see how many tries remain before the game is over
-3. Be able to watch my results and other players' results on the Leaderboard
-   
-* As a returning visitor, I want to:
-
-1. Be able to play the game again with a different word as chosen by the computer
-2. Be challenged and try to improve on my previous scores. 
-3. Compare my scores with other users on the Leaderboard
-   
 ## Design
 
 #### Colours
 * The colours in the game are supplied by the Python Colorama Model
 
 #### Typography
-* The Arial is used as the main font for the whole project
+* The Lato font is used as the main font for the whole project  and the Kaushan font is used to show the word enjoy in the Post Details and About pages.
 
 ## Logic
 
