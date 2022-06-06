@@ -23,7 +23,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [Logic](#logic)
     - [Flowcharts](#flowcharts)
   - [Features](#features)
-    - [Home Page -Carousel](#home-page--carousel)
+    - [Home Page](#home-page)
     - [Home Page - Highilights Posts](#home-page---highilights-posts)
       - [About Page](#about-page)
     - [Blog Page](#blog-page)
@@ -102,9 +102,9 @@ I spent time planning and thinking about the logic and flow behind the game to e
       
 ## Features
 
-### Home Page -Carousel
+### Home Page
 
-![Home Page - Carousel](./assets/images/readme/tasty_blog_home-page-carousel.jpg)
+![Home Page](./assets/images/readme/tasty_blog_home-page.jpg)
 
 * When the users reach the website, they will see this feature. The game logo and the intro message are displayed here.<br>
 
