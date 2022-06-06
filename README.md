@@ -27,6 +27,9 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
     - [Home Page - Highilights Posts](#home-page---highilights-posts)
       - [About Page](#about-page)
     - [Blog Page](#blog-page)
+    - [Post Detail Page - Top](#post-detail-page---top)
+    - [Post Detail Page - Steps](#post-detail-page---steps)
+    - [Post Detail Page - Comments](#post-detail-page---comments)
     - [Contact Page](#contact-page)
     - [Categories Page](#categories-page)
     - [Categories Results Page](#categories-results-page)
@@ -119,6 +122,18 @@ I spent time planning and thinking about the logic and flow behind the game to e
 
 ### Blog Page
 ![Blog Page](./assets/images/readme/tasty_blog_page.jpg)
+* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+  
+### Post Detail Page - Top
+![Post Detail Page - Top](./assets/images/readme/tasty_blog_post_detail_1_page.jpg)
+* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+  
+### Post Detail Page - Steps
+![Post Detail Page - Top](./assets/images/readme/tasty_blog_post_detail_2_page.jpg)
+* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+  
+### Post Detail Page - Comments
+![Post Detail Page - Comments](./assets/images/readme/tasty_blog_post_detail_comments_page.jpg)
 * After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
 
 ### Contact Page
