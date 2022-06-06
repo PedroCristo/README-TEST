@@ -23,21 +23,23 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [Logic](#logic)
     - [Flowcharts](#flowcharts)
   - [Features](#features)
-    - [Logo and Intro Message](#logo-and-intro-message)
-    - [Ask Player Name and City](#ask-player-name-and-city)
-      - [Empty Input for Name and City](#empty-input-for-name-and-city)
-    - [Welcome Message and Game Rules](#welcome-message-and-game-rules)
-  - [Game Features](#game-features)
-    - [Hangman Stage 1](#hangman-stage-1)
-    - [Hangman Stage 2](#hangman-stage-2)
-    - [Hangman Stage 3](#hangman-stage-3)
-    - [Hangman Stage 4](#hangman-stage-4)
-    - [Hangman Stage 5](#hangman-stage-5)
-    - [Hangman Stage 6](#hangman-stage-6)
-    - [Hangman Stage 7](#hangman-stage-7)
-    - [Hangman Stage 8 - Lose](#hangman-stage-8---lose)
-    - [Hangman Stage 9 - Win](#hangman-stage-9---win)
-    - [Hangman Stage 10 - Win Extra](#hangman-stage-10---win-extra)
+    - [Home Page -Carousel](#home-page--carousel)
+    - [Home Page - Highilights Posts](#home-page---highilights-posts)
+      - [About Page](#about-page)
+    - [Blog Page](#blog-page)
+    - [Contact Page](#contact-page)
+    - [Categories Page](#categories-page)
+    - [Categories Results Page](#categories-results-page)
+    - [Search Page](#search-page)
+    - [Search Results Page](#search-results-page)
+    - [Search Results - Input Empty](#search-results---input-empty)
+    - [Search Results - No Results Found](#search-results---no-results-found)
+    - [Signup Page](#signup-page)
+    - [Login Page](#login-page)
+    - [Logout Page](#logout-page)
+    - [User Profile Page](#user-profile-page)
+    - [Navbar](#navbar)
+    - [Footer](#footer)
     - [Menu Options](#menu-options)
     - [Leaderboard](#leaderboard)
     - [Exit Game](#exit-game)
@@ -100,85 +102,77 @@ I spent time planning and thinking about the logic and flow behind the game to e
       
 ## Features
 
-### Logo and Intro Message
+### Home Page -Carousel
 
-![Logo and Intro Message](./assets/images/readme/hangman-feature-1.jpg)
+![Home Page - Carousel](./assets/images/readme/tasty_blog_home-page-carousel.jpg)
 
 * When the users reach the website, they will see this feature. The game logo and the intro message are displayed here.<br>
 
-### Ask Player Name and City
+### Home Page - Highilights Posts
 
-![Ask Player Name and City](./assets/images/readme/hangman-feature-2.jpg)
+![Home Page - Highilights Posts](./assets/images/readme/tasty_blog_home_page_highilights-.jpg)
 * After the player sees the intro feature the computer will ask the user's to input their name and city.<br>
 
-#### Empty Input for Name and City
-![Empty Input for Name and City](./assets/images/readme/hangman-feature-3.jpg)
+#### About Page
+![About Page](./assets/images/readme/tasty_blog_about_page.jpg)
 * If the player does not input their name and city this alert will appear.<br>
 
-### Welcome Message and Game Rules
-![Welcome Message and Game Rules](./assets/images/readme/hangman-feature-4.jpg)
+### Blog Page
+![Blog Page](./assets/images/readme/tasty_blog_page.jpg)
 * After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
 
-## Game Features
+### Contact Page
+![Contact Page](./assets/images/readme/tasty_blog_contact_page.jpg)<br><br>
 
-### Hangman Stage 1
-![Game Feature](./assets/images/readme/hangman-feature-5.jpg)<br><br>
-
-This feature displays where the main scene happens. Here the user can play and see the following information about the game:
-* Numbers of letters choosen by the computer 
-* Hangman stages
-* Letters guessed right
-* Letters guessed wrong
-* Current score
-* Current number of attempts
-* Input to guess a letter or a full word
-* Input letters to either guess a letter only or the full word
-
-### Hangman Stage 2 
-
-![Hangman Stage 2 ](./assets/images/readme/hangman-feature-6.jpg)<br><br>
+### Categories Page
+![Categories Page ](./assets/images/readme/tasty_blog_categories_page.jpg)<br><br>
 Any time the player guesses a wrong letter, a part of the hangman appears
 * 1 letter guessed wrong, the player will see the hangman and the first part of the hangman:  a rope, in green.
 
-### Hangman Stage 3
-
-![Hangman Stage 3](./assets/images/readme/hangman-feature-7.jpg)
+### Categories Results Page
+![Categories Results Page](./assets/images/readme/tasty_blog_categories_results_page.jpg)
 * 2 letters guessed wrong the player will see the hangman and 2 parts of the hangman a rope and head in green.
 
-### Hangman Stage 4
-
-![Hangman Stage 4](./assets/images/readme/hangman-feature-8.jpg)
+### Search Page
+![Search Page](./assets/images/readme/tasty_blog_search_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Search Results Page
+![Search Results Page](./assets/images/readme/tasty_blog_search_results_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Search Results - Input Empty
+![Search Results - Input Empty](./assets/images/readme/tasty_blog_search_results_empty_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Search Results - No Results Found
+![Search Results - No Results Found](./assets/images/readme/tasty_blog_search_results_null_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Signup Page
+![Signup Page](./assets/images/readme/tasty_blog_signup_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Login Page
+![Login Page](./assets/images/readme/tasty_blog_login_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Logout Page
+![Logout Page](./assets/images/readme/tasty_blog_logout_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### User Profile Page
+![User Profile Page](./assets/images/readme/tasty_blog_user_profile_page.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Navbar
+![Navbar](./assets/images/readme/tasty_blog_navbar.jpg)
+* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+  
+### Footer
+![Footer](./assets/images/readme/tasty_blog_footer.jpg)
 * 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
 
-### Hangman Stage 5
-
-![Hangman Stage 5](./assets/images/readme/hangman-feature-9.jpg)
-* 4 letters guessed wrong the player will see the hangman and 4 parts of the hangman rope, head, torso and the right arm in yellow.
-
-### Hangman Stage 6
-
-![Hangman Stage 6](./assets/images/readme/hangman-feature-10.jpg)
-* 5 letters guessed wrong the player will see the hangman and 5 parts of the hangman, rope, head, torso and both arms in red. Also the "Danger Zone" will be displayed.
-
-### Hangman Stage 7
-
-![Hangman Stage 7](./assets/images/readme/hangman-feature-11.jpg)
-* 6 letters guessed wrong and the player will see the hangman and 6 parts of the hangman rope, head, torso, both arms and left leg in red. Also the alert message "Danger Zone" will be displayed.
-
-### Hangman Stage 8 - Lose
-
-![Hangman Stage 8 - Lose](./assets/images/readme/hangman-feature-12.jpg)
-* 7 letters guessed wrong the player will see the full hangman and the game is over.
-
-### Hangman Stage 9 - Win
-
-![Hangman Stage 9 - Win](./assets/images/readme/hangman-feature-13.jpg)
-* If the player guessed the full word letter by letter, they will see this feature and will win the game and get 200 points.
-
-### Hangman Stage 10 - Win Extra
-
-![Hangman Stage 10 - Win Extra](./assets/images/readme/hangman-feature-14.jpg)
-* If the player guessed all the letters that appear in the word there by completing the word or at least guessed no more than 3 correct letters before completing the full word, this feature will appear.
 
 ### Menu Options
 
