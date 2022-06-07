@@ -108,21 +108,20 @@ I spent time planning and thinking about the logic and flow behind the game to e
 ### Home Page
 
 ![Home Page](./assets/images/readme/tasty_blog_home-page.jpg)
-
-* When the users reach the website, they will see this feature. The game logo and the intro message are displayed here.<br>
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes..<br>
 
 ### Home Page - Highilights Posts
 
 ![Home Page - Highilights Posts](./assets/images/readme/tasty_blog_home_page_highilights-.jpg)
-* After the player sees the intro feature the computer will ask the user's to input their name and city.<br>
+* In the highlighted posts, users can watch a section of 6 recipes, chosen by the site admin by clicking the featured box in the post database.<br>
 
 #### About Page
 ![About Page](./assets/images/readme/tasty_blog_about_page.jpg)
-* If the player does not input their name and city this alert will appear.<br>
+* On the About Page, users can read information about the Tasty Blog website as the main purpose and the main goal of the blog. This is basically a way to introduce the website to the users.<br>
 
 ### Blog Page
 ![Blog Page](./assets/images/readme/tasty_blog_page.jpg)
-* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+* AOn the Blog Page, users can have access to the whole recipes posts available on the website and choose anyone to see the recipe detail by clicking on the card.<br>
   
 ### Post Detail Page - Top
 ![Post Detail Page - Top](./assets/images/readme/tasty_blog_post_detail_1_page.jpg)
@@ -138,39 +137,39 @@ I spent time planning and thinking about the logic and flow behind the game to e
 
 ### Contact Page
 ![Contact Page](./assets/images/readme/tasty_blog_contact_page.jpg)<br><br>
+* On the Contact Page, users can have access to the Tasty blog contact and also send an email by sending a contact form available on this page.
 
 ### Categories Page
 ![Categories Page ](./assets/images/readme/tasty_blog_categories_page.jpg)<br><br>
-Any time the player guesses a wrong letter, a part of the hangman appears
-* 1 letter guessed wrong, the player will see the hangman and the first part of the hangman:  a rope, in green.
+* On the Categories Page, users can see the categories available in the blog and filter the posts by category.
 
 ### Categories Results Page
 ![Categories Results Page](./assets/images/readme/tasty_blog_categories_results_page.jpg)
-* 2 letters guessed wrong the player will see the hangman and 2 parts of the hangman a rope and head in green.
+* On the Categories Results Page, users can access to the post filtered by the category chosen.
 
 ### Search Page
 ![Search Page](./assets/images/readme/tasty_blog_search_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* In this box, the users can do a search by inputting a keyword in the input and trying to find the recipe they are looking for.
   
 ### Search Results Page
 ![Search Results Page](./assets/images/readme/tasty_blog_search_results_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* On the Search Results Page, users can see the recipes found by their search and go to the Post Details Page by clicking on the card result.
   
 ### Search Results - Input Empty
 ![Search Results - Input Empty](./assets/images/readme/tasty_blog_search_results_empty_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* On the Search Results Page - Input Empty, users will see this message if they do a search with an empty input.
   
 ### Search Results - No Results Found
 ![Search Results - No Results Found](./assets/images/readme/tasty_blog_search_results_null_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* On the Search Results Page - No Results Found, users will see this message if there is nothing found for the search.
   
 ### Signup Page
 ![Signup Page](./assets/images/readme/tasty_blog_signup_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* On the Signup Page, a new user can sign up for the Tasty Blog website by filling out the form and submit.
   
 ### Login Page
 ![Login Page](./assets/images/readme/tasty_blog_login_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* On the Login Page, users can log in to the website and have access to their Profile Page, upload a user image, comment on a post, delete a comment and like/unlike a recipe.
   
 ### Logout Page
 ![Logout Page](./assets/images/readme/tasty_blog_logout_page.jpg)
@@ -178,7 +177,7 @@ Any time the player guesses a wrong letter, a part of the hangman appears
   
 ### User Profile Page
 ![User Profile Page](./assets/images/readme/tasty_blog_user_profile_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* On the Logout Page, users can confirm that they wanna exit the website.
   
 ### Navbar
 ![Navbar](./assets/images/readme/tasty_blog_navbar.jpg)
