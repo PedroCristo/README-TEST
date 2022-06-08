@@ -195,10 +195,11 @@ A list of my user stories and their tasks can be found
 
 * [Gunicorn](https://docs.python.org/3/library/random.html?highlight=random#module-random)
 * [Cloudinary](https://cloudinary.com/)
-* [Gspread](https://pypi.org/project/gspread/)
-* [Colorama](https://pypi.org/project/colorama/)
-* [Time](https://pypi.org/project/time/): defined time sleep
-* [google.oauth2.service_accoun](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to Google service accounts
+* [Dj_database_url](https://pypi.org/project/gspread/)
+* [Psycopg2](https://pypi.org/project/colorama/)
+* [Summernote](https://pypi.org/project/time/): defined time sleep
+* [Allauth](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to Google service accounts
+* [Crispy Forms](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to Google service accounts
   
 ### Frameworks - Libraries - Programs Used
 
@@ -210,9 +211,9 @@ A list of my user stories and their tasks can be found
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub
 * [GitHub](https://github.com/)
     * GitHub is used to store the project's code after being pushed from Git
-* [PostgreSQL](https://www.postgresql.org/)
+* [Heroku](https://id.heroku.com)
     * Heroku was used to deploy the live project
-* [Database used through heroku.](https://id.heroku.com)
+* [PostgreSQL](https://www.postgresql.org/)
     * Database used through heroku.
 * [VSCode](https://code.visualstudio.com/)
     * VSCode was used to create and edit the website
