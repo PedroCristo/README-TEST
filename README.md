@@ -8,7 +8,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
 [Live Project Here](https://tasty-blog-portfolio-project-4.herokuapp.com/)
 
 
-<p align="center"><img src="./assets/images/readme/tasty_blog_responsiveness.jpg" alt="Tasty Blog webpage on multiple devices"></p>
+<p align="center"><img src="./assets/images/readme/features/tasty_blog_responsiveness.jpg" alt="Tasty Blog webpage on multiple devices"></p>
 
 ## README Table Content
 
@@ -20,8 +20,8 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [Design](#design)
       - [Colours](#colours)
       - [Typography](#typography)
-  - [Logic](#logic)
-    - [Flowcharts](#flowcharts)
+      - [Imagery](#imagery)
+  - [Database Diagrama](#database-diagrama)
   - [Features](#features)
     - [Home Page](#home-page)
     - [Home Page - Highilights Posts](#home-page---highilights-posts)
@@ -43,16 +43,9 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
     - [User Profile Page](#user-profile-page)
     - [Navbar](#navbar)
     - [Footer](#footer)
-    - [Menu Options](#menu-options)
-    - [Leaderboard](#leaderboard)
-    - [Exit Game](#exit-game)
-    - [How to Play](#how-to-play)
-  - [Storage Data](#storage-data)
-    - [Code to Connect to Google Sheet](#code-to-connect-to-google-sheet)
-    - [Google Sheet Hangman Leaderboard](#google-sheet-hangman-leaderboard)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
-      - [Python Packages](#python-packages)
+      - [Django Packages](#django-packages)
     - [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
   - [Testing](#testing)
     - [PEP 8 Online](#pep-8-online)
@@ -96,168 +89,137 @@ A list of my user stories and their tasks can be found
 
 #### Typography
 * The Lato font is used as the main font for the whole project  and the Kaushan font is used to show the word enjoy in the Post Details and About pages.
+  
+#### Imagery
+* All the imagery will be related to recipes and website design with only 7 images being static. The rest will be uploaded by the author in the database..
 
-## Logic
+## Database Diagrama
+![Flowcharts](./assets/images/readme/extras/tasty_blog_database_diagrama_1.jpg)<br>
 
-### Flowcharts 
-![Flowcharts](./assets/images/readme/hangman-flowcharts.jpg)<br>
-I spent time planning and thinking about the logic and flow behind the game to ensure I had a general idea of how it could be built. I created flowcharts to assist me with the logical flow throughout the application. The charts were generated using [Lucidchart](https://lucid.app/) Integration and are shown below.<br>
       
 ## Features
 
 ### Home Page
 
-![Home Page](./assets/images/readme/tasty_blog_home-page.jpg)
+![Home Page](./assets/images/readme/features/tasty_blog_home-page.jpg)
 * The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes..<br>
 
 ### Home Page - Highilights Posts
 
-![Home Page - Highilights Posts](./assets/images/readme/tasty_blog_home_page_highilights-.jpg)
+![Home Page - Highilights Posts](./assets/images/readme/features/tasty_blog_home_page_highilights-.jpg)
 * In the highlighted posts, users can watch a section of 6 recipes, chosen by the site admin by clicking the featured box in the post database.<br>
 
 #### About Page
-![About Page](./assets/images/readme/tasty_blog_about_page.jpg)
+![About Page](./assets/images/readme/features/tasty_blog_about_page.jpg)
 * On the About Page, users can read information about the Tasty Blog website as the main purpose and the main goal of the blog. This is basically a way to introduce the website to the users.<br>
 
 ### Blog Page
-![Blog Page](./assets/images/readme/tasty_blog_page.jpg)
-* AOn the Blog Page, users can have access to the whole recipes posts available on the website and choose anyone to see the recipe detail by clicking on the card.<br>
+![Blog Page](./assets/images/readme/features/tasty_blog_page.jpg)
+* On the Blog Page, users can have access to the whole recipes posts available on the website and choose anyone to see the recipe detail by clicking on the card.<br>
   
 ### Post Detail Page - Top
-![Post Detail Page - Top](./assets/images/readme/tasty_blog_post_detail_1_page.jpg)
+![Post Detail Page - Top](./assets/images/readme/features/tasty_blog_post_detail_1_page.jpg)
 * After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
   
 ### Post Detail Page - Steps
-![Post Detail Page - Top](./assets/images/readme/tasty_blog_post_detail_2_page.jpg)
+![Post Detail Page - Top](./assets/images/readme/features/tasty_blog_post_detail_2_page.jpg)
 * After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
   
 ### Post Detail Page - Comments
-![Post Detail Page - Comments](./assets/images/readme/tasty_blog_post_detail_comments_page.jpg)
+![Post Detail Page - Comments](./assets/images/readme/features/tasty_blog_post_detail_comments_page.jpg)
 * After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
 
 ### Contact Page
-![Contact Page](./assets/images/readme/tasty_blog_contact_page.jpg)<br><br>
+![Contact Page](./assets/images/readme/features/tasty_blog_contact_page.jpg)<br><br>
 * On the Contact Page, users can have access to the Tasty blog contact and also send an email by sending a contact form available on this page.
 
 ### Categories Page
-![Categories Page ](./assets/images/readme/tasty_blog_categories_page.jpg)<br><br>
+![Categories Page ](./assets/images/readme/features/tasty_blog_categories_page.jpg)<br><br>
 * On the Categories Page, users can see the categories available in the blog and filter the posts by category.
 
 ### Categories Results Page
-![Categories Results Page](./assets/images/readme/tasty_blog_categories_results_page.jpg)
+![Categories Results Page](./assets/images/readme/features/tasty_blog_categories_results_page.jpg)
 * On the Categories Results Page, users can access to the post filtered by the category chosen.
 
 ### Search Page
-![Search Page](./assets/images/readme/tasty_blog_search_page.jpg)
+![Search Page](./assets/images/readme/features/tasty_blog_search_page.jpg)
 * In this box, the users can do a search by inputting a keyword in the input and trying to find the recipe they are looking for.
   
 ### Search Results Page
-![Search Results Page](./assets/images/readme/tasty_blog_search_results_page.jpg)
+![Search Results Page](./assets/images/readme/features/tasty_blog_search_results_page.jpg)
 * On the Search Results Page, users can see the recipes found by their search and go to the Post Details Page by clicking on the card result.
   
 ### Search Results - Input Empty
-![Search Results - Input Empty](./assets/images/readme/tasty_blog_search_results_empty_page.jpg)
+![Search Results - Input Empty](./assets/images/readme/features/tasty_blog_search_results_empty_page.jpg)
 * On the Search Results Page - Input Empty, users will see this message if they do a search with an empty input.
   
 ### Search Results - No Results Found
-![Search Results - No Results Found](./assets/images/readme/tasty_blog_search_results_null_page.jpg)
+![Search Results - No Results Found](./assets/images/readme/features/tasty_blog_search_results_null_page.jpg)
 * On the Search Results Page - No Results Found, users will see this message if there is nothing found for the search.
   
 ### Signup Page
-![Signup Page](./assets/images/readme/tasty_blog_signup_page.jpg)
+![Signup Page](./assets/images/readme/features/tasty_blog_signup_page.jpg)
 * On the Signup Page, a new user can sign up for the Tasty Blog website by filling out the form and submit.
   
 ### Login Page
-![Login Page](./assets/images/readme/tasty_blog_login_page.jpg)
+![Login Page](./assets/images/readme/features/tasty_blog_login_page.jpg)
 * On the Login Page, users can log in to the website and have access to their Profile Page, upload a user image, comment on a post, delete a comment and like/unlike a recipe.
   
 ### Logout Page
-![Logout Page](./assets/images/readme/tasty_blog_logout_page.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+![Logout Page](./assets/images/readme/features/tasty_blog_logout_page.jpg)
+* 3On the Logout Page, users can confirm that they wanna exit the website.
   
 ### User Profile Page
-![User Profile Page](./assets/images/readme/tasty_blog_user_profile_page.jpg)
-* On the Logout Page, users can confirm that they wanna exit the website.
+![User Profile Page](./assets/images/readme/features/tasty_blog_user_profile_page.jpg)
+* On the Profile Page, users can have access to their own information and update their user name, email and profile image.
   
 ### Navbar
-![Navbar](./assets/images/readme/tasty_blog_navbar.jpg)
+![Navbar](./assets/images/readme/features/tasty_blog_navbar.jpg)
 * 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
   
 ### Footer
-![Footer](./assets/images/readme/tasty_blog_footer.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+![Footer](./assets/images/readme/features/tasty_blog_footer.jpg)
+*On the website footer, users can see basic information about the blog such as contact, social media, copyright, and quote about food recipes.
 
-
-### Menu Options
-
-![Menu Options](./assets/images/readme/hangman-menu.jpg)
-* In the end of the game users will have access to the menu where they can choose from these options: <br>
-[A] - Play Again <br>
-[B] - Leaderboard <br>
-[C] - Exit Game
-
-### Leaderboard
-![Leaderboard](./assets/images/readme/hangman-leaderboard.jpg)
-* The Leaderboard shows the 15 players with the best scores.
-
-### Exit Game
-![Exit Game](./assets/images/readme/hangman-exit-game.jpg)
-* The players will see this message if they will chose to exit the game by typing [C].
-
-
-### How to Play
-![How to Play](./assets/images/readme/hangman-explanation-1.jpg)<br>
-![How to Play](./assets/images/readme/hangman-message-back.jpg)<br>
-The player has 7 attempts to try to guess the right word by inputting letters or can try to input all the letters to correctly complete the full word try. The word is randomly chosen by the computer from a list.
-* When the game starts the player can see how many letters are in the word [1] and the computer will ask the player to input a letter or a word [7].
-* If the player guesses the right letter, they will see a message from the computer [8] the letter guessed displayed in the word length [3], the hangman stage will remain the same [2] and the score will increase by 25 points [5]
-* If the player guesses a wrong letter, they will see a message from the computer [9] the letter guessed displayed in the wrong letters guesses [4], the hangman stage will turn to the next stage [2] and the number of attempts will decrease by 1 [6]
-* When the player types an invalid input, they will see a message from the computer [10].
-* If the user guesses the right word they will see the [Winner Feature](#Hangman-Stage-9---Win)
-* If the player guessed the full word at once or at least no more than 3 letters guessed right before trying to guess the full word, they will win the game-winning 500 extra points and see this feature [Winner Feature / Extra Points](#Hangman-Stage-10---Win)
-* 7 letters guessed wrong and the player will see the [Loser Feature](#Hangman-Stage-8---lose)
-
-## Storage Data
-
-I have used a Google sheet to save the player name, city, score and date.  This sheet is connected to the code through the Google Drive and Google Sheet API by the Google Cloud Platform. This method allows me to send and receive data as I had access to the Google Sheet API credentials. I also added in the Config Vars to these credentials when I was deploying the project in Heroku. As this is sensitive data, I had to add the creds.json in the Git ignore file. This would ensure that these credentials are not pushed to the repository.
-### Code to Connect to Google Sheet
-
-![Code to Connect to Google Sheet](./assets/images/readme/hangman-creds.jpg)
-
-### Google Sheet Hangman Leaderboard
-
-![Google Sheet Hangman Leaderboard](./assets/images/readme/hangman-google-sheet.jpg)
 
 ## Technologies Used
 ### Languages Used 
 
-* [Python](https://www.python.org/)
+* [HTML 5](https://en.wikipedia.org/wiki/HTML/)
+* [CSS 3](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://www.javascript.com/)
+* [Django](https://www.python.org/)
+* [Python](https://www.djangoproject.com/)
 
-#### Python Packages
+#### Django Packages
 
-* [Rondom](https://docs.python.org/3/library/random.html?highlight=random#module-random): returns a random integer to get a random word
-* [Datetime](https://pypi.org/project/DateTime/): returns the full date
-* [Gspread](https://pypi.org/project/gspread/): allows communication wit Google Sheets
-* [Colorama](https://pypi.org/project/colorama/): allows terminal text to be printed in different colours / styles
+* [Gunicorn](https://docs.python.org/3/library/random.html?highlight=random#module-random)
+* [Cloudinary](https://cloudinary.com/)
+* [Gspread](https://pypi.org/project/gspread/)
+* [Colorama](https://pypi.org/project/colorama/)
 * [Time](https://pypi.org/project/time/): defined time sleep
 * [google.oauth2.service_accoun](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to Google service accounts
   
 ### Frameworks - Libraries - Programs Used
 
+* [Bootstrap](https://getbootstrap.com/)
+    * was used to style the website, add responsiveness and interactivity
+* [Jquery](https://jquery.com/)
+    * All the scripts were written using jquery library
 * [Git](https://git-scm.com/)
     * Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub
 * [GitHub](https://github.com/)
     * GitHub is used to store the project's code after being pushed from Git
-* [Heroku](https://id.heroku.com)
+* [PostgreSQL](https://www.postgresql.org/)
     * Heroku was used to deploy the live project
+* [Database used through heroku.](https://id.heroku.com)
+    * Database used through heroku.
 * [VSCode](https://code.visualstudio.com/)
     * VSCode was used to create and edit the website
 * [Lucidchart](https://lucid.app/)
-    * Lucidchart was used to create the flowchart
+    * Lucidchart was used to create the database diagrama
 * [PEP8](http://pep8online.com/)
     * The PEP8 was used to validate all the Python code
-* [Patorjk](https://patorjk.com)
-    * Patorjk (ASCII Art Generator) was used to draw the game logos
   
 ## Testing
 
@@ -265,7 +227,7 @@ I have used a Google sheet to save the player name, city, score and date.  This 
 
 The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
-![PEP8](./assets/images/readme/hangman-pep8-results.jpg).
+![PEP8](./assets/images/readme/features/hangman-pep8-results.jpg).
 * No errors or warnings were found during the testing of the code in PEP8
   
 ### Lighthouse 
@@ -274,7 +236,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 * Desktop Results:
 
-  ![Lighthouse Result](./assets/images/readme/hangman-lighthouse.jpg).
+  ![Lighthouse Result](./assets/images/readme/features/hangman-lighthouse.jpg).
 
 
 ## Functionality 
@@ -289,13 +251,13 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ## Bugs 
 ### Python Lines too Long
-![Lines to long](./assets/images/readme/hangman-issue.jpg)
-![Lines to long](./assets/images/readme/hangman-issue-result.jpg)
+![Lines to long](./assets/images/readme/features/hangman-issue.jpg)
+![Lines to long](./assets/images/readme/features/hangman-issue-result.jpg)
 
 * When I first built the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8.<br>
 
 ### Fixed Bug
-![Fix Bug](./assets/images/readme/hangman-issue-fixed.jpg)
+![Fix Bug](./assets/images/readme/features/hangman-issue-fixed.jpg)
 * I had to rebuild the logo using the program  Patorjk (ASCII Art Generator) to avoid these issues.
 
 ## Deployment of This Project
