@@ -21,6 +21,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
       - [Colours](#colours)
       - [Typography](#typography)
       - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
   - [Database Diagrama](#database-diagrama)
   - [Features](#features)
     - [Home Page](#home-page)
@@ -32,7 +33,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
     - [Post Detail Page - Comments](#post-detail-page---comments)
     - [Contact Page](#contact-page)
     - [Categories Page](#categories-page)
-    - [Categories Results Page](#categories-results-page)
+    - [Categories **Results**](#categories-results)
     - [Search Page](#search-page)
     - [Search Results Page](#search-results-page)
     - [Search Results - Input Empty](#search-results---input-empty)
@@ -91,7 +92,11 @@ A list of my user stories and their tasks can be found
 * The Lato font is used as the main font for the whole project  and the Kaushan font is used to show the word enjoy in the Post Details and About pages.
   
 #### Imagery
-* All the imagery will be related to recipes and website design with only 7 images being static. The rest will be uploaded by the author in the database..
+* All the imagery will be related to recipes and website design with only 7 images being static. The rest will be uploaded by the author in the database.
+
+### Wireframes
+Wireframes for this project 
+[here](./assets/images/readme/wireframes/signup_page.png)
 
 ## Database Diagrama
 ![Flowcharts](./assets/images/readme/extras/tasty_blog_database_diagrama_1.jpg)<br>
@@ -137,7 +142,7 @@ A list of my user stories and their tasks can be found
 ![Categories Page ](./assets/images/readme/features/tasty_blog_categories_page.jpg)<br><br>
 * On the Categories Page, users can see the categories available in the blog and filter the posts by category.
 
-### Categories Results Page
+### Categories **Results**
 ![Categories Results Page](./assets/images/readme/features/tasty_blog_categories_results_page.jpg)
 * On the Categories Results Page, users can access to the post filtered by the category chosen.
 
@@ -221,6 +226,12 @@ A list of my user stories and their tasks can be found
     * Lucidchart was used to create the database diagrama
 * [PEP8](http://pep8online.com/)
     * The PEP8 was used to validate all the Python code
+* [Fontawesome](https://fontawesome.com/)
+    * To add icons to the website
+* [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+    *  To check reponsiveness and contrast and JS errors in the console
+* [Google Fonts](https://fonts.google.com/)
+    * To add the 2 fonts using in the project
   
 ## Testing
 
