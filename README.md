@@ -96,7 +96,7 @@ A list of my user stories and their tasks can be found
 
 ### Wireframes
 Wireframes for this project 
-[here](./assets/images/readme/wireframes/signup_page.png)
+[here](./assets/images/readme/wireframes/tasty_blog_wireframes.pdf)
 
 ## Database Diagrama
 ![Flowcharts](./assets/images/readme/extras/tasty_blog_database_diagrama_1.jpg)<br>
