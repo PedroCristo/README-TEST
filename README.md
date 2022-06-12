@@ -96,7 +96,20 @@ A list of my user stories and their tasks can be found
 
 ### Wireframes
 Wireframes for this project 
-[here](./assets/images/readme/wireframes/tasty_blog_wireframes.pdf)
+* [Home Page](./assets/images/readme/wireframes/home_page.png)
+* [Home Page](./assets/images/readme/wireframes/home_page.png)
+* [about Page](./assets/images/readme/wireframes/about_page.png)
+* [Blog Page](./assets/images/readme/wireframes/blog_page.png)
+* [Contact Page](./assets/images/readme/wireframes/contact_page.png)
+* [Post Details Page](./assets/images/readme/wireframes/post_details_page.png)
+* [Categories Page](./assets/images/readme/wireframes/categories_page.png)
+* [Categories Results Page](./assets/images/readme/wireframes/categories_results_page.png)
+* [Search Box](./assets/images/readme/wireframes/search_box.png)
+* [Search Results Page](./assets/images/readme/wireframes/search_results_page.png)
+* [Signout Page](./assets/images/readme/wireframes/signout_page.png_page.png)
+* [Login Page](./assets/images/readme/wireframes/login_page.png)
+* [signup Page](./assets/images/readme/wireframes/signup_page.png)
+* [Profile Page](./assets/images/readme/wireframes/profile_page.png)
 
 ## Database Diagrama
 ![Flowcharts](./assets/images/readme/extras/tasty_blog_database_diagrama_1.jpg)<br>
