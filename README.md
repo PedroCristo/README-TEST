@@ -105,7 +105,7 @@ Wireframes for this project
 * [Categories Results Page](./assets/images/readme/wireframes/categories_results_page.png)
 * [Search Box](./assets/images/readme/wireframes/search_box.png)
 * [Search Results Page](./assets/images/readme/wireframes/search_results_page.png)
-* [Signout Page](./assets/images/readme/wireframes/signout_page.png_page.png)
+* [Signout Page](./assets/images/readme/wireframes/signout_page.png)
 * [Login Page](./assets/images/readme/wireframes/login_page.png)
 * [signup Page](./assets/images/readme/wireframes/signup_page.png)
 * [Profile Page](./assets/images/readme/wireframes/profile_page.png)
