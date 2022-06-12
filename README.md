@@ -97,7 +97,6 @@ A list of my user stories and their tasks can be found
 ### Wireframes
 Wireframes for this project 
 * [Home Page](./assets/images/readme/wireframes/home_page.png)
-* [Home Page](./assets/images/readme/wireframes/home_page.png)
 * [about Page](./assets/images/readme/wireframes/about_page.png)
 * [Blog Page](./assets/images/readme/wireframes/blog_page.png)
 * [Contact Page](./assets/images/readme/wireframes/contact_page.png)
