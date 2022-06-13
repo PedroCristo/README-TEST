@@ -95,12 +95,11 @@ A list of my user stories and their tasks can be found
 * All the imagery will be related to recipes and website design with only 7 images being static. The rest will be uploaded by the author in the database.
 
 ### Wireframes
-Wireframes for this project [Here](WIREFRAMES.md)
+Wireframes for this project [here](WIREFRAMES.md)
 
 ## Database Diagrama
 ![Database Diagrama](./assets/images/readme/extras/tasty_blog_database_diagrama_1.jpg)<br>
 
-      
 ## Features
 
 ### Home Page
@@ -111,7 +110,7 @@ Wireframes for this project [Here](WIREFRAMES.md)
 ### Home Page - Highilights Posts
 
 ![Home Page - Highilights Posts](./assets/images/readme/features/tasty_blog_home_page_highilights-.jpg)
-* In the highlighted posts, users can watch a section of 6 recipes, chosen by the site admin by clicking the featured box in the post database.<br>
+* In the highlighted posts, users can watch a selection of 6 recipes, chosen by the site admin by clicking the featured box in the post database.<br>
 
 #### About Page
 ![About Page](./assets/images/readme/features/tasty_blog_about_page.jpg)
@@ -123,15 +122,15 @@ Wireframes for this project [Here](WIREFRAMES.md)
   
 ### Post Detail Page - Top
 ![Post Detail Page - Top](./assets/images/readme/features/tasty_blog_post_detail_1_page.jpg)
-* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+* At the top of the Post Details Page, users can see the post's main image and have access to information about the post such as category, recipe name, rating stars, time to prepare, author name and image, and posted date, like unlike the post and how many likes and comments.<br>
   
 ### Post Detail Page - Steps
-![Post Detail Page - Top](./assets/images/readme/features/tasty_blog_post_detail_2_page.jpg)
-* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+![Post Detail Page - Steps](./assets/images/readme/features/tasty_blog_post_detail_2_page.jpg)
+* In this page section, users can read the ingredients and follow the steps to conclude the recipe.<br>
   
 ### Post Detail Page - Comments
 ![Post Detail Page - Comments](./assets/images/readme/features/tasty_blog_post_detail_comments_page.jpg)
-* After the user inputs their name and city, the program will display the welcome message and the game rules. The player then presses any key to start the game.<br>
+* AAt the bottom of this page, users can read the comments posted by other users and if they are login they are allowed to comment and delete comments posted by themselves.<br>
 
 ### Contact Page
 ![Contact Page](./assets/images/readme/features/tasty_blog_contact_page.jpg)<br><br>
@@ -171,7 +170,7 @@ Wireframes for this project [Here](WIREFRAMES.md)
   
 ### Logout Page
 ![Logout Page](./assets/images/readme/features/tasty_blog_logout_page.jpg)
-* 3On the Logout Page, users can confirm that they wanna exit the website.
+* 3O the Logout Page, users can confirm that they wanna exit the website.
   
 ### User Profile Page
 ![User Profile Page](./assets/images/readme/features/tasty_blog_user_profile_page.jpg)
@@ -179,7 +178,11 @@ Wireframes for this project [Here](WIREFRAMES.md)
   
 ### Navbar
 ![Navbar](./assets/images/readme/features/tasty_blog_navbar.jpg)
-* 3 letters guessed wrong the player will see the hangman and 3 parts of the hangman rope, head and torso in yellow.
+* The navigation bar is present at the top of every page and houses all links to the various other pages.
+* The options to Register or Log in will change to the option to log out once a user has logged in.
+* Once a user has signed in, more options such as profile page and user image will be available in the navbar.
+* A search icon is nested in the navbar and once clicked it will open the search box.
+* The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.
   
 ### Footer
 ![Footer](./assets/images/readme/features/tasty_blog_footer.jpg)
