@@ -44,6 +44,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
     - [User Profile Page](#user-profile-page)
     - [Navbar](#navbar)
     - [Footer](#footer)
+    - [Messages and Interaction With Users](#messages-and-interaction-with-users)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -107,7 +108,7 @@ Wireframes for this project [here](WIREFRAMES.md)
 ### Home Page
 
 ![Home Page](./assets/images/readme/features/tasty_blog_home-page.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes..<br>
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
 
 ### Home Page - Highilights Posts
 
@@ -190,6 +191,52 @@ Wireframes for this project [here](WIREFRAMES.md)
 ![Footer](./assets/images/readme/features/tasty_blog_footer.jpg)
 *On the website footer, users can see basic information about the blog such as contact, social media, copyright, and quote about food recipes.
 
+### Messages and Interaction With Users
+
+![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Login](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_login.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Logout](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_logout.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Profile Update](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_update.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Loke Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_like_post.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Unlike Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_unlike_post.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_1.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_2.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![Empty Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* 
+![No Search Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
+* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
 
 ## Technologies Used
 ### Languages Used 
@@ -213,7 +260,7 @@ Wireframes for this project [here](WIREFRAMES.md)
 ### Frameworks - Libraries - Programs Used
 
 * [Bootstrap](https://getbootstrap.com/)
-    * was used to style the website, add responsiveness and interactivity
+    * Was used to style the website, add responsiveness and interactivity
 * [Jquery](https://jquery.com/)
     * All the scripts were written using jquery library
 * [Git](https://git-scm.com/)
@@ -230,7 +277,7 @@ Wireframes for this project [here](WIREFRAMES.md)
     * Lucidchart was used to create the database diagrama
 * [PEP8](http://pep8online.com/)
     * PEP8 was used to validate all the Python code
-* [W3C - HTML][(https://validator.w3.org/](https://validator.w3.org/))
+* [W3C - HTML](https://validator.w3.org/](https://validator.w3.org/))
     * W3C- HTML was used to validate all the HTML code
 * [W3C - CSS](https://jigsaw.w3.org/css-validator/)
     * W3C - CSS was used to validate the CSS code
