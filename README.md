@@ -277,7 +277,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 * I had to rebuild the logo using the program  Patorjk (ASCII Art Generator) to avoid these issues.
 
 ## Creating the Django app
-* Go the the Code Institute Gitpod Full Template[Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* Go the the Code Institute Gitpod Full Template [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template)
 * Clik on Use This Template
 * Once the template is available in your repository click on Gitpod
 * When the image for the template and the Gitpod are ready open a new terminal to start a new Django App
@@ -343,9 +343,9 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ### Content
 
-* All other food images were taken from (https://www.bbcgoodfood.com/recipes)
-* Most of the images were taken from (https://unsplash.com/)
-* The Tasty Blog logo and favicon were built by myself
+* All other food images were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
+* Most of the images were taken from [Unsplash](https://unsplash.com/)
+* The Tasty Blog logos and favicon were built by myself
 
 ### Information Sources / Resources
 
