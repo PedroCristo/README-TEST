@@ -202,13 +202,13 @@ Wireframes for this project [here](WIREFRAMES.md)
 
 #### Django Packages
 
-* [Gunicorn](https://docs.python.org/3/library/random.html?highlight=random#module-random)
-* [Cloudinary](https://cloudinary.com/)
-* [Dj_database_url](https://pypi.org/project/gspread/)
-* [Psycopg2](https://pypi.org/project/colorama/)
-* [Summernote](https://pypi.org/project/time/): defined time sleep
-* [Allauth](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to Google service accounts
-* [Crispy Forms](https://google-auth.readthedocs.io/en/stable/index.html): credentials used to validate credentials and grant access to Google service accounts
+* [Gunicorn](https://gunicorn.org/) as the server for Heroku
+* [Cloudinary](https://cloudinary.com/) was used to host the static files and media
+* [Dj_database_url](https://pypi.org/project/dj-database-url/)to parse the database URL from the environment variables in Heroku
+* [Psycopg2](https://pypi.org/project/psycopg2/) as an adaptor for Python and PostgreSQL databases
+* [Summernote](https://summernote.org/) as a text editor
+* [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account management
+* [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) to style the forms
   
 ### Frameworks - Libraries - Programs Used
 
@@ -229,13 +229,19 @@ Wireframes for this project [here](WIREFRAMES.md)
 * [Lucidchart](https://lucid.app/)
     * Lucidchart was used to create the database diagrama
 * [PEP8](http://pep8online.com/)
-    * The PEP8 was used to validate all the Python code
+    * PEP8 was used to validate all the Python code
+* [W3C - HTML][(https://validator.w3.org/](https://validator.w3.org/))
+    * W3C- HTML was used to validate all the HTML code
+* [W3C - CSS](https://jigsaw.w3.org/css-validator/)
+    * W3C - CSS was used to validate the CSS code
 * [Fontawesome](https://fontawesome.com/)
     * To add icons to the website
 * [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
     *  To check reponsiveness and contrast and JS errors in the console
 * [Google Fonts](https://fonts.google.com/)
     * To add the 2 fonts using in the project
+* [Balsamiq](https://balsamiq.com/)
+    * To build the wireframes for the project
   
 ## Testing
 
@@ -277,7 +283,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 * I had to rebuild the logo using the program  Patorjk (ASCII Art Generator) to avoid these issues.
 
 ## Creating the Django app
-* Go the the Code Institute Gitpod Full Template [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* Go the the Code Institute Gitpod Full Template [Template](https://github.com/Code-Institute-Org/gitpod-full-template)
 * Clik on Use This Template
 * Once the template is available in your repository click on Gitpod
 * When the image for the template and the Gitpod are ready open a new terminal to start a new Django App
@@ -345,7 +351,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 * All other food images were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
 * Most of the images were taken from [Unsplash](https://unsplash.com/)
-* The Tasty Blog logos and favicon were built by myself
+* The Tasty Blog logos and favicon were designed and build by myself
 
 ### Information Sources / Resources
 
