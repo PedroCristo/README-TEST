@@ -251,7 +251,7 @@ Wireframes for this project [here](WIREFRAMES.md)
 
 * [Gunicorn](https://gunicorn.org/) as the server for Heroku
 * [Cloudinary](https://cloudinary.com/) was used to host the static files and media
-* [Dj_database_url](https://pypi.org/project/dj-database-url/)to parse the database URL from the environment variables in Heroku
+* [Dj_database_url](https://pypi.org/project/dj-database-url/) to parse the database URL from the environment variables in Heroku
 * [Psycopg2](https://pypi.org/project/psycopg2/) as an adaptor for Python and PostgreSQL databases
 * [Summernote](https://summernote.org/) as a text editor
 * [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account management
@@ -396,8 +396,8 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ### Content
 
-* All other food images were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
-* Most of the images were taken from [Unsplash](https://unsplash.com/)
+* All other food recepies were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
+* The images were taken from [Unsplash](https://unsplash.com/)
 * The Tasty Blog logos and favicon were designed and build by myself
 
 ### Information Sources / Resources
