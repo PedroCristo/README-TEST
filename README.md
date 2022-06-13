@@ -55,7 +55,9 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [Bugs](#bugs)
     - [Python Lines too Long](#python-lines-too-long)
     - [Fixed Bug](#fixed-bug)
+  - [Creating the Django app](#creating-the-django-app)
   - [Deployment of This Project](#deployment-of-this-project)
+  - [Final Deployemt](#final-deployemt)
   - [Forking This Project](#forking-this-project)
   - [Cloning This Project](#cloning-this-project)
   - [Credits](#credits)
@@ -130,7 +132,7 @@ Wireframes for this project [here](WIREFRAMES.md)
   
 ### Post Detail Page - Comments
 ![Post Detail Page - Comments](./assets/images/readme/features/tasty_blog_post_detail_comments_page.jpg)
-* AAt the bottom of this page, users can read the comments posted by other users and if they are login they are allowed to comment and delete comments posted by themselves.<br>
+* At the bottom of this page, users can read the comments posted by other users and if they are login they are allowed to comment and delete comments posted by themselves.<br>
 
 ### Contact Page
 ![Contact Page](./assets/images/readme/features/tasty_blog_contact_page.jpg)<br><br>
@@ -274,6 +276,20 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 ![Fix Bug](./assets/images/readme/features/hangman-issue-fixed.jpg)
 * I had to rebuild the logo using the program  Patorjk (ASCII Art Generator) to avoid these issues.
 
+## Creating the Django app
+* Go the the Code Institute Gitpod Full Template[Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* Clik on Use This Template
+* Once the template is available in your repository click on Gitpod
+* When the image for the template and the Gitpod are ready open a new terminal to start a new Django App
+* Install Django and gunicorn: pip3 install django gunicorn
+* Install supporting database libraries dj_database_url and psycopg2 library: pip3 install dj_database_url psycopg2
+* Create file for requirements: in the terminal window type pip freeze --local > requirements.txt
+* Create project: in the terminal window type django-admin startproject your_project_name 
+* Create app: in the terminal window type python3 manage.py startapp your_app_name
+* Add app to the list of installed apps in settings.py file: you_app_name
+* Migrate changes: in the terminal window type python3 manage.py migrate
+* Run the server to test if the app is installed, in the terminal window type python3 manage.py runserver
+* If the app has been installed correctly the window will display The install worked successfully! Congratulations!
 ## Deployment of This Project
 
 * This site was deployed by completing the following steps:
@@ -283,54 +299,59 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 3. You must enter a unique app name
 4. Next select your region
 5. Click on the Create App button
-6. The next page is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
-7. Click Reveal Config Vars and enter port into the Key box and 8000 into the Value box and click the Add button
-8. Click Reveal Config Vars again and enter CREDS into the Key box and the Google credentials into the Value box
-9. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
-10. Repeat step 8 to add node.js. o Note: The Buildpacks must be in the correct order. If not click and drag them to move into the correct order
-11. Scroll to the top of the page and choose the Deploy tab
-12. Select Github as the deployment method
-13. Confirm you want to connect to GitHub
-14. Search for the repository name and click the connect button
-15. Scroll to the bottom of the deploy page and select the preferred deployment type
-16. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
+6. Click in resources and select Heroku Postgres database
+7. Click Reveal Config Vars and add a new record with SECRET_KEY
+8. Click Reveal Config Vars and add a new record with the CLOUDINARY_URL
+9. Click Reveal Config Vars and add a new record with the DISABLE_COLLECTSTATIC = 1
+10. The next page is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
+11. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
+12. Scroll to the top of the page and choose the Deploy tab
+13. Select Github as the deployment method
+14. Confirm you want to connect to GitHub
+15. Search for the repository name and click the connect button
+16. Scroll to the bottom of the deploy page and select the preferred deployment type
+17. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
+
+## Final Deployemt
+1. Create a runtime.txt "python-3.8.13"
+2. Create a Procfile "web: gunicorn your_project_name.wsgi"
+3. When development is complete change the debug setting to: DEBUG = False in settings.py
+4. In this project the summernote editor was used so for this to work in Heroku add: X_FRAME_OPTIONS = 'SAMEORIGIN' to settings.py.
+5. In Heroku settings config vars delete the record for DISABLE_COLLECTSTATIC
 
 ## Forking This Project
 
 * Fork this project by following the steps:
 
-1. Open [GitHub](https://github.com/)
-2. Click on the project to be forked
-3. Find the 'Fork' button at the top right of the page
-4. Once you click the button the fork will be in your repository
+1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_4)
+2. Find the 'Fork' button at the top right of the page
+3. Once you click the button the fork will be in your repository
 
 ## Cloning This Project
 
 * Clone this project by following the steps:
   
-1. Open [GitHub](https://github.com/)
-2. Click on the project to be cloned
-3. You will be provided with three options to choose from, HTTPS, SSH or GitHub CLI, click the clipboard icon in order to copy the URL
-4. Once you click the button the fork will be in your repository
-5. Open a new terminal
-6. Change the current working directory to the location that you want the cloned directory
-7. Type 'git clone' and paste the URL copied in step 3
-8. Press 'Enter' and the project is cloned
+1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_4)
+2. You will be provided with three options to choose from, HTTPS, SSH or GitHub CLI, click the clipboard icon in order to copy the URL
+3. Once you click the button the fork will be in your repository
+4. Open a new terminal
+5. Change the current working directory to the location that you want the cloned directory
+6. Type 'git clone' and paste the URL copied in step 3
+7. Press 'Enter' and the project is cloned
 
 ## Credits
 
 ### Content
 
-* All the content in the game is original 
-* The terminal function and template for the deployable application was provided by [Code Institute - Template](https://github.com/Code-Institute-Org/python-essentials-template)
-* The Python code for the typewriter was taken from the following tutorial: [Kwasii](https://www.youtube.com/watch?v=A_1THfBpCH
-* 
+* All other food images were taken from (https://www.bbcgoodfood.com/recipes)
+* Most of the images were taken from (https://unsplash.com/)
+* The Tasty Blog logo and favicon were built by myself
+
 ### Information Sources / Resources
 
 * [W3Schools - Python](https://www.w3schools.com/python/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Scrimba - Pyhton](https://scrimba.com/learn/python)
-* [Gambiter](http://gambiter.com/paper-pencil/Hangman_game.html)
 
 
 ## Special Thanks
