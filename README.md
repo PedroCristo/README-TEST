@@ -190,46 +190,46 @@ Wireframes for this project [here](WIREFRAMES.md)
 
 ![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
 * When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as (username)".<br>
-* 
+
 ![Login](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_login.jpg)
 * TWhen users sign in to the website they will see a message at the top of the page saying "Successfully signed in as (username)"..<br>
-* 
+
 ![Logout](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_logout.jpg)
 * When users log out of the website they will see a message at the top of the page saying "You have signed out".<br>
-* 
+
 ![Profile Update](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_update.jpg)
 * When users update their profile they will see a message at the top of the page saying that the account has been updated.<br>
-* 
+  
 ![Like Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_like_post.jpg)
 *When users logged in to the website they can like a post and they will see a message at the top of the page saying "You have liked this post".<br>
-* 
+  
 ![Unlike Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_unlike_post.jpg)
 * When users logged in to the website they can unlike a post that has been liked by the user and they will see a message at the top of the page saying "You have unliked this post".<br>
-* 
+  
 ![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_1.jpg)
 * When users logged in to the website they can comment on a post and after they submit the comment they will see a message at the top of the page saying "Your comment was sent successfully and is awaiting approval".<br>
-* 
+  
 ![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_2.jpg)
 * Also, they will see a message over the input comment, after they submit a comment, saying "Thanks (username). Your comment is awaiting approval!.<br>
-* 
+  
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
 * When users logged in to the website and they have posted already a comment they will see the button Delete at the bottom of their comments.<br>
-* 
+  
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
 * If they wanna delete their comment they can press the button Delete and a Bootstrap box model will pop up with the message "Are you sure you want to delete your comment?". .<br>
-* 
+  
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
 * After pressing the button Delete again inside the Bootstrap box model they will see a message on the top of the page, "Your comment was deleted successfully".<br>
-* 
+  
 ![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
 * Any user can send a message using the contact form on the Contact page and they will see the message on the top of the page saying, "Your email has been sent".<br>
-* 
+  
 ![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
 * After pressing the button Send to submit the massage they will also see the message, "Thanks for your email (username). We will contact you as soon as possible", next to the contact form.<br>
-* 
+
 ![Empty Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
 * TAny user can search for a keyword using the input search and if the search is done with an empty input they will see a message saying, "You forgot to search a recipe. Please try searching again.".<br>
-* 
+  
 ![No Search Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
 * TAnd if there are no results found relative to the keyword, the user will see the following message, "We are sorry. There are no searches for (keyword) on the website. Try the search again".<br>
 
