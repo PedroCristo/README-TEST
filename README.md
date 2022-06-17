@@ -49,13 +49,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
     - [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
-  - [Testing](#testing)
-    - [PEP 8 Online](#pep-8-online)
-    - [Lighthouse](#lighthouse)
-  - [Functionality](#functionality)
-  - [Bugs](#bugs)
-    - [Python Lines too Long](#python-lines-too-long)
-    - [Fixed Bug](#fixed-bug)
+    - [Testing](#testing)
   - [Creating the Django app](#creating-the-django-app)
   - [Deployment of This Project](#deployment-of-this-project)
   - [Final Deployemt](#final-deployemt)
@@ -192,51 +186,52 @@ Wireframes for this project [here](WIREFRAMES.md)
 *On the website footer, users can see basic information about the blog such as contact, social media, copyright, and quote about food recipes.
 
 ### Messages and Interaction With Users
+* Some interactive messages were added to the project to make the navigation on the website easier and to improve the user's experience.
 
 ![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as (username)".<br>
 * 
 ![Login](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_login.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* TWhen users sign in to the website they will see a message at the top of the page saying "Successfully signed in as (username)"..<br>
 * 
 ![Logout](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_logout.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* When users log out of the website they will see a message at the top of the page saying "You have signed out".<br>
 * 
 ![Profile Update](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_update.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* When users update their profile they will see a message at the top of the page saying that the account has been updated.<br>
 * 
-![Loke Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_like_post.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+![Like Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_like_post.jpg)
+*When users logged in to the website they can like a post and they will see a message at the top of the page saying "You have liked this post".<br>
 * 
 ![Unlike Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_unlike_post.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* When users logged in to the website they can unlike a post that has been liked by the user and they will see a message at the top of the page saying "You have unliked this post".<br>
 * 
 ![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_1.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* When users logged in to the website they can comment on a post and after they submit the comment they will see a message at the top of the page saying "Your comment was sent successfully and is awaiting approval".<br>
 * 
 ![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_2.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* Also, they will see a message over the input comment, after they submit a comment, saying "Thanks (username). Your comment is awaiting approval!.<br>
 * 
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* When users logged in to the website and they have posted already a comment they will see the button Delete at the bottom of their comments.<br>
 * 
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* If they wanna delete their comment they can press the button Delete and a Bootstrap box model will pop up with the message "Are you sure you want to delete your comment?". .<br>
 * 
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* After pressing the button Delete again inside the Bootstrap box model they will see a message on the top of the page, "Your comment was deleted successfully".<br>
 * 
 ![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* Any user can send a message using the contact form on the Contact page and they will see the message on the top of the page saying, "Your email has been sent".<br>
 * 
 ![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* After pressing the button Send to submit the massage they will also see the message, "Thanks for your email (username). We will contact you as soon as possible", next to the contact form.<br>
 * 
 ![Empty Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* TAny user can search for a keyword using the input search and if the search is done with an empty input they will see a message saying, "You forgot to search a recipe. Please try searching again.".<br>
 * 
 ![No Search Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
-* The hero image welcomes the user with a short message advertising what the website is about. These are 3 images of a carousel with a button that once is pressed brings the user down to the highlighted recipes.<br>
+* TAnd if there are no results found relative to the keyword, the user will see the following message, "We are sorry. There are no searches for (keyword) on the website. Try the search again".<br>
 
 ## Technologies Used
 ### Languages Used 
@@ -289,46 +284,14 @@ Wireframes for this project [here](WIREFRAMES.md)
     * To add the 2 fonts using in the project
 * [Balsamiq](https://balsamiq.com/)
     * To build the wireframes for the project
+* [PIXLR](https://pixlr.com)
+    * To convert the images to webp format
+* [CANVA](https://www.canva.com/)
+    * To build the the logos for the project
+
+### Testing
+Testing results [here](TESTING.md)
   
-## Testing
-
-### PEP 8 Online
-
-The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
-
-![PEP8](./assets/images/readme/features/hangman-pep8-results.jpg).
-* No errors or warnings were found during the testing of the code in PEP8
-  
-### Lighthouse 
-
- Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop. 
-
-* Desktop Results:
-
-  ![Lighthouse Result](./assets/images/readme/features/hangman-lighthouse.jpg).
-
-
-## Functionality 
-* The terminal has no issues and is working properly 
-* The typewriter starts typing at the right time and is working correctly 
-* The input for name and city have the right behaviour and shows the user an alert if the input is empty
-* The game rules appear without any issues after the player submits their name and city
-* The option to press any key to start a game is running well
-* The game runs without any issues and as expected 
-* At the end of the game the Leaderboard is updating correctly
-* All the menu options are working without any fails
-
-## Bugs 
-### Python Lines too Long
-![Lines to long](./assets/images/readme/features/hangman-issue.jpg)
-![Lines to long](./assets/images/readme/features/hangman-issue-result.jpg)
-
-* When I first built the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8.<br>
-
-### Fixed Bug
-![Fix Bug](./assets/images/readme/features/hangman-issue-fixed.jpg)
-* I had to rebuild the logo using the program  Patorjk (ASCII Art Generator) to avoid these issues.
-
 ## Creating the Django app
 * Go the the Code Institute Gitpod Full Template [Template](https://github.com/Code-Institute-Org/gitpod-full-template)
 * Clik on Use This Template
@@ -396,7 +359,7 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 
 ### Content
 
-* All other food recepies were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
+* All food recepies were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
 * The images were taken from [Unsplash](https://unsplash.com/)
 * The Tasty Blog logos and favicon were designed and build by myself
 
