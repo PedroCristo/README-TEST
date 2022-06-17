@@ -83,7 +83,8 @@ A list of my user stories and their tasks can be found
 ## Design
 
 #### Colours
-* The colours in the game are supplied by the Python Colorama Model
+![Colours Palete](./assets/images/readme/extras/tasty_blog_colors_palete.png)<br>
+* 
 
 #### Typography
 * The Lato font is used as the main font for the whole project  and the Kaushan font is used to show the word enjoy in the Post Details and About pages.
@@ -228,10 +229,10 @@ Wireframes for this project [here](WIREFRAMES.md)
 * After pressing the button Send to submit the massage they will also see the message, "Thanks for your email (username). We will contact you as soon as possible", next to the contact form.<br>
 
 ![Empty Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
-* TAny user can search for a keyword using the input search and if the search is done with an empty input they will see a message saying, "You forgot to search a recipe. Please try searching again.".<br>
+* Any user can search for a keyword using the input search and if the search is done with an empty input they will see a message saying, "You forgot to search a recipe. Please try searching again.".<br>
   
 ![No Search Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
-* TAnd if there are no results found relative to the keyword, the user will see the following message, "We are sorry. There are no searches for (keyword) on the website. Try the search again".<br>
+* And if there are no results found relative to the keyword, the user will see the following message, "We are sorry. There are no searches for (keyword) on the website. Try the search again".<br>
 
 ## Technologies Used
 ### Languages Used 
