@@ -18,6 +18,8 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [User Experience - UX](#user-experience---ux)
     - [User Stories](#user-stories)
     - [Agile Methodology](#agile-methodology)
+    - [The Scope](#the-scope)
+      - [Main Site Goals](#main-site-goals)
   - [Design](#design)
       - [Colours](#colours)
       - [Typography](#typography)
@@ -86,18 +88,27 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
 3. Create a new user, recipes, author and categories.
 4. Delete user, recipes, author, categories and comments.
 5. Approve users comments.
-6. Change website Permissions for a user.
+6. Change website permissions for a user.
 
 ### Agile Methodology
 All functionality and development of this project were managed using GitHub which Projects can be found
 [here](https://github.com/PedroCristo/portfolio_project_4/issues)
 
+### The Scope 
+
+#### Main Site Goals
+* To provide users with a good experience website with food recipes.
+* To provide users with a visually pleasing website that is intuitive to use and easy to navigate.
+* To provide a website where the purpose is immediately clear.
+* To provide role-based permissions that allows user to interact with the website.
+* To provide tools that allow users to search for recipes.
+
 ## Design
 
 #### Colours
 ![Colours Palete](./assets/images/readme/extras/tasty_blog_colors_palete.png)<br>
-* 
-
+* I decided to keep the color scheme simple so I opted for a combination of white text set against the image background and black text against the white background. For the nav bar was set a white background color that changes on scroll, by the user, for a linear gradient, using 3 colours dark blue, orange and purple, this gradient is also used as a search box background. To highlight the icons I have decided to use an interactive color set of light blue.
+  
 #### Typography
 * The Lato font is used as the main font for the whole project  and the Kaushan font is used to show the word enjoy in the Post Details and About pages.
   
