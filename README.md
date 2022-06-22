@@ -17,6 +17,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [README Table Content](#readme-table-content)
   - [User Experience - UX](#user-experience---ux)
     - [User Stories](#user-stories)
+      - [Agile Methodology](#agile-methodology)
   - [Design](#design)
       - [Colours](#colours)
       - [Typography](#typography)
@@ -63,7 +64,9 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
 ## User Experience - UX
 
 ### User Stories
-A list of my user stories and their tasks can be found
+
+#### Agile Methodology
+All functionality and development of this project were managed using GitHub which Projects can be found
 [here](https://github.com/PedroCristo/portfolio_project_4/issues)
 
 * As a website user, I can:
@@ -72,14 +75,22 @@ A list of my user stories and their tasks can be found
 3. Search recipes so that I can find specific recipes I'm looking for.
 4. Click on a recipe so that I can read the recipe details.
 5. Register for an account so that I can begin to use the services afforded to members
+6. View the number of likes on a recipe so that I can see which is most popular.
+7. View comments on recipes so that I can read other user's opinions.
 
 * As website user login, I can:
 1. Like/unlike recipes so that I can mark which recipes I enjoyed.
-2. View the number of likes on a recipe so that I can see which is most popular.
-3. View comments on recipes so that I can read other user's opinions.
-4. Comment on recipes so that I can give my opiniom about the posts.
-5. log in/out so that I can like recipes, comment on recipes and manage my profile.
-  
+2. Comment on recipes so that I can give my opiniom about the posts.
+3. Delete my previous comments.
+4. Manage my profile updating my details and user image.
+
+* As website Superuser, I can:
+1. Create and publish a new recipe.
+2. create draft recipe posts so that come back and finished them later.
+3. Create a new user, recipes, author and categories.
+4. Delete user, recipes, author, categories and comments.
+5. Approve users comments.
+6. Change website Permissions for a user.
 ## Design
 
 #### Colours
@@ -288,7 +299,9 @@ Wireframes for this project [here](WIREFRAMES.md)
 * [PIXLR](https://pixlr.com)
     * To convert the images to webp format
 * [CANVA](https://www.canva.com/)
-    * To build the the logos for the project
+    * To build the logos for the project
+* [Coolors](https://coolors.co/)
+    * To build the colour palete of the project
 
 ### Testing
 Testing results [here](TESTING.md)
