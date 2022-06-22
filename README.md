@@ -17,7 +17,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [README Table Content](#readme-table-content)
   - [User Experience - UX](#user-experience---ux)
     - [User Stories](#user-stories)
-      - [Agile Methodology](#agile-methodology)
+    - [Agile Methodology](#agile-methodology)
   - [Design](#design)
       - [Colours](#colours)
       - [Typography](#typography)
@@ -27,7 +27,7 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
   - [Features](#features)
     - [Home Page](#home-page)
     - [Home Page - Highilights Posts](#home-page---highilights-posts)
-      - [About Page](#about-page)
+    - [About Page](#about-page)
     - [Blog Page](#blog-page)
     - [Post Detail Page - Top](#post-detail-page---top)
     - [Post Detail Page - Steps](#post-detail-page---steps)
@@ -65,10 +65,6 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
 
 ### User Stories
 
-#### Agile Methodology
-All functionality and development of this project were managed using GitHub which Projects can be found
-[here](https://github.com/PedroCristo/portfolio_project_4/issues)
-
 * As a website user, I can:
 1. Navigate around the site so that I can easily view desired content.
 2. View a list of recipes so that I can choose one to read.
@@ -91,6 +87,11 @@ All functionality and development of this project were managed using GitHub whic
 4. Delete user, recipes, author, categories and comments.
 5. Approve users comments.
 6. Change website Permissions for a user.
+
+### Agile Methodology
+All functionality and development of this project were managed using GitHub which Projects can be found
+[here](https://github.com/PedroCristo/portfolio_project_4/issues)
+
 ## Design
 
 #### Colours
@@ -121,7 +122,7 @@ Wireframes for this project [here](WIREFRAMES.md)
 ![Home Page - Highilights Posts](./assets/images/readme/features/tasty_blog_home_page_highilights-.jpg)
 * In the highlighted posts, users can watch a selection of 6 recipes, chosen by the site admin by clicking the featured box in the post database.<br>
 
-#### About Page
+### About Page
 ![About Page](./assets/images/readme/features/tasty_blog_about_page.jpg)
 * On the About Page, users can read information about the Tasty Blog website as the main purpose and the main goal of the blog. This is basically a way to introduce the website to the users.<br>
 
