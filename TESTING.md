@@ -12,6 +12,23 @@ Back to the [README](README.md)
 * [views.py](./assets/images/readme/test/pep8/blog_pep8_views.jpg)
 * [context_processors.py](./assets/images/readme/test/pep8/blog_pep8_context_processor.jpg)
 
+#### Tasty Blog - Posts
+* [admin.py](./assets/images/readme/test/pep8/posts_pep8_admin.jpg)
+* [apps.py](./assets/images/readme/test/pep8/posts_pep8_apps.jpg)
+* [models.py](./assets/images/readme/test/pep8/posts_pep8_models.jpg)
+
+#### Tasty Blog - Users
+* [apps.py](./assets/images/readme/test/pep8/users_pep8_apps.jpg)
+* [signals.py](./assets/images/readme/test/pep8/users_pep8_signals.jpg)
+
+#### Tasty Blog - Tastyblog
+* [asgi.py](./assets/images/readme/test/pep8/tastyblog_pep8_asgi.jpg)
+* [urls.py](./assets/images/readme/test/pep8/tastyblog_pep8_urls.jpg)
+* [wsgi.py](./assets/images/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
+* [settings.py](./assets/images/readme/test/pep8/tastyblog_pep8_settings.jpg)
+* A few errors were raised in the tastyblo/settings.py file, however these were related to default django authorisation code and could not be changed to remove the errors.
+
+
 The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
 ![PEP8](./assets/images/readme/features/hangman-pep8-results.jpg).
