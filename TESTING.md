@@ -3,7 +3,7 @@
 Back to the [README](README.md)
 
 ### Python Validation - PEP8
-* Python testing was done using the PEP8 Online. All python files were entered into the online checker and no errors were found in any of the custom codes.
+* Python testing was done using the PEP8 Online to ensure there were no syntax errors in the project. All python files were entered into the online checker and no errors were found in any of the custom codes.
 
 #### Tasty Blog - Blog 
 * [apps.py](./assets/images/readme/test/pep8/blog_pep8_apps.jpg)
@@ -26,14 +26,10 @@ Back to the [README](README.md)
 * [urls.py](./assets/images/readme/test/pep8/tastyblog_pep8_urls.jpg)
 * [wsgi.py](./assets/images/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
 * [settings.py](./assets/images/readme/test/pep8/tastyblog_pep8_settings.jpg)
-* A few errors were raised in the tastyblo/settings.py file, however these were related to default django authorisation code and could not be changed to remove the errors.
+* A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation code and could not be changed to remove the errors.
+* [manage.py](./assets/images/readme/test/pep8/pep8_manage.jpg)
 
 
-The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
-
-![PEP8](./assets/images/readme/features/hangman-pep8-results.jpg).
-* No errors or warnings were found during the testing of the code in PEP8
-  
 ### Lighthouse 
  Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop. 
 
