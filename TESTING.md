@@ -2,7 +2,11 @@
 
 Back to the [README](README.md)
 
-### PEP 8 Online
+### Python Validation - PEP8
+* Python testing was done using the PEP8 Online. All python files were entered into the online checker and no errors were found in any of the custom codes.
+
+### Tasty Blog - Blog 
+* Back to the [apps.py](./assets/images/readme/test/pep8/blog_pep8_apps.jpg)
 
 The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
