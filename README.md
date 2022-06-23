@@ -240,14 +240,14 @@ Wireframes for this project [here](WIREFRAMES.md)
 * When users logged in to the website and they have posted already a comment they will see the button Delete at the bottom of their comments.<br>
   
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
-* If they wanna delete their comment they can press the button Delete and a Bootstrap box model will pop up with the message "Are you sure you want to delete your comment?". .<br>
+* If they wanna delete their comment they can press the button Delete and a Bootstrap box model will pop up with the message "Are you sure you want to delete your comment?".<br>
   
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
 * After pressing the button Delete again inside the Bootstrap box model they will see a message on the top of the page, "Your comment was deleted successfully".<br>
   
 ![Email Sent - Success](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
-* After users submit the form they will see the message, "Thanks for your email! We will contact you as soon as possible", if the email will be sent successfully, next to the contact form..<br>
-* 
+* After users submit the form they will see the message, "Thanks for your email! We will contact you as soon as possible", if the email will be sent successfully, next to the contact form.<br>
+  
 ![Email Sent - Failed](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
 * If the email will not be submitted successfully, users will see the message, "Sorry, something went wrong! Try to submit the email again". Next to the contact form..<br>
 
@@ -314,6 +314,8 @@ Wireframes for this project [here](WIREFRAMES.md)
     * To build the logos for the project
 * [Coolors](https://coolors.co/)
     * To build the colour palete of the project
+* [Emailjs](https://www.emailjs.com/)
+    * To send emails from the contact form
 
 ### Testing
 Testing results [here](TESTING.md)
