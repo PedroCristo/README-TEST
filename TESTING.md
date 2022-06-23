@@ -12,8 +12,23 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
  Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop. 
 
 * Desktop Results:
+![Lighthouse Mobile Result](./assets/images/readme/test/tasty_blog_lighthouse_desktop_results.jpg).
 
-  ![Lighthouse Result](./assets/images/readme/features/hangman-lighthouse.jpg).
+* Mobile Results:
+![Lighthouse Desktop Result](./assets/images/readme/test/tasty_blog_lighthouse_mobile_results.jpg).
+
+### HTML Validation
+![HTML Validation Result](./assets/images/readme/test/tasty_blog_html_validator_results.jpg).
+
+### CSS Validation
+![CSS Validation Result](./assets/images/readme/test/tasty_blog_css_validator_results.jpg).
+
+### JavaScript Validation
+![CSS Validation Result](./assets/images/readme/test/tasty_blog_js_validator_results.jpg).
+
+### jQuery Validation
+![CSS Validation Result](./assets/images/readme/test/tasty_blog_jquery_validator_results.jpg).
+
 
 
 ## Functionality 

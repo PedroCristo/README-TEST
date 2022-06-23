@@ -76,13 +76,14 @@ This project is a Full Stack website built using the Django framework. Tasty Blo
 6. View the number of likes on a recipe so that I can see which is most popular.
 7. View comments on recipes so that I can read other user's opinions.
 
-* As website user login, I can:
+* As website user logged in, I can:
 1. Like/unlike recipes so that I can mark which recipes I enjoyed.
 2. Comment on recipes so that I can give my opiniom about the posts.
 3. Delete my previous comments.
 4. Manage my profile updating my details and user image.
+5. Logout from the website.
 
-* As website Superuser, I can:
+* As website superuser, I can:
 1. Create and publish a new recipe.
 2. create draft recipe posts so that come back and finished them later.
 3. Create a new user, recipes, author and categories.
@@ -155,7 +156,7 @@ Wireframes for this project [here](WIREFRAMES.md)
 
 ### Contact Page
 ![Contact Page](./assets/images/readme/features/tasty_blog_contact_page.jpg)<br><br>
-* On the Contact Page, users can have access to the Tasty blog contact and also send an email by sending a contact form available on this page.
+* On the Contact Page, users can have access to the Tasty blog contact details and also send an email by using the contact form available on this page.
 
 ### Categories Page
 ![Categories Page ](./assets/images/readme/features/tasty_blog_categories_page.jpg)<br><br>
