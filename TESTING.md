@@ -5,12 +5,12 @@ Back to the [README](README.md)
 ### Python Validation - PEP8
 * Python testing was done using the PEP8 Online. All python files were entered into the online checker and no errors were found in any of the custom codes.
 
-##### Tasty Blog - Blog 
-* apps.py[apps.py](./assets/images/readme/test/pep8/blog_pep8_apps.jpg)
-* context_processors.py[context_processors.py](./assets/images/readme/test/pep8/blog_pep8_context_processor.jpg)
-* forms.py[forms.py](./assets/images/readme/test/pep8/blog_pep8_forms.jpg)
-* urls.py[urls.py](./assets/images/readme/test/pep8/blog_pep8_urls.jpg)
-* views.py[views.py](./assets/images/readme/test/pep8/blog_pep8_views.jpg)
+#### Tasty Blog - Blog 
+* [apps.py](./assets/images/readme/test/pep8/blog_pep8_apps.jpg)
+* [forms.py](./assets/images/readme/test/pep8/blog_pep8_forms.jpg)
+* [urls.py](./assets/images/readme/test/pep8/blog_pep8_urls.jpg)
+* [views.py](./assets/images/readme/test/pep8/blog_pep8_views.jpg)
+* [context_processors.py](./assets/images/readme/test/pep8/blog_pep8_context_processor.jpg)
 
 The [PEP8](http://pep8online.com/) Validator Service was used to validate every Python file in the project to ensure there were no syntax errors in the project.
 
