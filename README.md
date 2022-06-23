@@ -245,11 +245,11 @@ Wireframes for this project [here](WIREFRAMES.md)
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
 * After pressing the button Delete again inside the Bootstrap box model they will see a message on the top of the page, "Your comment was deleted successfully".<br>
   
-![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
-* Any user can send a message using the contact form on the Contact page and they will see the message on the top of the page saying, "Your email has been sent".<br>
-  
-![Email Sent](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
-* After pressing the button Send to submit the massage they will also see the message, "Thanks for your email (username). We will contact you as soon as possible", next to the contact form.<br>
+![Email Sent - Success](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
+*After users submit the form they will see the message, "Thanks for your email! We will contact you as soon as possible", if the email will be sent successfully, next to the contact form..<br>
+* 
+![Email Sent - Failed](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
+* If the email will not be submitted successfully, users will see the message, "Sorry, something went wrong! Try to submit the email again". Next to the contact form..<br>
 
 ![Empty Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
 * Any user can search for a keyword using the input search and if the search is done with an empty input they will see a message saying, "You forgot to search a recipe. Please try searching again.".<br>
