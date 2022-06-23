@@ -12,10 +12,10 @@ The [PEP8](http://pep8online.com/) Validator Service was used to validate every 
 ### Lighthouse 
  Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop. 
 
-Desktop Results:<br>
+##### Desktop Results:
 ![Lighthouse Mobile Result](./assets/images/readme/test/tasty_blog_lighthouse_desktop_results.jpg).
 
-Mobile Results:<br>
+###### Mobile Results:
 ![Lighthouse Desktop Result](./assets/images/readme/test/tasty_blog_lighthouse_mobile_results.jpg).
 
 ### HTML Validation
