@@ -55,12 +55,13 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 
 
 ## Manual Testing
+### Frontend
 * The Signup, Login and Logout system has no issues and is working properly and it shows the right interactive message
   back to the users.
 * The Profile Page is working properly it updates the user information and uploads/updates the user profile image.
   It shows the interactive message back to the user once is done.
 * The user profile image in the navbar and Post Details page has no issues and shows the user image once uploaded by the
-user on the Profile Page.
+  user on the Profile Page.
 * All the internal links are working fine and bring the user to the right page on the website.
 * All the external links are working fine and bring the user to the right social media page by opening a new browser
   tab.
@@ -95,6 +96,6 @@ user on the Profile Page.
 ### Fixed Bug
 
 * After hours of trying to figure out out to clear this error on the terminal by asking my colleagues on the Slack 
-  community searching online, I decided to call the Code  Institute Tutor Assistance. I was advised, by the 
+  community and searching online, I decided to call the Code Institute Tutor Assistance. I was advised, by the 
   tutor, to reset my database on Heroku and then run migrate on the terminal. I followed the advice and I fixed 
-  the issue by resetting the database.
+  the issue by resetting my project database.
