@@ -1,11 +1,12 @@
-## Testing
+# Testing
 
 Back to the [README](README.md)
 
 ### Python Validation - PEP8
-* Python testing was done using the PEP8 Online to ensure there were no syntax errors in the project. All python files were entered into the online checker and no errors were found in any of the custom codes.
+* Python testing was done using the PEP8 Online to ensure there were no syntax errors in the project. All python files
+were entered into the online checker and no errors were found in any of the custom codes.
 
-#### Tasty Blog - Blog 
+#### Tasty Blog - Blog
 * [apps.py](./assets/images/readme/test/pep8/blog_pep8_apps.jpg)
 * [forms.py](./assets/images/readme/test/pep8/blog_pep8_forms.jpg)
 * [urls.py](./assets/images/readme/test/pep8/blog_pep8_urls.jpg)
@@ -26,12 +27,13 @@ Back to the [README](README.md)
 * [urls.py](./assets/images/readme/test/pep8/tastyblog_pep8_urls.jpg)
 * [wsgi.py](./assets/images/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
 * [settings.py](./assets/images/readme/test/pep8/tastyblog_pep8_settings.jpg)
-* A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation code and could not be changed to remove the errors.
+* A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation
+code and could not be changed to remove the errors.
 * [manage.py](./assets/images/readme/test/pep8/pep8_manage.jpg)
 
 
-### Lighthouse 
- Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop. 
+### Lighthouse
+Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop.
 
 ##### Desktop Results:
 ![Lighthouse Mobile Result](./assets/images/readme/test/tasty_blog_lighthouse_desktop_results.jpg).
@@ -52,18 +54,32 @@ Back to the [README](README.md)
 ![CSS Validation Result](./assets/images/readme/test/tasty_blog_jquery_validator_results.jpg).
 
 
+## Manual Testing
+* The Signup, Login and Logout system has no issues and is working properly and it shows the right interactive message
+  back to the users.
+* The Profile Page is working properly it updates the user information and uploads/updates the user profile image.
+  It shows the interactive message back to the user once is done.
+* The user profile image in the navbar and Post Details page has no issues and shows the user image once uploaded by the
+user on the Profile Page.
+* All the internal links are working fine and bring the user to the right page on the website.
+* All the external links are working fine and bring the user to the right social media page by opening a new browser
+  tab.
+* The Categories Page shows the recipes filtered by category without issues.
+* The drop-down menu in the navbar shows a list of categories on every page of the website.
+* The contact form on the Contact Page is working without problems it sends, to the info@tastyblog.com,
+  an email once the user fill-up the form and clicks on the send button. Both interactive messages for email
+  success or failure are also displayed on the screen.
+* The pagination system is working right and adds another page after 6 posts on the page.
+* On the Post Details Page, the Like/unlike functionality is working without issues and shows the right 
+  interactive message back to the user when the heart icon is clicked.
+* The comment form has no issues and it submits a new comment once filled up, by a registered user, 
+  and the submit button is pressed. The two interactive messages for this action are working fine.  
+* The functionality to delete a message, sent by the user previously, is working without issues and the 
+  Bootstrap model is opening to ask the user if they really wanna delete the message. Once is done the interactive 
+  message for this action is displayed at the top of the page.  
 
-## Functionality 
-* The terminal has no issues and is working properly 
-* The typewriter starts typing at the right time and is working correctly 
-* The input for name and city have the right behaviour and shows the user an alert if the input is empty
-* The game rules appear without any issues after the player submits their name and city
-* The option to press any key to start a game is running well
-* The game runs without any issues and as expected 
-* At the end of the game the Leaderboard is updating correctly
-* All the menu options are working without any fails
 
-## Bugs 
+## Bugs
 ### Python Lines too Long
 ![Lines to long](./assets/images/readme/features/hangman-issue.jpg)
 ![Lines to long](./assets/images/readme/features/hangman-issue-result.jpg)
@@ -72,4 +88,4 @@ Back to the [README](README.md)
 
 ### Fixed Bug
 ![Fix Bug](./assets/images/readme/features/hangman-issue-fixed.jpg)
-* I had to rebuild the logo using the program  Patorjk (ASCII Art Generator) to avoid these issues.
+* I had to rebuild the logo using the program Patorjk (ASCII Art Generator) to avoid these issues.
