@@ -4,7 +4,7 @@
 
 Project milestone 4 for Code Institute Full-stack development program: Django Framework.
 This project is a Full Stack website built using the Django framework. Tasty Blog is a recipe 
-book where users can look or search for a recipe to prepare When the user is logged in they can 
+book where users can look or search for a recipe to prepare. When the user is logged in they can 
 also like/unlike a post, comment on a post and upload or update their user image and details. As 
 a user admin, they can post new recipes, approve comments and add new authors.
 
@@ -50,6 +50,7 @@ a user admin, they can post new recipes, approve comments and add new authors.
     - [Navbar](#navbar)
     - [Footer](#footer)
     - [Messages and Interaction With Users](#messages-and-interaction-with-users)
+    - [Admin Panel / SuperUser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -342,6 +343,17 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 - And if there are no results found relative to the keyword, the user will see the following message, "We are sorry. There are no searches for (keyword) on the website. Try the search again".<br>
 
+### Admin Panel / SuperUser
+![No Search Found](./assets/images/readme/extras/tasty_blog_superuser.jpg)
+
+- On the Admin Panel, as an admin/superuser I have full access to CRUD functionality so I can view, create, edit and delete the following ones: 
+Posts
+Comments
+Author
+Categories
+Profiles
+As admin/superuser I can also approve comments and change the status and give other permissions to the users..<br>
+  
 ## Technologies Used
 
 ### Languages Used
