@@ -66,7 +66,7 @@ user on the Profile Page.
   tab.
 * The Categories Page shows the recipes filtered by category without issues.
 * The drop-down menu in the navbar shows a list of categories on every page of the website.
-* The contact form on the Contact Page is working without problems it sends, to the info@tastyblog.com,
+* The contact form on the Contact Page is working without problems it sends, to the (info@tastyblog.com),
   an email once the user fill-up the form and clicks on the send button. Both interactive messages for email
   success or failure are also displayed on the screen.
 * The pagination system is working right and adds another page after 6 posts on the page.
