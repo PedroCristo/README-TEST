@@ -83,12 +83,18 @@ user on the Profile Page.
 ### Terminal Bug
 #### Comments Model 
 ![Comment Model](./assets/images/readme/extras/comments_model_issue.jpg)
-#### Terminal
+#### Terminal Error
 ![Comment Model - Terminal](./assets/images/readme/extras/terminal_comment_model_issue.jpg)
 
+* While I was developing the project I tried to add a comment profile Image to the comments model 
+  by adding a foreign key relating to the profile model. When I was doing the migrations I was asked by 
+  the terminal for a default number for the new foreign key I add the number zero and I thought it was 
+  the right way to add it at this stage of the project. I was wrong  I shouldn't add the number zero as 
+  the default. When I run the migrations I got an error message on the terminal that I wasn't enabled to fix by myself.
 
-* When I first built the ASCII art for the logo I got the warning "line too long (126 > 79 characters)" from PEP8.<br>
+#### Fixed Bug
 
-### Fixed Bug
-![Fix Bug](./assets/images/readme/features/hangman-issue-fixed.jpg)
-* I had to rebuild the logo using the program Patorjk (ASCII Art Generator) to avoid these issues.
+* After hours of trying to figure out out to clear this error on the terminal by asking my colleagues on the Slack 
+  community searching online, I decided to call the Code  Institute Tutor Assistance. I was advised, by the 
+  tutor, to reset my database on Heroku and then run migrate on the terminal. I followed the advice and I fixed 
+  the issue by resetting the database.
