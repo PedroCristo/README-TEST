@@ -347,12 +347,12 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 ![No Search Found](./assets/images/readme/extras/tasty_blog_superuser.jpg)
 
 - On the Admin Panel, as an admin/superuser I have full access to CRUD functionality so I can view, create, edit and delete the following ones: 
-Posts
-Comments
-Author
-Categories
-Profiles
-As admin/superuser I can also approve comments and change the status and give other permissions to the users..<br>
+1. Posts
+2. Comments
+3. Author
+4. Categories
+5. Profiles
+As admin/superuser I can also approve comments and change the status and give other permissions to the users.<br>
   
 ## Technologies Used
 
