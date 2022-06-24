@@ -88,9 +88,9 @@ user on the Profile Page.
 
 * While I was developing the project I tried to add a comment profile Image to the comments model 
   by adding a foreign key relating to the profile model. When I was doing the migrations I was asked by 
-  the terminal for a default number for the new foreign key I add the number zero and I thought it was 
+  the terminal for a default number for the new foreign key I add the number zero, I thought it was 
   the right way to add it at this stage of the project. I was wrong  I shouldn't add the number zero as 
-  the default. When I run the migrations I got an error message on the terminal that I wasn't enabled to fix by myself.
+  the default. When I run the migrations I got an error message on the terminal, saying that "(post_id)=(7) is not present in the table".
 
 ### Fixed Bug
 
