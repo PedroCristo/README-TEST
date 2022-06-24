@@ -70,7 +70,7 @@ a user admin, they can post new recipes, approve comments and add new authors.
 
 ### User Stories
 
-- As a website user, I can:
+* As a website user, I can:
 
 1. Navigate around the site and easily view the desired content.
 2. View a list of recipes and choose accordingly.
@@ -351,7 +351,7 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 2. Comments
 3. Author
 4. Categories
-5. Profiles
+5. Profiles<br>
 As admin/superuser I can also approve comments and change the status and give other permissions to the users.<br>
   
 ## Technologies Used
