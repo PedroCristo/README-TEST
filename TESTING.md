@@ -92,7 +92,7 @@ user on the Profile Page.
   the right way to add it at this stage of the project. I was wrong  I shouldn't add the number zero as 
   the default. When I run the migrations I got an error message on the terminal that I wasn't enabled to fix by myself.
 
-#### Fixed Bug
+### Fixed Bug
 
 * After hours of trying to figure out out to clear this error on the terminal by asking my colleagues on the Slack 
   community searching online, I decided to call the Code  Institute Tutor Assistance. I was advised, by the 
