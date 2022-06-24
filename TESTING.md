@@ -80,8 +80,10 @@ user on the Profile Page.
 
 
 ## Bugs
-### Comments Model 
+### Terminal Bug
+#### Comments Model 
 ![Comment Model](./assets/images/readme/extras/comments_model_issue.jpg)
+#### Terminal
 ![Comment Model - Terminal](./assets/images/readme/extras/terminal_comment_model_issue.jpg)
 
 
