@@ -1,6 +1,5 @@
-# Tasty Blog
+# Tasty Blog - Introduction
 
-# Introduction
 
 Project milestone 4 for Code Institute Full-stack development program: Django Framework.
 This project is a Full Stack website built using the Django framework. Tasty Blog is a recipe 
@@ -12,11 +11,9 @@ a user admin, they can post new recipes, approve comments and add new authors.
 
 <p align="center"><img src="./assets/images/readme/features/tasty_blog_responsiveness.jpg" alt="Tasty Blog webpage on multiple devices"></p>
 
-## README Table Content
+README Table Content
 
-- [Tasty Blog](#tasty-blog)
-- [Introduction](#introduction)
-  - [README Table Content](#readme-table-content)
+- [Tasty Blog - Introduction](#tasty-blog---introduction)
   - [User Experience - UX](#user-experience---ux)
     - [User Stories](#user-stories)
     - [Agile Methodology](#agile-methodology)
@@ -50,7 +47,7 @@ a user admin, they can post new recipes, approve comments and add new authors.
     - [Navbar](#navbar)
     - [Footer](#footer)
     - [Messages and Interaction With Users](#messages-and-interaction-with-users)
-    - [Admin Panel / SuperUser](#admin-panel--superuser)
+  - [Admin Panel / SuperUser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -343,7 +340,7 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 * And if there are no results found relative to the keyword, the user will see the following message, "We are sorry. There are no searches for (keyword) on the website. Try the search again".<br>
 
-### Admin Panel / SuperUser
+## Admin Panel / SuperUser
 ![No Search Found](./assets/images/readme/extras/tasty_blog_superuser.jpg)
 
 * On the Admin Panel, as an admin/superuser I have full access to CRUD functionality so I can view, create, edit and delete the following ones: 
