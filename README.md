@@ -351,8 +351,8 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 2. Comments
 3. Author
 4. Categories
-5. Profiles<br>
-As admin/superuser I can also approve comments and change the status and give other permissions to the users.<br>
+5. Profiles
+* As admin/superuser I can also approve comments and change the status and give other permissions to the users.<br>
   
 ## Technologies Used
 
