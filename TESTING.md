@@ -49,6 +49,7 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 ### CSS Validation
 * Custom CSS was validated using W3C Jigsaw validation service. Forty-three warnings were displayed, however, 
   these are related to Google Fonts and vendor extension prefixes which will not affect the CSS performance.
+  
 ![CSS Validation Result](./assets/images/readme/test/tasty_blog_css_validator_results.jpg).
 ![CSS Validation Result](./assets/images/readme/test/tasty_blog_css_validator_results_warnings.jpg).
 
