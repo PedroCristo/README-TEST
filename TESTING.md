@@ -82,12 +82,18 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
   message for this action is displayed at the top of the page.  
 
   ### Backend/Admin Panel
-  * The Authors model is working fine 
+  * I have tested the Admin Panel insistently since the beginning of the project development. All the models are working 
+    without issues I have created, deleted, and updated data in all of them without errors. They have the behavior expected 
+    for what they were built for.
+  * Whenever a user comments on a post the Superuser has to approve it before it will be displayed on the website. This functionality is 
+    working without issues.  
+  * When the author is posting a new recipe all the required fields has to be filled otherwise the author can't submit the post to the database. 
+  
 
 
 ## Bugs
 ### Terminal Bug
-#### Comments Model 
+#### Comment Model 
 ![Comment Model](./assets/images/readme/extras/comments_model_issue.jpg)
 #### Terminal Error
 ![Comment Model - Terminal](./assets/images/readme/extras/terminal_comment_model_issue.jpg)
