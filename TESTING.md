@@ -81,16 +81,14 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
   Bootstrap model is opening to ask the user if they really wanna delete the message. Once is done the interactive 
   message for this action is displayed at the top of the page.  
 
-  ### Backend/Admin Panel
-  * I have tested the Admin Panel insistently since the beginning of the project development. All the models are working 
+### Backend/Admin Panel
+* I have tested the Admin Panel insistently since the beginning of the project development. All the models are working 
     without issues I have created, deleted, and updated data in all of them without errors. They have the behavior expected 
     for what they were built for.
-  * Whenever a user comments on a post the Superuser has to approve it before it will be displayed on the website. This functionality is 
+* Whenever a user comments on a post the Superuser has to approve it before it will be displayed on the website. This functionality is 
     working without issues.  
-  * When the author is posting a new recipe all the required fields has to be filled otherwise the author can't submit the post to the database. 
+* When the author is posting a new recipe all the required fields has to be filled otherwise the author can't submit the post to the database. 
   
-
-
 ## Bugs
 ### Terminal Bug
 #### Comment Model 
