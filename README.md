@@ -277,7 +277,7 @@ image.
 * A search icon is nested in the navbar and once clicked it will open the search box.
 * The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.
 
-![Navbar](./assets/images/readme/features/tasty_blog_navbar_dropdown_menu.jpg
+![Navbar](./assets/images/readme/features/tasty_blog_navbar_dropdown_menu.jpg)
 * In the navbar users can access to the categories list by clicking on the dropdown menu.
 
 ### Footer
