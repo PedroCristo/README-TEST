@@ -200,7 +200,7 @@ allowed to comment and delete their own post comments.
 ![Contact Page](./assets/images/readme/features/tasty_blog_contact_page.jpg)<br><br>
 
 * The Contact Page allows users to have access to the Tasty blog
-contact details. Users can also send an email to info@tastyblog.com by
+contact details. Users can also send an email to info@tastyblog by
 using the contact form available on this page.
 
 ### Categories Page
@@ -258,7 +258,7 @@ on a post, delete a comment and like/unlike a recipe.
 
 ![Logout Page](./assets/images/readme/features/tasty_blog_logout_page.jpg)
 
-* 3O the Logout Page, users can confirm that they wanna exit the website.
+* On the Logout Page, users can confirm that they wanna exit the website.
 
 ### User Profile Page
 
@@ -276,6 +276,9 @@ image.
 * Once a user has signed in, more options such as profile page and user image will be available in the navbar.
 * A search icon is nested in the navbar and once clicked it will open the search box.
 * The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.
+
+![Navbar](./assets/images/readme/features/tasty_blog_navbar_dropdown_menu.jpg
+* In the navbar users can access to the categories list by clicking on the dropdown menu.
 
 ### Footer
 
