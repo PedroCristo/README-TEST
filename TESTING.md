@@ -1,6 +1,8 @@
 # Testing
-
 Back to the [README](README.md)
+
+* Testing has taken place continuously throughout the development of the website. Each view was
+ tested regularly. When the outcome produced was not as expected, debugging was undertaken at that point.  
 
 ### Python Validation - PEP8
 * Python testing was done using the PEP8 Online to ensure there were no syntax errors in the project. All python files
@@ -78,6 +80,9 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 * The functionality to delete a message, sent by the user previously, is working without issues and the 
   Bootstrap model is opening to ask the user if they really wanna delete the message. Once is done the interactive 
   message for this action is displayed at the top of the page.  
+
+  ### Backend/Admin Panel
+  * The Authors model is working fine 
 
 
 ## Bugs
