@@ -292,6 +292,7 @@ using the contact form available on this page.
 user's experience.
 
 ### Signup
+
 ![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
 
 * When users signup to the website they will see a message at the top of the page saying "Successfully signed in as
