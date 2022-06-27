@@ -101,13 +101,13 @@ README Table Content
 4. Manage my profile by updating my details and user image.
 5. Logout from the website.
 
-* As website superuser, I can:
+* As a website superuser, I can:
 
 1. Create and publish a new recipe.
 2. Create draft recipe posts so that come back and finished them later.
 3. Create a new user, recipes, author and categories.
 4. Delete user, recipes, author, categories and comments.
-5. Approve users comments.
+5. Approve user's comments.
 6. Change the website permissions for a user.
 
 ### Agile Methodology
@@ -123,7 +123,7 @@ All functionality and development of this project were managed using GitHub whic
 * To provide users with a visually pleasing website that is intuitive to use and easy to navigate.
 * To provide a website with a clear purpose.
 * To provide role-based permissions that allows user to interact with the website.
-* To provide tools that allows users to search for recipes.
+* To provide tools that allow users to search for recipes.
 
 ## Design
 
@@ -145,7 +145,7 @@ display the word enjoy in the Post Details and About pages.
 #### Imagery
 
 * All the imagery is related to the recipes and website design. Only 7 images are static.
-The remaining imagery will be uploaded by the author in the database.
+The remaining imagery will be uploaded by the author to the database.
 
 ### Wireframes
 
@@ -228,7 +228,7 @@ using the contact form available on this page.
 
 ![Categories Results Page](./assets/images/readme/features/tasty_blog_categories_results_page.jpg)
 
-* OOn the Categories Results Page, users can access the post filtered by the chosen category.
+* On the Categories Results Page, users can access the post filtered by the chosen category.
 
 ### Search Box
 
@@ -266,14 +266,14 @@ using the contact form available on this page.
 
 ![Login Page](./assets/images/readme/features/tasty_blog_login_page.jpg)
 
-* On the Login Page, users can log in to the website and have access to their Profile Page, upload an user image, 
-  comment on a post, delete a comment and like/unlike a recipe.
+* On the Login Page, users can log in to the website by inputting the username and password and have access 
+  to website services for a user registered..
 
 ### Logout Page
 
 ![Logout Page](./assets/images/readme/features/tasty_blog_logout_page.jpg)
 
-* OOn the Logout Page, users can confirm that they wish to exit the website.
+* On the Logout Page, users can confirm that they wish to exit the website.
 
 ### User Profile Page
 
@@ -309,7 +309,7 @@ user's experience.
 
 ![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
 
-* When users signup to the website they will see a message at the top of the page saying "Successfully signed in as
+* When users sign up to the website they will see a message at the top of the page saying "Successfully signed in as
 (username)".<br>
 
 ### Login
@@ -369,7 +369,7 @@ button at the bottom of their comments.<br>
 
 ![Delete Comment - 2](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
 
-* IIf they wish to delete their comment, they can press the button Delete and a Bootstrap box model will pop up with the message 
+* If they wish to delete their comment, they can press the button Delete and a Bootstrap box model will pop up with the message 
   "Are you sure you want to delete your comment?".<br>
 
 ### Delete Comment - 3
@@ -384,14 +384,14 @@ button at the bottom of their comments.<br>
 ![Email Sent - Success](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
 
 * After users submit the form to info@tastyblog successfully, they will see the message, "Thanks for your email! 
-  We will contact you as soon as possible". .<br>
+  We will contact you as soon as possible".<br>
 
 ### Email Sent - Failed
 
 ![Email Sent - Failed](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
 
 * If the email was not submitted successfully, users will see the message, "Sorry, something went wrong! 
-  Try to submit the email again". .<br>
+  Try to submit the email again".<br>
 
 ### Empty Search
 
@@ -404,8 +404,8 @@ message saying, "You forgot to search a recipe. Please try searching again.".<br
 
 ![No Search Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
 
-* AAnd if there are no results matching or similar to the keyword, the user will see the following message, "We are sorry. 
-  There are no searches for (keyword) on the website. Try the search again"..<br>
+* And if there are no results matching or similar to the keyword, the user will see the following message, "We are sorry. 
+  There are no searches for (keyword) on the website. Try the search again".<br>
 
 ## Admin Panel / Superuser
 ![No Search Found](./assets/images/readme/extras/tasty_blog_superuser.jpg)
