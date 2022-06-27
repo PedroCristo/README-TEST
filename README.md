@@ -47,7 +47,7 @@ README Table Content
     - [User Profile Page](#user-profile-page)
     - [Navbar](#navbar)
     - [Footer](#footer)
-    - [Messages and Interaction With Users](#messages-and-interaction-with-users)
+  - [Messages and Interaction With Users](#messages-and-interaction-with-users)
     - [Signup](#signup)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
@@ -286,7 +286,7 @@ using the contact form available on this page.
 * On the website footer, users can see basic information about the blog such as contact, social media, 
   copyright, and a quote about food recipes.
 
-### Messages and Interaction With Users
+## Messages and Interaction With Users
 
 * Some interactive messages were added to the project to make the navigation on the website easier and to improve the
 user's experience.
