@@ -9,55 +9,55 @@ Back to the [README](README.md)
 were entered into the online checker and no errors were found in any of the custom codes.
 
 #### Tasty Blog - Blog
-* [apps.py](./assets/images/readme/test/pep8/blog_pep8_apps.jpg)
-* [forms.py](./assets/images/readme/test/pep8/blog_pep8_forms.jpg)
-* [urls.py](./assets/images/readme/test/pep8/blog_pep8_urls.jpg)
-* [views.py](./assets/images/readme/test/pep8/blog_pep8_views.jpg)
-* [context_processors.py](./assets/images/readme/test/pep8/blog_pep8_context_processor.jpg)
+* [apps.py](./assets/readme/test/pep8/blog_pep8_apps.jpg)
+* [forms.py](./assets/readme/test/pep8/blog_pep8_forms.jpg)
+* [urls.py](./assets/readme/test/pep8/blog_pep8_urls.jpg)
+* [views.py](./assets/readme/test/pep8/blog_pep8_views.jpg)
+* [context_processors.py](./assets/readme/test/pep8/blog_pep8_context_processor.jpg)
 
 #### Tasty Blog - Posts
-* [admin.py](./assets/images/readme/test/pep8/posts_pep8_admin.jpg)
-* [apps.py](./assets/images/readme/test/pep8/posts_pep8_apps.jpg)
-* [models.py](./assets/images/readme/test/pep8/posts_pep8_models.jpg)
+* [admin.py](./assets/readme/test/pep8/posts_pep8_admin.jpg)
+* [apps.py](./assets/readme/test/pep8/posts_pep8_apps.jpg)
+* [models.py](./assets/readme/test/pep8/posts_pep8_models.jpg)
 
 #### Tasty Blog - Users
-* [apps.py](./assets/images/readme/test/pep8/users_pep8_apps.jpg)
-* [signals.py](./assets/images/readme/test/pep8/users_pep8_signals.jpg)
+* [apps.py](./assets/readme/test/pep8/users_pep8_apps.jpg)
+* [signals.py](./assets/readme/test/pep8/users_pep8_signals.jpg)
 
 #### Tasty Blog - Tastyblog
-* [asgi.py](./assets/images/readme/test/pep8/tastyblog_pep8_asgi.jpg)
-* [urls.py](./assets/images/readme/test/pep8/tastyblog_pep8_urls.jpg)
-* [wsgi.py](./assets/images/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
-* [settings.py](./assets/images/readme/test/pep8/tastyblog_pep8_settings.jpg)
+* [asgi.py](./assets/readme/test/pep8/tastyblog_pep8_asgi.jpg)
+* [urls.py](./assets/readme/test/pep8/tastyblog_pep8_urls.jpg)
+* [wsgi.py](./assets/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
+* [settings.py](./assets/readme/test/pep8/tastyblog_pep8_settings.jpg)
 * A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation
 code and could not be changed to remove the errors.
-* [manage.py](./assets/images/readme/test/pep8/pep8_manage.jpg)
+* [manage.py](./assets/readme/test/pep8/pep8_manage.jpg)
 
 
 ### Lighthouse
 Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop.
 
 ##### Desktop Results:
-![Lighthouse Mobile Result](./assets/images/readme/test/tasty_blog_lighthouse_desktop_results.jpg).
+![Lighthouse Mobile Result](./assets/readme/test/tasty_blog_lighthouse_desktop_results.jpg).
 
 ###### Mobile Results:
-![Lighthouse Desktop Result](./assets/images/readme/test/tasty_blog_lighthouse_mobile_results.jpg).
+![Lighthouse Desktop Result](./assets/readme/test/tasty_blog_lighthouse_mobile_results.jpg).
 
 ### HTML Validation
-![HTML Validation Result](./assets/images/readme/test/tasty_blog_html_validator_results.jpg).
+![HTML Validation Result](./assets/readme/test/tasty_blog_html_validator_results.jpg).
 
 ### CSS Validation
 * Custom CSS was validated using W3C Jigsaw validation service. Forty-three warnings were displayed, however, 
   these are related to Google Fonts and vendor extension prefixes which will not affect the CSS performance.
   
-![CSS Validation Result](./assets/images/readme/test/tasty_blog_css_validator_results.jpg).
-![CSS Validation Result](./assets/images/readme/test/tasty_blog_css_validator_results_warnings.jpg).
+![CSS Validation Result](./assets/readme/test/tasty_blog_css_validator_results.jpg).
+![CSS Validation Result](./assets/readme/test/tasty_blog_css_validator_results_warnings.jpg).
 
 ### JavaScript Validation
-![CSS Validation Result](./assets/images/readme/test/tasty_blog_js_validator_results.jpg).
+![CSS Validation Result](./assets/readme/test/tasty_blog_js_validator_results.jpg).
 
 ### jQuery Validation
-![CSS Validation Result](./assets/images/readme/test/tasty_blog_jquery_validator_results.jpg).
+![CSS Validation Result](./assets/readme/test/tasty_blog_jquery_validator_results.jpg).
 
 
 ## Manual Testing
@@ -96,9 +96,9 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 ## Bugs
 ### Terminal Bug
 #### Comment Model 
-![Comment Model](./assets/images/readme/extras/comments_model_issue.jpg)
+![Comment Model](./assets/readme/extras/comments_model_issue.jpg)
 #### Terminal Error
-![Comment Model - Terminal](./assets/images/readme/extras/terminal_comment_model_issue.jpg)
+![Comment Model - Terminal](./assets/readme/extras/terminal_comment_model_issue.jpg)
 
 * While I was developing the project I tried to add a comment profile Image to the comments model 
   by adding a foreign key relating to the profile model. When I was doing the migrations I was asked by 
