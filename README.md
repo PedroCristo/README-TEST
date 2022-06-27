@@ -48,7 +48,21 @@ README Table Content
     - [Navbar](#navbar)
     - [Footer](#footer)
   - [Messages and Interaction With Users](#messages-and-interaction-with-users)
-    - [Signup](#signup)
+    - [Sign up](#sign-up)
+    - [Login](#login)
+    - [Logout](#logout)
+    - [Profile Update](#profile-update)
+    - [Like Post](#like-post)
+    - [Unlike Post](#unlike-post)
+    - [Comment Post](#comment-post)
+    - [Comment Post - 2](#comment-post---2)
+    - [Delete Comment](#delete-comment)
+    - [Delete Comment - 2](#delete-comment---2)
+    - [Delete Comment - 3](#delete-comment---3)
+    - [Email Sent - Success](#email-sent---success)
+    - [Email Sent - Failed](#email-sent---failed)
+    - [Empty Search](#empty-search)
+    - [No Search Found](#no-search-found)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -291,83 +305,107 @@ using the contact form available on this page.
 * Some interactive messages were added to the project to make the navigation on the website easier and to improve the
 user's experience.
 
-### Signup
+### Sign up
 
 ![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
 
 * When users signup to the website they will see a message at the top of the page saying "Successfully signed in as
 (username)".<br>
 
+### Login
+
 ![Login](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_login.jpg)
 
 * When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as
 (username)".<br>
 
+### Logout
+
 ![Logout](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_logout.jpg)
 
 * When users log out of the website they will see a message at the top of the page saying "You have signed out".<br>
+  
+### Profile Update
 
 ![Profile Update](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_update.jpg)
 
-* When users update their profile they will see a message at the top of the page saying that the account has been
-updated.<br>
+* When users update their profile they will see a message at the top of the page saying that their account has been updated.<br>
+
+### Like Post
 
 ![Like Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_like_post.jpg)
-* When users logged in to the website they can like a post and they will see a message at the top of the page saying
-"You have liked this post".<br>
+* *When users are logged in to the website they can like a post and they will see a message at the top of the page 
+  saying "You have liked this post".<br>
+
+### Unlike Post
 
 ![Unlike Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_unlike_post.jpg)
 
-* When users logged in to the website they can unlike a post that has been liked by the user and they will see a message
-at the top of the page saying "You have unliked this post".<br>
+* When users are logged in to the website they can unlike a post that has been liked by the user and they will see a message 
+  at the top of the page saying "You have unliked this post".<br>
 
-![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_1.jpg)
+### Comment Post
 
-* When users logged in to the website they can comment on a post and after they submit the comment they will see a
-message at the top of the page saying "Your comment was sent successfully and is awaiting approval".<br>
+![Comment Post](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_1.jpg)
 
-![Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_2.jpg)
+* When users are logged in to the website they can comment on a post and after they submit the comment they will see a 
+  message at the top of the page saying "Your comment was sent successfully and is awaiting approval".<br>
 
-* Also, they will see a message over the input comment, after they submit a comment, saying "Thanks (username). Your
-comment is awaiting approval!.<br>
+### Comment Post - 2
+
+![Comment Post - 2](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_2.jpg)
+
+* After a user submits a comment, they will see a message over the input comment saying "Thanks (username). Your 
+  comment is awaiting approval! <br>
+
+### Delete Comment
 
 ![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
 
-* When users logged in to the website and they have posted already a comment they will see the button Delete at the
-bottom of their comments.<br>
+*When users are logged in to the website and they have previously posted a comment they will see the Delete 
+button at the bottom of their comments.<br>
 
-![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
+### Delete Comment - 2
 
-* If they wanna delete their comment they can press the button Delete and a Bootstrap box model will pop up with the
-message "Are you sure you want to delete your comment?".<br>
+![Delete Comment - 2](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
 
-![Delete Comment](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
+* IIf they wish to delete their comment, they can press the button Delete and a Bootstrap box model will pop up with the message 
+  "Are you sure you want to delete your comment?".<br>
 
-* After pressing the button Delete again inside the Bootstrap box model they will see a message on the top of the page,
-"Your comment was deleted successfully".<br>
+### Delete Comment - 3
 
-![Email Sent -
-Success](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
+![Delete Comment - 3](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
 
-* After users submit the form they will see the message, "Thanks for your email! We will contact you as soon as
-possible", if the email will be sent successfully, next to the contact form.<br>
+* After pressing the Delete button again inside the Bootstrap box model they will see a message on the 
+  top of the page, "Your comment was deleted successfully".<br>
+
+### Email Sent - Success
+
+![Email Sent - Success](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
+
+* After users submit the form to info@tastyblog successfully, they will see the message, "Thanks for your email! 
+  We will contact you as soon as possible". .<br>
+
+### Email Sent - Failed
 
 ![Email Sent - Failed](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
 
-* If the email will not be submitted successfully, users will see the message, "Sorry, something went wrong! Try to
-submit the email again". Next to the contact form..<br>
+* If the email was not submitted successfully, users will see the message, "Sorry, something went wrong! 
+  Try to submit the email again". .<br>
 
-![Empty
-Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
+### Empty Search
+
+![Empty Search](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
 
 * Any user can search for a keyword using the input search and if the search is done with an empty input they will see a
 message saying, "You forgot to search a recipe. Please try searching again.".<br>
 
-![No Search
-Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
+### No Search Found
 
-* And if there are no results found relative to the keyword, the user will see the following message, "We are sorry.
-There are no searches for (keyword) on the website. Try the search again".<br>
+![No Search Found](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
+
+* AAnd if there are no results matching or similar to the keyword, the user will see the following message, "We are sorry. 
+  There are no searches for (keyword) on the website. Try the search again"..<br>
 
 ## Admin Panel / Superuser
 ![No Search Found](./assets/images/readme/extras/tasty_blog_superuser.jpg)
@@ -420,7 +458,7 @@ management
 * [VSCode](https://code.visualstudio.com/)
 * VSCode was used to create and edit the website
 * [Lucidchart](https://lucid.app/)
-* Lucidchart was used to create the database diagrama
+* Lucidchart was used to create the database diagram
 * [PEP8](http://pep8online.com/)
 * PEP8 was used to validate all the Python code
 * [W3C - HTML](https://validator.w3.org/)
@@ -430,9 +468,9 @@ management
 * [Fontawesome](https://fontawesome.com/)
 * To add icons to the website
 * [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-* To check reponsiveness and contrast and JS errors in the console
+* To check App responsiveness and debugging
 * [Google Fonts](https://fonts.google.com/)
-* To add the 2 fonts using in the project
+* To add the 2 fonts that were used throughout the project
 * [Balsamiq](https://balsamiq.com/)
 * To build the wireframes for the project
 * [PIXLR](https://pixlr.com)
@@ -440,7 +478,7 @@ management
 * [CANVA](https://www.canva.com/)
 * To build the logos for the project
 * [Coolors](https://coolors.co/)
-* To build the colour palete of the project
+* To build the colour palette of the project
 * [Emailjs](https://www.emailjs.com/)
 * To send emails from the contact form
 
@@ -450,8 +488,8 @@ Testing results [here](TESTING.md)
 
 ## Creating the Django app
 
-1. Go the the Code Institute Gitpod Full Template [Template](https://github.com/Code-Institute-Org/gitpod-full-template)
-2. Clik on Use This Template
+1. Go to the Code Institute Gitpod Full Template [Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+2. Click on Use This Template
 3. Once the template is available in your repository click on Gitpod
 4. When the image for the template and the Gitpod are ready open a new terminal to start a new Django App
 5. Install Django and gunicorn: pip3 install django gunicorn
@@ -487,7 +525,7 @@ App
 16. Scroll to the bottom of the deploy page and select the preferred deployment type
 17. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
 
-## Final Deployment
+## Final Deployment 
 
 1. Create a runtime.txt "python-3.8.13"
 2. Create a Procfile "web: gunicorn your_project_name.wsgi"
@@ -521,9 +559,9 @@ to copy the URL
 
 ### Content
 
-* All food recepies were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
+* All food recipies were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
 * The images were taken from [Unsplash](https://unsplash.com/)
-* The Tasty Blog logos and favicon were designed and build by myself
+* The Tasty Blog logos and favicon are my own designed and build
 
 ### Information Sources / Resources
 
