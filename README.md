@@ -48,6 +48,7 @@ README Table Content
     - [Navbar](#navbar)
     - [Footer](#footer)
     - [Messages and Interaction With Users](#messages-and-interaction-with-users)
+    - [Signup](#signup)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -282,7 +283,7 @@ using the contact form available on this page.
 ### Footer
 
 ![Footer](./assets/images/readme/features/tasty_blog_footer.jpg)
-* OnOn the website footer, users can see basic information about the blog such as contact, social media, 
+* On the website footer, users can see basic information about the blog such as contact, social media, 
   copyright, and a quote about food recipes.
 
 ### Messages and Interaction With Users
@@ -290,15 +291,16 @@ using the contact form available on this page.
 * Some interactive messages were added to the project to make the navigation on the website easier and to improve the
 user's experience.
 
+### Signup
 ![Sign up](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
 
-* When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as
+* When users signup to the website they will see a message at the top of the page saying "Successfully signed in as
 (username)".<br>
 
 ![Login](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_login.jpg)
 
-* TWhen users sign in to the website they will see a message at the top of the page saying "Successfully signed in as
-(username)"..<br>
+* When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as
+(username)".<br>
 
 ![Logout](./assets/images/readme/features/interactive_messages/tasty_blog_user_interaction_logout.jpg)
 
