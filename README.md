@@ -37,7 +37,7 @@ README Table Content
     - [Contact Page](#contact-page)
     - [Categories Page](#categories-page)
     - [Categories Results](#categories-results)
-    - [Search Page](#search-page)
+    - [Search Box](#search-box)
     - [Search Results Page](#search-results-page)
     - [Search Results - Input Empty](#search-results---input-empty)
     - [Search Results - No Results Found](#search-results---no-results-found)
@@ -213,27 +213,27 @@ using the contact form available on this page.
 
 ![Categories Results Page](./assets/images/readme/features/tasty_blog_categories_results_page.jpg)
 
-* On the Categories Results Page, users can access to the post filtered by the category chosen.
+* OOn the Categories Results Page, users can access the post filtered by the chosen category.
 
-### Search Page
+### Search Box
 
-![Search Page](./assets/images/readme/features/tasty_blog_search_page.jpg)
+![Search Box](./assets/images/readme/features/tasty_blog_search_page.jpg)
 
-* In this box, the users can do a search by inputting a keyword in the input and trying to find the recipe they are
-looking for.
+* In this box, the users can search by inputting a keyword in the search tool. This allows the user to try and find 
+  the recipe they are looking for.
 
 ### Search Results Page
 
 ![Search Results Page](./assets/images/readme/features/tasty_blog_search_results_page.jpg)
 
-* On the Search Results Page, users can see the recipes found by their search and go to the Post Details Page by
-clicking on the card result.
+* On the Search Results Page, users can see the recipes found by their search.  When their recipe is located, the user can go to the 
+  Post Details Page by clicking on the card result.
 
 ### Search Results - Input Empty
 
 ![Search Results - Input Empty](./assets/images/readme/features/tasty_blog_search_results_empty_page.jpg)
 
-* On the Search Results Page - Input Empty, users will see this message if they do a search with an empty input.
+* On the Search Results Page - Input Empty, users will see this message if their search returns with an empty input.
 
 ### Search Results - No Results Found
 
@@ -245,27 +245,26 @@ clicking on the card result.
 
 ![Signup Page](./assets/images/readme/features/tasty_blog_signup_page.jpg)
 
-* On the Signup Page, a new user can sign up for the Tasty Blog website by filling out the form and submit.
+* On the Signup Page, a new user can sign up for the Tasty Blog website by filling out and then submitting the form.
 
 ### Login Page
 
 ![Login Page](./assets/images/readme/features/tasty_blog_login_page.jpg)
 
-* On the Login Page, users can log in to the website and have access to their Profile Page, upload a user image, comment
-on a post, delete a comment and like/unlike a recipe.
+* On the Login Page, users can log in to the website and have access to their Profile Page, upload an user image, 
+  comment on a post, delete a comment and like/unlike a recipe.
 
 ### Logout Page
 
 ![Logout Page](./assets/images/readme/features/tasty_blog_logout_page.jpg)
 
-* On the Logout Page, users can confirm that they wanna exit the website.
+* OOn the Logout Page, users can confirm that they wish to exit the website.
 
 ### User Profile Page
 
 ![User Profile Page](./assets/images/readme/features/tasty_blog_user_profile_page.jpg)
 
-* On the Profile Page, users can have access to their own information and update their user name, email and profile
-image.
+*On the Profile Page, users have access to their own information and can update their user name, email and profile image.
 
 ### Navbar
 
@@ -283,8 +282,8 @@ image.
 ### Footer
 
 ![Footer](./assets/images/readme/features/tasty_blog_footer.jpg)
-* On the website footer, users can see basic information about the blog such as contact, social media, copyright, and
-quote about food recipes.
+* OnOn the website footer, users can see basic information about the blog such as contact, social media, 
+  copyright, and a quote about food recipes.
 
 ### Messages and Interaction With Users
 
