@@ -132,7 +132,7 @@ All functionality and development of this project were managed using GitHub whic
 
 #### Colours
 
-[Colours Palete](./assets/readme/extras/tasty_blog_colors_palete.png)<br>
+![Colours Palete](./assets/readme/extras/tasty_blog_colors_palete.png)<br>
 
 - The colour scheme is kept simple by opting for a combination of white text set against the image
   background and black text against the white background. For the navbar was set as a white background
