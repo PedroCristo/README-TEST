@@ -132,14 +132,12 @@ All functionality and development of this project were managed using GitHub whic
 
 #### Colours
 
-![Colours Palete](./assets/readme/extras/tasty_blog_colors_palete.png)<br>
+![Colours Palete](./assets/readme/extras/watches_clocks_color_palete.png)<br>
 
 - The colour scheme is kept simple by opting for a combination of white text set against the image
   background and black text against the white background. For the navbar was set as a white background
-  colour that changes when the user scrolls. For a linear gradient, 3 colours were used dark
-  blue, orange and purple. This gradient is also used as a search box background. To highlight
-  the icons an interactive colour set of light blue was used.
-
+  colour that changes when the user scrolls. 
+  
 #### Typography
 
 - The Montserrat font is used as the main font for the whole project and the Kaushan font is used to
