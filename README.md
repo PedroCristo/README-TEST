@@ -87,44 +87,46 @@ README Table Content
 - As a website user, I can:
 
 1. Navigate around the site and easily view the desired content.
-2. View a list of recipes and choose accordingly.
-3. Search recipes to find specific recipes.
-4. Click on a to read the recipe details.
+2. View a list of products and choose accordingly.
+3. Search products to find specific poducts.
+4. Click on a product to read the see the details.
 5. Register for an account to avail of the services offered to members.
-6. View the number of likes on a recipe thereby showing which is most popular.
-7. View comments on recipes so that I can read other users opinions.
+6. View comments on recipes so that I can read other users opinions.
+7. Buy a product by using the website checkout
 
 - As logged in website user, I can:
-
-1. Like/unlike recipes marking the recipes I enjoyed.
-2. Comment on recipes and give my opinion about the posts.
-3. Delete my previous comments.
-4. Manage my profile by updating my details and user image.
+  
+1. Review the website service.
+2. Delete my previous reviews.
+3. Edite my previous reviews.
+4. Manage my profile by updating my details.
 5. Logout from the website.
+6. Buy a product by using the website checkout and using my saved data on my profile.
 
 - As a website superuser, I can:
 
-1. Create and publish a new recipe.
-2. Create draft recipe posts so that come back and finished them later.
-3. Create a new user, recipes, author and categories.
-4. Delete user, recipes, author, categories and comments.
-5. Approve user's comments.
+1. Create and publish a new product.
+2. Create draft a new product so that come back and finished them later.
+3. Create a new user, product, and categories.
+4. Delete user, products, categories and reviews.
+5. Approve user's reviews.
 6. Change the website permissions for a user.
+7. Upload new banners to be displayed on the website.
 
 ### Agile Methodology
 
 All functionality and development of this project were managed using GitHub which Projects can be found
-[here](https://github.com/PedroCristo/portfolio_project_4/issues)
+[here](https://github.com/PedroCristo/portfolio_project_5/issues)
 
 ### The Scope
 
 #### Main Site Goals
 
-- To provide users with a good experience when using the website with food recipes.
+- To provide users with a good experience when using the website with watches and clocks on display.
 - To provide users with a visually pleasing website that is intuitive to use and easy to navigate.
 - To provide a website with a clear purpose.
-- To provide role-based permissions that allows user to interact with the website.
-- To provide tools that allow users to search for recipes.
+- To provide tools that allow users to search for products.
+- To provide users with a good experience and an easy and safe way to buy their products.
 
 ## Design
 
@@ -140,13 +142,45 @@ All functionality and development of this project were managed using GitHub whic
 
 #### Typography
 
-- The Lato font is used as the main font for the whole project and the Kaushan font is used to
-  display the word enjoy in the Post Details and About pages.
+- The Montserrat font is used as the main font for the whole project and the Kaushan font is used to
+  display the website logo.
 
 #### Imagery
 
 - All the imagery is related to the recipes and website design. Only 7 images are static.
   The remaining imagery will be uploaded by the author to the database.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 ### Wireframes
 
