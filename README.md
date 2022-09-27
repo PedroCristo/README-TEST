@@ -25,6 +25,7 @@ README Table Content
       - [Colours](#colours)
       - [Typography](#typography)
       - [Imagery](#imagery)
+      - [Video](#video)
     - [Wireframes](#wireframes)
   - [Database Diagram](#database-diagram)
   - [Features](#features)
@@ -135,9 +136,11 @@ All functionality and development of this project were managed using GitHub whic
 ![Colours Palete](./assets/readme/extras/watches_clocks_color_palete.png)<br>
 
 - The colour scheme is kept simple by opting for a combination of white text set against the image
-  background and black text against the white background. For the navbar was set as a white background
-  colour that changes when the user scrolls. 
-  
+  background and black text against the white background. The navbar was set on a white background 
+  and a light grey on the bottom. The interactive colour is used for icons and the website logo. 
+  Yellow and red are used for the buttons to buy and see product details. The dark grey for to website 
+  footer contrasts with the rest of the website.
+
 #### Typography
 
 - The Montserrat font is used as the main font for the whole project and the Kaushan font is used to
@@ -145,8 +148,14 @@ All functionality and development of this project were managed using GitHub whic
 
 #### Imagery
 
-- All the imagery is related to the recipes and website design. Only 7 images are static.
-  The remaining imagery will be uploaded by the author to the database.
+- All the images, were converted to webp format to improve the website performance. The product images and 
+banners are uploaded through the admin panel. The image banners are available in two different sizes to 
+be displayed on desktop and mobile.
+
+#### Video
+
+- They are 2 videos playing as a background on the landing page, one is displaying on the desktop another one is on mobile. 
+They were both compressed to improve the website's performance.
 
 
 
