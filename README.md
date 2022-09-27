@@ -28,7 +28,7 @@ README Table Content
     - [Wireframes](#wireframes)
   - [Database Diagram](#database-diagram)
   - [Features](#features)
-    - [Home Page](#home-page)
+    - [Landing Page](#landing-page)
     - [Home Page - Highlight Posts](#home-page---highlight-posts)
     - [About Page](#about-page)
     - [Blog Page](#blog-page)
@@ -192,9 +192,9 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 ## Features
 
-### Home Page
+### Landing Page
 
-![Home Page](./assets/readme/features/tasty_blog_home-page.jpg)
+![Landing page](./assets/readme/features/watches_clocks_landing_page.jpg)
 
 - The hero image welcomes the user with a short message advertising what the website is about. These
   are 3 carousel images with a button. When the button is pressed, it brings the user down to the highlighted recipes.<br>
