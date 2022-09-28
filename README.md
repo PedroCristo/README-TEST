@@ -52,6 +52,7 @@ README Table Content
     - [Login Page](#login-page)
     - [Logout Page](#logout-page)
     - [Reset Password Page](#reset-password-page)
+    - [Change Password Page](#change-password-page)
     - [Navbar](#navbar)
     - [Footer](#footer)
   - [Messages and Interaction With Users](#messages-and-interaction-with-users)
@@ -324,7 +325,13 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Reset Password Page](./assets/readme/features/watches_clocks_pass_reset_page.jpg)
 
-- Users can use this page to reset their login password.<br>
+- Users can use this page to reset their login password by adding the email address in the input and clicking on the button Reset Password.<br>
+  
+### Change Password Page
+
+![Change Password Page](./assets/readme/features/watches_clocks_pass_change_page.jpg)
+
+- Users will get a link to reset their password and after clicking on the link it will redirect the user to this page where they can set a new password.<br>
 
 ### Navbar
 
