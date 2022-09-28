@@ -38,8 +38,8 @@ README Table Content
     - [Products Details](#products-details)
     - [Products Details - Features](#products-details---features)
     - [Products Details - Products on Sale](#products-details---products-on-sale)
-    - [Categories Results](#categories-results)
-    - [Search Box](#search-box)
+    - [Products Shopping Bag](#products-shopping-bag)
+    - [Products Shopping Bag - Products Coming Soon](#products-shopping-bag---products-coming-soon)
     - [Search Results Page](#search-results-page)
     - [Search Results - Input Empty](#search-results---input-empty)
     - [Search Results - No Results Found](#search-results---no-results-found)
@@ -215,7 +215,7 @@ From this page, the site admin logged in can edit or delete products.<br>
 
 ### Products Details 
 
-![Products Details ](./assets/readme/features/watches_clocks_products_details.jpg)
+![Product Details ](./assets/readme/features/watches_clocks_products_details.jpg)
 
 - This feature is at the top of the Product Details Page. Where users can see the product image and see information about the product 
 such as price, category, gender category and rating. If they are interested in the watch they can choose the product size, and quantityand 
@@ -223,26 +223,26 @@ add the product to the shopping bag. Also, they can just leave the page by press
 
 ### Products Details - Features
 
-![Products Details - Features](./assets/readme/features/watches_clocks_products_details_features.jpg)<br><br>
+![Product Details - Features](./assets/readme/features/watches_clocks_products_details_features.jpg)<br><br>
 
-- Scrolling down, the user will have access to the full product details such as watch functionality, package and model details.
+- SScrolling down, the user will have access to the full product details such as watch features and watch details.
 
 ### Products Details - Products on Sale
 
-![Products Details - Products on Sale](./assets/readme/features/watches_clocks_products_on_sale.jpg)<br><br>
+![Product Details - Products on Sale](./assets/readme/features/watches_clocks_products_on_sale.jpg)<br><br>
 
 - In this features users, can see a selection of products on sales chosen by the website admin by adding an old price and 
 changing the product status to sales on the admin panel or from the website front-end.
 
-### Categories Results
+### Products Shopping Bag
 
-![Categories Results Page](./assets/readme/features/tasty_blog_categories_results_page.jpg)
+![Products Shopping Bag](./assets/readme/features/watches_clocks_bag_page.jpg)
 
 - On the Categories Results Page, users can access the post filtered by the chosen category.
 
-### Search Box
+### Products Shopping Bag - Products Coming Soon
 
-![Search Box](./assets/readme/features/tasty_blog_search_page.jpg)
+![Products Shopping Bag - Products Coming Soon](./assets/readme/features/watches_clocks_products_coming_soon.jpg)
 
 - In this box, the users can search by inputting a keyword in the search tool. This allows the user to try and find
   the recipe they are looking for.
