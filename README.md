@@ -6,7 +6,7 @@ Watches & Clocks is an E-commerce shop where users can find and buy watches and 
 products by filtering different categories. They can also register themselves on the website 
 and fill in and keep their personal information on the profile page. All the visitors are welcome
 to drop a service review and help the site admin to improve the service. The applicattion provides
-a nice look and easy, clear and concise site navigation.
+a nice look, easy, clear and concise site navigation.
 
 [Live Project Here](https://watches-and-clocks-portfolio-5.herokuapp.com/)
 
@@ -30,10 +30,10 @@ README Table Content
   - [Database Diagram](#database-diagram)
   - [Features](#features)
     - [Landing Page](#landing-page)
-    - [Home Page - Highlight Posts](#home-page---highlight-posts)
-    - [About Page](#about-page)
-    - [Blog Page](#blog-page)
-    - [Post Detail Page - Top](#post-detail-page---top)
+    - [Home Page - Images Carousel](#home-page---images-carousel)
+    - [Home Page - Selected Products](#home-page---selected-products)
+    - [Home Page - Image Banner](#home-page---image-banner)
+    - [Home Page - Customers Reviews Carousel](#home-page---customers-reviews-carousel)
     - [Post Detail Page - Steps](#post-detail-page---steps)
     - [Post Detail Page - Comments](#post-detail-page---comments)
     - [Contact Page](#contact-page)
@@ -127,7 +127,7 @@ All functionality and development of this project were managed using GitHub whic
 - To provide users with a visually pleasing website that is intuitive to use and easy to navigate.
 - To provide a website with a clear purpose.
 - To provide tools that allow users to search for products.
-- To provide users with a good experience and an easy and safe way to buy their products.
+- To provide users with a easy and safe way to buy their products.
 
 ## Design
 
@@ -157,38 +157,6 @@ be displayed on desktop and mobile.
 - They are 2 videos playing as a background on the landing page, one is displaying on the desktop another one is on mobile. 
 They were both compressed to improve the website's performance.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Wireframes
 
 Wireframes for this project can be located [here](WIREFRAMES.md)
@@ -203,33 +171,33 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 ![Landing page](./assets/readme/features/watches_clocks_landing_page.jpg)
 
-- The hero image welcomes the user with a short message advertising what the website is about. These
-  are 3 carousel images with a button. When the button is pressed, it brings the user down to the highlighted recipes.<br>
+- This Landing page works as the website cover, users will see a background video playing in a loop, a slogan 
+text about the collection available, two social media buttons and a button to go to the website's Home Page.<br>
 
-### Home Page - Highlight Posts
+### Home Page - Images Carousel
 
-![Home Page - Highlight Posts](./assets/readme/features/tasty_blog_home_page_highilights-.jpg)
+![Home Page - Images Carousel](./assets/readme/features/watches_clocks_home_page_carousel.jpg)
 
 - In the highlighted posts, users can see a selection of 6 recipes. These recipes are
   chosen by the site admin by clicking the featured box in the post database.<br>
 
-### About Page
+### Home Page - Selected Products
 
-![About Page](./assets/readme/features/tasty_blog_about_page.jpg)
+![Home Page - Selected Products](./assets/readme/features/watches_clocks_home_page_selected_products.jpg)
 
 - The About Page gives, users information about the Tasty Blog website. It introduces the users to the
   website. It also details the main purpose and the goal of the blog.<br>
 
-### Blog Page
+### Home Page - Image Banner
 
-![Blog Page](./assets/readme/features/tasty_blog_page.jpg)
+![Home Page - Image Banner](./assets/readme/features/watches_clocks_home_page_banner.jpg)
 
 - On the Blog Page, users have access to the full recipes posts available on the website.
   The user can choose to see the recipe detail by clicking on the recipe card.<br>
 
-### Post Detail Page - Top
+### Home Page - Customers Reviews Carousel
 
-![Post Detail Page - Top](./assets/readme/features/tasty_blog_post_detail_1_page.jpg)
+![Home Page - Customers Reviews Carousel](./assets/readme/features/watches_clocks_home_page_reviews.jpg)
 
 - At the top of the Post Details Page, users can see the post's main
   image and they can also have access to information about the post. The
