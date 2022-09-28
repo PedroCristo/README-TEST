@@ -47,9 +47,11 @@ README Table Content
       - [Services Reviews Page](#services-reviews-page)
       - [Add/Edit Service Review Page](#addedit-service-review-page)
     - [Signup Page](#signup-page)
+    - [Signup Page - Verify Email](#signup-page---verify-email)
+    - [Signup Page - Confirm Email](#signup-page---confirm-email)
     - [Login Page](#login-page)
     - [Logout Page](#logout-page)
-    - [User Profile Page](#user-profile-page)
+    - [Reset Password Page](#reset-password-page)
     - [Navbar](#navbar)
     - [Footer](#footer)
   - [Messages and Interaction With Users](#messages-and-interaction-with-users)
@@ -226,91 +228,103 @@ add the product to the shopping bag. Also, they can just leave the page by press
 
 ### Products Details - Features
 
-![Product Details - Features](./assets/readme/features/watches_clocks_products_details_features.jpg)<br><br>
+![Product Details - Features](./assets/readme/features/watches_clocks_products_details_features.jpg)
 
-- SScrolling down, the user will have access to the full product details such as watch features and watch details.
+- SScrolling down, the user will have access to the full product details such as watch features and watch details.<br>
 
 ### Products Details - Products on Sale
 
-![Product Details - Products on Sale](./assets/readme/features/watches_clocks_products_on_sale.jpg)<br><br>
+![Product Details - Products on Sale](./assets/readme/features/watches_clocks_products_on_sale.jpg)
 
 - In this features users, can see a selection of products on sales chosen by the website admin by adding an old price and 
-changing the product status to sales on the admin panel or from the website front-end.
+changing the product status to sales on the admin panel or from the website front-end.<br>
 
 ### Products Shopping Bag
 
 ![Products Shopping Bag](./assets/readme/features/watches_clocks_bag_page.jpg)
 
 - This feature is the Shopping bag where users can add products, change the quantity or remove products, check total price and delivery
-costs and go to the secure checkout to finish the order. They can also leave this page by pressing the button Kepp Shopping.
+costs and go to the secure checkout to finish the order. They can also leave this page by pressing the button Kepp Shopping.<br>
 
 ### Products Shopping Bag - Products Coming Soon
 
 ![Products Shopping Bag - Products Coming Soon](./assets/readme/features/watches_clocks_products_coming_soon.jpg)
 
 - Scrolling down users can see a carousel displaying a selection of products that will be available for purchase on the website soon. 
-The website admin can add products to this list by clicking the Coming Soon box in the admin panel or from the website front-end.
+The website admin can add products to this list by clicking the Coming Soon box in the admin panel or from the website front-end.<br>
 
 ### Products Checkout
 
 ![Products Checkout](./assets/readme/features/watches_clocks_checkout_page.jpg)
 
-- On the checkout page, users will have to fill out the form and add the credit/debit card details to finish the purchase.
+- On the checkout page, users will have to fill out the form and add the credit/debit card details to finish the purchase.<br>
 
 ### Products Checkout - Success
 
 ![Products Checkout - Success](./assets/readme/features/watches_clocks_checkout_success_page.jpg)
 
-- After a successful purchase, the user will be redirected to this page to check the confirmation of the order detail
+- After a successful purchase, the user will be redirected to this page to check the confirmation of the order details.<br>
 
 ### Products Management
 
 ![Products Management](./assets/readme/features/watches_clocks_products_management.jpg)
 
-- On this page the website admin logged in can add a new product to the website without the need to go to the admin panel.
+- On this page the website admin logged in can add a new product to the website without the need to go to the admin panel.<br>
   
 ### Profile Page
 
 ![Profile Page](./assets/readme/features/watches_clocks_profile_page.jpg)
 
-- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.
+- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.<br>
   
 #### Services Reviews Page
 
 ![Services Reviews Page](./assets/readme/features/watches_clocks_service_review_page.jpg)
 
-- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.
+- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.<br>
   
 #### Add/Edit Service Review Page
 
 ![Add/Edit Service Review Page](./assets/readme/features/watches_clocks_add_edit_review_page.jpg)
 
-- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.
+- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.<br>
 
 ### Signup Page
 
-![Signup Page](./assets/readme/features/tasty_blog_signup_page.jpg)
+![Signup Page](./assets/readme/features/watches_clocks_sign_up_page.jpg)
 
-- On the Signup Page, a new user can sign up for the Tasty Blog website by filling out and then submitting the form.
+- On the Signup Page, a new user can sign up for the Watches & Closck website by filling out and then submitting the form.<br>
+  
+### Signup Page - Verify Email
+
+![Signup Page - Verify Email](./assets/readme/features/watches_clocks_verify_email_page.jpg)
+
+- On the Signup Page, a new user can sign up for the Watches & Closck website by filling out and then submitting the form.<br>
+  
+### Signup Page - Confirm Email
+
+![Signup Page - Confirm Email](./assets/readme/features/watches_clocks_confirm_email_page.jpg)
+
+- On the Signup Page, a new user can sign up for the Watches & Closck website by filling out and then submitting the form.<br>
 
 ### Login Page
 
-![Login Page](./assets/readme/features/tasty_blog_login_page.jpg)
+![Login Page](./assets/readme/features/watches_clocks_login_page.jpg)
 
 - On the Login Page, users can log in to the website by inputting the username and password and have access
-  to website services for a user registered..
+  to website services for a user registered.
 
 ### Logout Page
 
-![Logout Page](./assets/readme/features/tasty_blog_logout_page.jpg)
+![Logout Page](./assets/readme/features/watches_clocks_logout_page.jpg)
 
 - On the Logout Page, users can confirm that they wish to exit the website.
+  
+### Reset Password Page
 
-### User Profile Page
+![Reset Password Page](./assets/readme/features/watches_clocks_pass_reset_page.jpg)
 
-![User Profile Page](./assets/readme/features/tasty_blog_user_profile_page.jpg)
-
-\*On the Profile Page, users have access to their own information and can update their user name, email and profile image.
+- On the Logout Page, users can confirm that they wish to exit the website.
 
 ### Navbar
 
