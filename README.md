@@ -34,10 +34,10 @@ README Table Content
     - [Home Page - Selected Products](#home-page---selected-products)
     - [Home Page - Image Banner](#home-page---image-banner)
     - [Home Page - Customers Reviews Carousel](#home-page---customers-reviews-carousel)
-    - [Post Detail Page - Steps](#post-detail-page---steps)
-    - [Post Detail Page - Comments](#post-detail-page---comments)
-    - [Contact Page](#contact-page)
-    - [Categories Page](#categories-page)
+    - [Products Page](#products-page)
+    - [Products Details](#products-details)
+    - [Products Details - Features](#products-details---features)
+    - [Products Details - Products on Sale](#products-details---products-on-sale)
     - [Categories Results](#categories-results)
     - [Search Box](#search-box)
     - [Search Results Page](#search-results-page)
@@ -205,33 +205,34 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 The website admin can choose the reviews to be displayed on this carousel by clicking the 
 Carousel Review box in the admin panel.<br>
 
-### Post Detail Page - Steps
+### Products Page
 
-![Post Detail Page - Steps](./assets/readme/features/tasty_blog_post_detail_2_page.jpg)
+![Products Page](./assets/readme/features/watches_clocks_products_page.jpg)
 
-- In this page section, users can read the ingredients and follow the steps to complete the recipe.<br>
+- On this page, users will see all the products available on the website such as some product details and if they are interested
+in the watch they can press the button Buy Now. They can also sort products by price, name, rating and category. 
+From this page, the site admin logged in can edit or delete products.<br>
 
-### Post Detail Page - Comments
+### Products Details 
 
-![Post Detail Page - Comments](./assets/readme/features/tasty_blog_post_detail_comments_page.jpg)
+![Products Details ](./assets/readme/features/watches_clocks_products_details.jpg)
 
-- At the bottom of this page, users can read the comments posted by
-  other users. If the user is logged in, they are
-  allowed to comment and delete their own post comments.
+- This feature is at the top of the Product Details Page. Where users can see the product image and see information about the product 
+such as price, category, gender category and rating. If they are interested in the watch they can choose the product size, and quantityand 
+add the product to the shopping bag. Also, they can just leave the page by pressing the button Keep Shopping.
 
-### Contact Page
+### Products Details - Features
 
-![Contact Page](./assets/readme/features/tasty_blog_contact_page.jpg)<br><br>
+![Products Details - Features](./assets/readme/features/watches_clocks_products_details_features.jpg)<br><br>
 
-- The Contact Page allows users to have access to the Tasty blog
-  contact details. Users can also send an email to info@tastyblog by
-  using the contact form available on this page.
+- Scrolling down, the user will have access to the full product details such as watch functionality, package and model details.
 
-### Categories Page
+### Products Details - Products on Sale
 
-![Categories Page ](./assets/readme/features/tasty_blog_categories_page.jpg)<br><br>
+![Products Details - Products on Sale](./assets/readme/features/watches_clocks_products_on_sale.jpg)<br><br>
 
-- On the Categories Page, users can see the categories available in the blog and filter the posts by category.
+- In this features users, can see a selection of products on sales chosen by the website admin by adding an old price and 
+changing the product status to sales on the admin panel or from the website front-end.
 
 ### Categories Results
 
