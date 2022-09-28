@@ -40,8 +40,8 @@ README Table Content
     - [Products Details - Products on Sale](#products-details---products-on-sale)
     - [Products Shopping Bag](#products-shopping-bag)
     - [Products Shopping Bag - Products Coming Soon](#products-shopping-bag---products-coming-soon)
-    - [Search Results Page](#search-results-page)
-    - [Search Results - Input Empty](#search-results---input-empty)
+    - [Products Checkout](#products-checkout)
+    - [Products Checkout - Success](#products-checkout---success)
     - [Search Results - No Results Found](#search-results---no-results-found)
     - [Signup Page](#signup-page)
     - [Login Page](#login-page)
@@ -248,18 +248,17 @@ costs and go to the secure checkout to finish the order. They can also leave thi
 - Scrolling down users can see a carousel displaying a selection of products that will be available for purchase on the website soon. 
 The website admin can add products to this list by clicking the Coming Soon box in the admin panel or from the website front-end.
 
-### Search Results Page
+### Products Checkout
 
-![Search Results Page](./assets/readme/features/tasty_blog_search_results_page.jpg)
+![Products Checkout](./assets/readme/features/watches_clocks_checkout_page.jpg)
 
-- On the Search Results Page, users can see the recipes found by their search. When their recipe is located, the user can go to the
-  Post Details Page by clicking on the card result.
+- On the checkout page, users will have to fill out the form and add the credit/debit card details to finish the purchase.
 
-### Search Results - Input Empty
+### Products Checkout - Success
 
-![Search Results - Input Empty](./assets/readme/features/tasty_blog_search_results_empty_page.jpg)
+![Products Checkout - Success](./assets/readme/features/watches_clocks_checkout_success_page.jpg)
 
-- On the Search Results Page - Input Empty, users will see this message if their search returns with an empty input.
+- After a successful purchase, the user will be redirected to this page to check the confirmation of the order detail
 
 ### Search Results - No Results Found
 
