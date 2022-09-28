@@ -238,14 +238,15 @@ changing the product status to sales on the admin panel or from the website fron
 
 ![Products Shopping Bag](./assets/readme/features/watches_clocks_bag_page.jpg)
 
-- On the Categories Results Page, users can access the post filtered by the chosen category.
+- This feature is the Shopping bag where users can add products, change the quantity or remove products, check total price and delivery
+costs and go to the secure checkout to finish the order. They can also leave this page by pressing the button Kepp Shopping.
 
 ### Products Shopping Bag - Products Coming Soon
 
 ![Products Shopping Bag - Products Coming Soon](./assets/readme/features/watches_clocks_products_coming_soon.jpg)
 
-- In this box, the users can search by inputting a keyword in the search tool. This allows the user to try and find
-  the recipe they are looking for.
+- Scrolling down users can see a carousel displaying a selection of products that will be available for purchase on the website soon. 
+The website admin can add products to this list by clicking the Coming Soon box in the admin panel or from the website front-end.
 
 ### Search Results Page
 
