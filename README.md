@@ -2,8 +2,8 @@
 
 Project milestone 5 for Code Institute Full-stack development program: Django Framework.
 This project is a Full Stack E-commerce website built using the Django framework.
-Watches & Clocks is an E-commerce shop where users can find and buy watches and search for 
-products by filtering different categories. They can also register themselves on the website 
+Watches & Clocks is an E-commerce shop where users can find and buy watches and search for
+products by filtering different categories. They can also register themselves on the website
 and fill in and keep their personal information on the profile page. All the visitors are welcome
 to drop a service review and help the site admin to improve the service. The applicattion provides
 a nice look, easy, clear and concise site navigation.
@@ -96,7 +96,7 @@ README Table Content
 7. Buy a product by using the website checkout
 
 - As logged in website user, I can:
-  
+
 1. Review the website service.
 2. Delete my previous reviews.
 3. Edite my previous reviews.
@@ -136,9 +136,9 @@ All functionality and development of this project were managed using GitHub whic
 ![Colours Palete](./assets/readme/extras/watches_clocks_color_palete.png)<br>
 
 - The colour scheme is kept simple by opting for a combination of white text set against the image
-  background and black text against the white background. The navbar was set on a white background 
-  and a light grey on the bottom. The interactive colour is used for icons and the website logo. 
-  Yellow and red are used for the buttons to buy and see product details. The dark grey for to website 
+  background and black text against the white background. The navbar was set on a white background
+  and a light grey on the bottom. The interactive colour is used for icons and the website logo.
+  Yellow and red are used for the buttons to buy and see product details. The dark grey for to website
   footer contrasts with the rest of the website.
 
 #### Typography
@@ -148,14 +148,14 @@ All functionality and development of this project were managed using GitHub whic
 
 #### Imagery
 
-- All the images, were converted to webp format to improve the website performance. The product images and 
-banners are uploaded through the admin panel. The image banners are available in two different sizes to 
-be displayed on desktop and mobile.
+- All the images, were converted to webp format to improve the website performance. The product images and
+  banners are uploaded through the admin panel. The image banners are available in two different sizes to
+  be displayed on desktop and mobile.
 
 #### Video
 
-- They are 2 videos playing as a background on the landing page, one is displaying on the desktop another one is on mobile. 
-They were both compressed to improve the website's performance.
+- They are 2 videos playing as a background on the landing page, one is displaying on the desktop another one is on mobile.
+  They were both compressed to improve the website's performance.
 
 ### Wireframes
 
@@ -171,40 +171,39 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 ![Landing page](./assets/readme/features/watches_clocks_landing_page.jpg)
 
-- This Landing page works as the website cover, users will see a background video playing in a loop, a slogan 
-text about the collection available, two social media buttons and a button to go to the website's Home Page.<br>
+- This Landing page works as the website cover, users will see a background video playing in a loop, a slogan
+  text about the collection available, two social media buttons and a button to go to the website's Home Page.<br>
 
 ### Home Page - Images Carousel
 
 ![Home Page - Images Carousel](./assets/readme/features/watches_clocks_home_page_carousel.jpg)
 
-- In the highlighted posts, users can see a selection of 6 recipes. These recipes are
-  chosen by the site admin by clicking the featured box in the post database.<br>
+- The home page is equipped with a 3 images carousel on the top, users will see 3 banners advertising
+  products and services provided by Watches & Clocks shop.<br>
 
 ### Home Page - Selected Products
 
 ![Home Page - Selected Products](./assets/readme/features/watches_clocks_home_page_selected_products.jpg)
 
-- The About Page gives, users information about the Tasty Blog website. It introduces the users to the
-  website. It also details the main purpose and the goal of the blog.<br>
+- In this feature, users will see a selection of products selected by the website admin it can be used to highlight special
+  or popular products. The website admin can choose the products to be displayed on this feature by selecting a product in
+  the admin panel or from the website front-end and clicking on the featured box.<br>
 
 ### Home Page - Image Banner
 
 ![Home Page - Image Banner](./assets/readme/features/watches_clocks_home_page_banner.jpg)
 
-- On the Blog Page, users have access to the full recipes posts available on the website.
-  The user can choose to see the recipe detail by clicking on the recipe card.<br>
+- This banner feature is used to advertise new or popular products on the website. The website admin can upload many
+  of them through the admin panel and choose the one to be displayed by clicking on the banner featured box. It allows
+  the admin to change the banner easily depending on what will be better to be displayed at a certain moment.<br>
 
 ### Home Page - Customers Reviews Carousel
 
 ![Home Page - Customers Reviews Carousel](./assets/readme/features/watches_clocks_home_page_reviews.jpg)
 
-- At the top of the Post Details Page, users can see the post's main
-  image and they can also have access to information about the post. The
-  post information includes category, recipe name, rating stars,
-  time to prepare, author name and image, posted date and the
-  option to like/unlike the post. It will also show how many likes and
-  comments the post has received.<br>
+- In this feature, users can see a list of reviews written by other users about the website service. 
+The website admin can choose the reviews to be displayed on this carousel by clicking the 
+Carousel Review box in the admin panel.<br>
 
 ### Post Detail Page - Steps
 
