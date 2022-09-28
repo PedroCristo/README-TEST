@@ -299,32 +299,32 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Signup Page - Verify Email](./assets/readme/features/watches_clocks_verify_email_page.jpg)
 
-- On the Signup Page, a new user can sign up for the Watches & Closck website by filling out and then submitting the form.<br>
+- The user will be redirected to this page, after submitting the Signup form, telling them to check the link sent to the email box.<br>
   
 ### Signup Page - Confirm Email
 
 ![Signup Page - Confirm Email](./assets/readme/features/watches_clocks_confirm_email_page.jpg)
 
-- On the Signup Page, a new user can sign up for the Watches & Closck website by filling out and then submitting the form.<br>
+- When the user will click on the link sent to the email box it will redirect the user to this page saying that the email is confirmed.<br>
 
 ### Login Page
 
 ![Login Page](./assets/readme/features/watches_clocks_login_page.jpg)
 
 - On the Login Page, users can log in to the website by inputting the username and password and have access
-  to website services for a user registered.
+  to website services for a user registered.<br>
 
 ### Logout Page
 
 ![Logout Page](./assets/readme/features/watches_clocks_logout_page.jpg)
 
-- On the Logout Page, users can confirm that they wish to exit the website.
+- On the Logout Page, users can confirm that they wish to exit the website.<br>
   
 ### Reset Password Page
 
 ![Reset Password Page](./assets/readme/features/watches_clocks_pass_reset_page.jpg)
 
-- On the Logout Page, users can confirm that they wish to exit the website.
+- Users can use this page to reset their login password.<br>
 
 ### Navbar
 
