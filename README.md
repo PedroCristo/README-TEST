@@ -42,7 +42,10 @@ README Table Content
     - [Products Shopping Bag - Products Coming Soon](#products-shopping-bag---products-coming-soon)
     - [Products Checkout](#products-checkout)
     - [Products Checkout - Success](#products-checkout---success)
-    - [Search Results - No Results Found](#search-results---no-results-found)
+    - [Products Management](#products-management)
+    - [Profile Page](#profile-page)
+      - [Services Reviews Page](#services-reviews-page)
+      - [Add/Edit Service Review Page](#addedit-service-review-page)
     - [Signup Page](#signup-page)
     - [Login Page](#login-page)
     - [Logout Page](#logout-page)
@@ -260,11 +263,29 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 - After a successful purchase, the user will be redirected to this page to check the confirmation of the order detail
 
-### Search Results - No Results Found
+### Products Management
 
-![Search Results - No Results Found](./assets/readme/features/tasty_blog_search_results_null_page.jpg)
+![Products Management](./assets/readme/features/watches_clocks_products_management.jpg)
 
-- On the Search Results Page - No Results Found, users will see this message if there is nothing found for the search.
+- On this page the website admin logged in can add a new product to the website without the need to go to the admin panel.
+  
+### Profile Page
+
+![Profile Page](./assets/readme/features/watches_clocks_profile_page.jpg)
+
+- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.
+  
+#### Services Reviews Page
+
+![Services Reviews Page](./assets/readme/features/watches_clocks_service_review_page.jpg)
+
+- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.
+  
+#### Add/Edit Service Review Page
+
+![Add/Edit Service Review Page](./assets/readme/features/watches_clocks_add_edit_review_page.jpg)
+
+- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.
 
 ### Signup Page
 
