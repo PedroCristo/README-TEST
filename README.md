@@ -66,11 +66,13 @@ README Table Content
     - [Service Review - Delete Review 1](#service-review---delete-review-1)
     - [Service Review - Delete Review 2](#service-review---delete-review-2)
     - [Service Review - Delete Review 3](#service-review---delete-review-3)
-    - [Delete Comment - 3](#delete-comment---3)
-    - [Email Sent - Success](#email-sent---success)
-    - [Email Sent - Failed](#email-sent---failed)
-    - [Empty Search](#empty-search)
-    - [No Search Found](#no-search-found)
+    - [Add Product](#add-product)
+    - [Edit Product 1](#edit-product-1)
+    - [Edit Product 2](#edit-product-2)
+    - [Edit Product 3](#edit-product-3)
+    - [Delete Product 1](#delete-product-1)
+    - [Delete Product 1](#delete-product-1-1)
+    - [Delete Product 1](#delete-product-1-2)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -419,42 +421,61 @@ button at the bottom of their reviews.<br>
 
 ### Service Review - Delete Review 3
 
-![DService Review - Delete Review 3](./assets/readme/features/interactive_messages/wwatches_clocks_messages_delete_success.jpg)
-
-- IAfter pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
-
-### Delete Comment - 3
-
-![Delete Comment - 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
+![DService Review - Delete Review 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
   top of the page, "The review was deleted successfully".<br>
 
-### Email Sent - Success
+### Add Product
 
-![Email Sent - Success](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent_2.jpg)
+![Add Product](./assets/readme/features/interactive_messages/watches_clocks_messages_add_product.jpg)
 
-- After users submit the form to info@tastyblog successfully, they will see the message, "Thanks for your email!
-  We will contact you as soon as possible".<br>
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
 
-### Email Sent - Failed
+### Edit Product 1
 
-![Email Sent - Failed](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_email_sent.jpg)
+![Edit Product Alert](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product_button.jpg)
 
-- If the email was not submitted successfully, users will see the message, "Sorry, something went wrong!
-  Try to submit the email again".<br>
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
 
-### Empty Search
+### Edit Product 2
 
-![Empty Search](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_profile_empty_search.jpg)
+![Edit Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_update_product_success.jpg)
 
-- Any user can search for a keyword using the input search and if the search is done with an empty input they will see a
-  message saying, "You forgot to search a recipe. Please try searching again.".<br>
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
 
-### No Search Found
+### Edit Product 3
 
-![No Search Found](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_profile_no_search_found.jpg)
+![Edit Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
+
+### Delete Product 1
+
+![Delete Product 1](./assets/readme/features/interactive_messages/watches_)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
+
+### Delete Product 1
+
+![Delete Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
+
+### Delete Product 1
+
+![Delete Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
+
+
 
 - And if there are no results matching or similar to the keyword, the user will see the following message, "We are sorry.
   There are no searches for (keyword) on the website. Try the search again".<br>
