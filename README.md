@@ -335,7 +335,7 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ### Navbar
 
-![Navbar](./assets/readme/features/watches_clocks_responsive_navbar.png)
+![Navbar](./assets/readme/features/watches_clocks_responsive_navbar.jpg)
 
 - The navigation bar is present at the top of every page and houses all links to the various other pages.
 - The links at the bottom of the navbar are dropdown menus. They are used to filter products such as all products, types of watches, gender and special offers. 
@@ -349,7 +349,7 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Footer](./assets/readme/features/watches_clocks_footer.jpg)
 
-- On the website footer, users can see basic information about the blog such as contact, social media,
+- On the website footer, users can see basic information about the Watches & Clocks such as contact, social media,
   copyright, and a form where they can subscribe to the newsletter.<br>
 
 ## Messages and Interaction With Users
