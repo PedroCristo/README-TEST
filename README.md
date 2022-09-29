@@ -366,7 +366,7 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ### Login
 
-![Login](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_login.jpg)
+![Login](./assets/readme/features/interactive_messages/watches_clocks_messages_login.jpg)
 
 - When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as
   (username)".<br>
