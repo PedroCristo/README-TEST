@@ -72,8 +72,8 @@ README Table Content
     - [Edit Product 2](#edit-product-2)
     - [Edit Product 3](#edit-product-3)
     - [Delete Product 1](#delete-product-1)
-    - [Delete Product 1](#delete-product-1-1)
-    - [Delete Product 1](#delete-product-1-2)
+    - [Delete Product 2](#delete-product-2)
+    - [Delete Product 3](#delete-product-3)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -364,15 +364,13 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Sign up 1](./assets/readme/features/interactive_messages/watches_clocks_messages_registration_alert.jpg)
 
-- When users sign up to the website they will see a message at the top of the page saying "Successfully signed in as
-  (username)".<br>
+- When users sign up to the website they will see a message at the top right of the page saying "Confirmation e-mail sent to (email used to sign up)".<br>
 
 ### Sign up 2
 
 ![Sign up 2](./assets/readme/features/interactive_messages/watches_clocks_messages_registration_success.jpg)
 
-- When users sign up to the website they will see a message at the top of the page saying "Successfully signed in as
-  (username)".<br>
+- User have to confirm the email used for signing up and will see at the top right of the page the following message "You have confirmed (email used to sign up)".<br>
 
 ### Login
 
@@ -411,7 +409,7 @@ button at the bottom of their reviews <br>
 
 ![Service Review - Update Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_review_updated.jpg)
 
-- After the review is updated the user will see the message on the top right of the screen saying "The review was successfully updated". <br>
+- After the review is updated the user will see the message at the top right of the screen saying "The review was successfully updated". <br>
 
 ### Service Review - Delete Review 1 
 
@@ -431,62 +429,55 @@ button at the bottom of their reviews.<br>
 
 ![DService Review - Delete Review 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- After pressing the Delete button again inside the Bootstrap box model they will see a message at the
+  top right of the page, "The review was deleted successfully".<br>
 
 ### Add Product
 
 ![Add Product](./assets/readme/features/interactive_messages/watches_clocks_messages_add_product.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- The website admin logged in can add new products through the website's front-end. After it will be submitted successfully the following
+message pops up at the top right of the page "Successfully added product".<br>
 
 ### Edit Product 1
 
 ![Edit Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product_button.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- The website admin logged in can edit products already added through the website's front-end by clicking on the Edit button.<br>
 
 ### Edit Product 2
 
 ![Edit Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_alert_edit_product.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- Once the button is clicked the website admin will see the following alert at the top right of the screen "You are editing (product name)".<br>
 
 ### Edit Product 3
 
 ![Edit Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_update_product_success.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- After the Update Product button is pressed and the product is edited successfully the website admin will see a message at the top right of the page 
+"Successfully updated product!".<br>
 
 ### Delete Product 1
 
 ![Delete Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_product_button.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- The website admin logged in can delete products already added through the website's front-end by clicking on the Delete button.<br>
 
-### Delete Product 1
+### Delete Product 2
 
 ![Delete Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete_product.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+- After pressing the Delete button the Bootstrap box model will pop up with a message at the
+  center of the page, "Are you sure you want to delete this product?".<br>
 
-### Delete Product 1
+### Delete Product 3
 
 ![Delete Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_product_delete_success.jpg)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "The review was deleted successfully".<br>
+  top right of the page, "Product deleted".<br>
 
-
-
-- And if there are no results matching or similar to the keyword, the user will see the following message, "We are sorry.
-  There are no searches for (keyword) on the website. Try the search again".<br>
 
 ## Admin Panel / Superuser
 
