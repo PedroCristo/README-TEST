@@ -60,11 +60,10 @@ README Table Content
     - [Login](#login)
     - [Logout](#logout)
     - [Profile Update](#profile-update)
-    - [Like Post](#like-post)
-    - [Unlike Post](#unlike-post)
-    - [Comment Post](#comment-post)
-    - [Comment Post - 2](#comment-post---2)
-    - [Delete Comment](#delete-comment)
+    - [Service Review - Add Review](#service-review---add-review)
+    - [Service Review - Update Review 1](#service-review---update-review-1)
+    - [Service Review - Update Review 2](#service-review---update-review-2)
+    - [Service Review - Delete Review](#service-review---delete-review)
     - [Delete Comment - 2](#delete-comment---2)
     - [Delete Comment - 3](#delete-comment---3)
     - [Email Sent - Success](#email-sent---success)
@@ -368,55 +367,47 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Login](./assets/readme/features/interactive_messages/watches_clocks_messages_login.jpg)
 
-- When users sign in to the website they will see a message at the top of the page saying "Successfully signed in as
+- When users sign in to the website they will see a message at the top right of the page saying "Successfully signed in as
   (username)".<br>
 
 ### Logout
 
-![Logout](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_logout.jpg)
+![Logout](./assets/readme/features/interactive_messages/watches_clocks_messages_logout.jpg)
 
-- When users log out of the website they will see a message at the top of the page saying "You have signed out".<br>
+- When users log out of the website they will see a message at the top right of the page saying "You have signed out".<br>
 
 ### Profile Update
 
-![Profile Update](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_profile_update.jpg)
+![Profile Update](./assets/readme/features/interactive_messages/watches_clocks_messages_profile_update.jpg)
 
-- When users update their profile they will see a message at the top of the page saying that their account has been updated.<br>
+- When users update their profile they will see a message at the top right of the page saying that their account has been updated.<br>
 
-### Like Post
+### Service Review - Add Review
 
-![Like Post](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_like_post.jpg)
+![Service Review - Add Review](./assets/readme/features/interactive_messages/watches_clocks_messages_review_sent.jpg)
 
-- \*When users are logged in to the website they can like a post and they will see a message at the top of the page
-  saying "You have liked this post".<br>
+- When users are logged in to the website they can add a service review and after they submit the review they will see a
+  message at the top right of the page saying "Your review was sent successfully and is awaiting approval".<br>
 
-### Unlike Post
+### Service Review - Update Review 1
 
-![Unlike Post](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_unlike_post.jpg)
+![Service Review - Update Review 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_button.jpg)
 
-- When users are logged in to the website they can unlike a post that has been liked by the user and they will see a message
-  at the top of the page saying "You have unliked this post".<br>
+- When users are logged in to the website and they have previously posted a review they will see the Edit
+button at the bottom of their reviews <br>
 
-### Comment Post
+### Service Review - Update Review 2
 
-![Comment Post](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_1.jpg)
+![Service Review - Update Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_review_updated.jpg)
 
-- When users are logged in to the website they can comment on a post and after they submit the comment they will see a
-  message at the top of the page saying "Your comment was sent successfully and is awaiting approval".<br>
+- After the review is updated the user will see the message on the top right of the screen saying "The review was successfully updated". <br>
 
-### Comment Post - 2
+### Service Review - Delete Review
 
-![Comment Post - 2](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_sent_2.jpg)
+![Service Review - Delete Review](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
 
-- After a user submits a comment, they will see a message over the input comment saying "Thanks (username). Your
-  comment is awaiting approval! <br>
-
-### Delete Comment
-
-![Delete Comment](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
-
-\*When users are logged in to the website and they have previously posted a comment they will see the Delete
-button at the bottom of their comments.<br>
+- When users are logged in to the website and they have previously posted a review they will see the Delete
+button at the bottom of their reviews.<br>
 
 ### Delete Comment - 2
 
