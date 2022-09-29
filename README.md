@@ -11,7 +11,7 @@ a nice look, easy, clear and concise site navigation.
 [Live Project Here](https://watches-and-clocks-portfolio-5.herokuapp.com/)
 
 <p align="center"><img src="./assets/readme/features/watches_clocks_responsiveness.jpg"
-        alt="Tasty Blog webpage on multiple devices"></p>
+        alt="Watches & Clocks webpage on multiple devices"></p>
 
 README Table Content
 
@@ -56,7 +56,8 @@ README Table Content
     - [Navbar](#navbar)
     - [Footer](#footer)
   - [Messages and Interaction With Users](#messages-and-interaction-with-users)
-    - [Sign up](#sign-up)
+    - [Sign up 1](#sign-up-1)
+    - [Sign up 2](#sign-up-2)
     - [Login](#login)
     - [Logout](#logout)
     - [Profile Update](#profile-update)
@@ -359,9 +360,16 @@ The website admin can add products to this list by clicking the Coming Soon box 
 - Some interactive messages were added to the project to make the navigation on the website easier and to improve the
   user's experience.
 
-### Sign up
+### Sign up 1
 
-![Sign up](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_signup.jpg)
+![Sign up 1](./assets/readme/features/interactive_messages/watches_clocks_messages_registration_alert.jpg)
+
+- When users sign up to the website they will see a message at the top of the page saying "Successfully signed in as
+  (username)".<br>
+
+### Sign up 2
+
+![Sign up 2](./assets/readme/features/interactive_messages/watches_clocks_messages_registration_success.jpg)
 
 - When users sign up to the website they will see a message at the top of the page saying "Successfully signed in as
   (username)".<br>
@@ -508,12 +516,13 @@ button at the bottom of their reviews.<br>
 #### Django Packages
 
 - [Gunicorn](https://gunicorn.org/) as the server for Heroku
-- [AWS](https://aws.amazon.com/) was used to host the static files and media
 - [Dj_database_url](https://pypi.org/project/dj-database-url/) to parse the database URL from the environment variables in Heroku
 - [Psycopg2](https://pypi.org/project/psycopg2/) as an adaptor for Python and PostgreSQL databases
 - [Summernote](https://summernote.org/) as a text editor
 - [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account management
+- [Stripe](https://pypi.org/project/stripe/) for processing all purchases on the website
 - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) to style the forms
+- [Pillow](https://pypi.org/project/Pillow/) to process and save all the images downloaded through the database
 
 ### Frameworks - Libraries - Programs Used
 
@@ -551,10 +560,8 @@ button at the bottom of their reviews.<br>
 - To convert the images to webp format
 - [CANVA](https://www.canva.com/)
 - To build the logos for the project
-- [Coolors](https://coolors.co/)
-- To build the colour palette of the project
-- [Emailjs](https://www.emailjs.com/)
-- To send emails from the contact form
+- [AWS](https://aws.amazon.com/) 
+- was used to host the static files and media
 
 ### Testing
 
@@ -588,16 +595,22 @@ Testing results [here](TESTING.md)
 5. Click on the Create App button
 6. Click in resources and select Heroku Postgres database
 7. Click Reveal Config Vars and add a new record with SECRET_KEY
-8. Click Reveal Config Vars and add a new record with the CLOUDINARY_URL
-9. Click Reveal Config Vars and add a new record with the DISABLE_COLLECTSTATIC = 1
-10. The next page is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
-11. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
-12. Scroll to the top of the page and choose the Deploy tab
-13. Select Github as the deployment method
-14. Confirm you want to connect to GitHub
-15. Search for the repository name and click the connect button
-16. Scroll to the bottom of the deploy page and select the preferred deployment type
-17. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
+8. Click Reveal Config Vars and add a new record with the AWS_ACCESS_KEY_ID
+9. Click Reveal Config Vars and add a new record with the AWS_SECRET_ACCESS_KEY
+10. Click Reveal Config Vars and add a new record with the EMAIL_HOST_PASS
+11. Click Reveal Config Vars and add a new record with the EMAIL_HOST_USER
+12. Click Reveal Config Vars and add a new record with the STRIPE_PUBLIC_KEY
+13. Click Reveal Config Vars and add a new record with the STRIPE_SECRET_KEY
+13. Click Reveal Config Vars and add a new record with the STRIPE_WH_SECRET
+10. Click Reveal Config Vars and add a new record with the DISABLE_COLLECTSTATIC = 1
+11. The next page is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
+12. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
+13. Scroll to the top of the page and choose the Deploy tab
+14. Select Github as the deployment method
+15. Confirm you want to connect to GitHub
+16. Search for the repository name and click the connect button
+17. Scroll to the bottom of the deploy page and select the preferred deployment type
+18. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
 
 ## Final Deployment
 
@@ -607,6 +620,8 @@ Testing results [here](TESTING.md)
 4. In this project the summernote editor was used so for this to work in Heroku add: X_FRAME_OPTIONS = 'SAMEORIGIN' to
    settings.py.
 5. In Heroku settings config vars delete the record for DISABLE_COLLECTSTATIC
+6. In Heroku settings config vars set the record for USE_AWS to True
+  
 
 ## Forking This Project
 
@@ -635,6 +650,7 @@ Testing results [here](TESTING.md)
 
 - All the products content were taken from [Amazon](https://www.amazon.com/)
 - The images were taken from [Aliexpress](https://www.aliexpress.com/)
+- The 2 videos used as a background on the Landing Page were taken from[Pexels](https://www.pexels.com/)
 - The Watches & Clocks logos and favicon are my own designed and build
 
 ### Information Sources / Resources
@@ -642,6 +658,7 @@ Testing results [here](TESTING.md)
 - [W3Schools - Python](https://www.w3schools.com/python/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Scrimba - Pyhton](https://scrimba.com/learn/python)
+- [Code Institute - Slack Community](https://slack.com/)
 
 ## Special Thanks
 
