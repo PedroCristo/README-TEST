@@ -482,18 +482,18 @@ button at the bottom of their reviews.<br>
 
 ## Admin Panel / Superuser
 
-![No Search Found](./assets/readme/extras/tasty_blog_superuser.jpg)
+![No Search Found](./assets/readme/extras/watches_clocks_admin_panel_products.jpg)
 
 - On the Admin Panel, as an admin/superuser I have full access to CRUD functionality so I can view, create, edit and
-  delete the following ones:
+  delete the following apps:
 
-1. Posts
-2. Comments
-3. Author
-4. Categories
-5. Profiles
+1. Banners
+2. Checkout
+3. Products
+4. Profiles
+5. Reviews
 
-- As admin/superuser I can also approve comments and change the status and give other permissions to the users.<br>
+- As admin/superuser I can also approve reviews and change the status and give other permissions to the users.<br>
 
 ## Technologies Used
 
@@ -508,13 +508,11 @@ button at the bottom of their reviews.<br>
 #### Django Packages
 
 - [Gunicorn](https://gunicorn.org/) as the server for Heroku
-- [Cloudinary](https://cloudinary.com/) was used to host the static files and media
-- [Dj_database_url](https://pypi.org/project/dj-database-url/) to parse the database URL from the environment variables
-  in Heroku
+- [AWS](https://aws.amazon.com/) was used to host the static files and media
+- [Dj_database_url](https://pypi.org/project/dj-database-url/) to parse the database URL from the environment variables in Heroku
 - [Psycopg2](https://pypi.org/project/psycopg2/) as an adaptor for Python and PostgreSQL databases
 - [Summernote](https://summernote.org/) as a text editor
-- [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account
-  management
+- [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account management
 - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) to style the forms
 
 ### Frameworks - Libraries - Programs Used
@@ -603,7 +601,7 @@ Testing results [here](TESTING.md)
 
 ## Final Deployment
 
-1. Create a runtime.txt "python-3.8.13"
+1. Create a runtime.txt "python-3.9.13"
 2. Create a Procfile "web: gunicorn your_project_name.wsgi"
 3. When development is complete change the debug setting to: DEBUG = False in settings.py
 4. In this project the summernote editor was used so for this to work in Heroku add: X_FRAME_OPTIONS = 'SAMEORIGIN' to
@@ -614,7 +612,7 @@ Testing results [here](TESTING.md)
 
 - Fork this project by following the steps:
 
-1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_4)
+1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_5)
 2. Find the 'Fork' button at the top right of the page
 3. Once you click the button the fork will be in your repository
 
@@ -622,7 +620,7 @@ Testing results [here](TESTING.md)
 
 - Clone this project by following the steps:
 
-1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_4)
+1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_5)
 2. You will be provided with three options to choose from, HTTPS, SSH or GitHub CLI, click the clipboard icon in order
    to copy the URL
 3. Once you click the button the fork will be in your repository
@@ -635,9 +633,9 @@ Testing results [here](TESTING.md)
 
 ### Content
 
-- All food recipies were taken from [BBC Goodfood](https://www.bbcgoodfood.com/recipes)
-- The images were taken from [Unsplash](https://unsplash.com/)
-- The Tasty Blog logos and favicon are my own designed and build
+- All the products content were taken from [Amazon](https://www.amazon.com/)
+- The images were taken from [Aliexpress](https://www.aliexpress.com/)
+- The Watches & Clocks logos and favicon are my own designed and build
 
 ### Information Sources / Resources
 
