@@ -435,28 +435,28 @@ button at the bottom of their reviews.<br>
 
 ### Edit Product 1
 
-![Edit Product Alert](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product_button.jpg)
+![Edit Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product_button.jpg)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
   top of the page, "The review was deleted successfully".<br>
 
 ### Edit Product 2
 
-![Edit Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_update_product_success.jpg)
+![Edit Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_alert_edit_product.jpg)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
   top of the page, "The review was deleted successfully".<br>
 
 ### Edit Product 3
 
-![Edit Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product.jpg)
+![Edit Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_update_product_success.jpg)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
   top of the page, "The review was deleted successfully".<br>
 
 ### Delete Product 1
 
-![Delete Product 1](./assets/readme/features/interactive_messages/watches_)
+![Delete Product 1](./assets/readme/features/interactive_messages/)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
   top of the page, "The review was deleted successfully".<br>
