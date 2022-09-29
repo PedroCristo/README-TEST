@@ -335,24 +335,22 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ### Navbar
 
-![Navbar](./assets/readme/features/tasty_blog_navbar.jpg)
+![Navbar](./assets/readme/features/watches_clocks_responsive_navbar.png)
 
 - The navigation bar is present at the top of every page and houses all links to the various other pages.
+- The links at the bottom of the navbar are dropdown menus. They are used to filter products such as all products, types of watches, gender and special offers. 
+- Is available also a link to go to the Home Page and another one for more options.
 - The options to Register or Log in will change to the option to log out once a user has logged in.
-- Once a user has signed in, more options such as profile page and user image will be available in the navbar.
-- A search icon is nested in the navbar and once clicked it will open the search box.
-- The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.
-
-![Navbar](./assets/readme/features/tasty_blog_navbar_dropdown_menu.jpg)
-
-- In the navbar users can access to the categories list by clicking on the dropdown menu.
+- Once a user has signed in, more options such as profile or add review will be available in the navbar.
+- A search box is nested in also in the navbar.
+- The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.<br>
 
 ### Footer
 
-![Footer](./assets/readme/features/tasty_blog_footer.jpg)
+![Footer](./assets/readme/features/watches_clocks_footer.jpg)
 
 - On the website footer, users can see basic information about the blog such as contact, social media,
-  copyright, and a quote about food recipes.
+  copyright, and a form where they can subscribe to the newsletter.<br>
 
 ## Messages and Interaction With Users
 
