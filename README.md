@@ -65,7 +65,7 @@ README Table Content
     - [Service Review - Update Review 2](#service-review---update-review-2)
     - [Service Review - Delete Review 1](#service-review---delete-review-1)
     - [Service Review - Delete Review 2](#service-review---delete-review-2)
-    - [Delete Comment - 2](#delete-comment---2)
+    - [Service Review - Delete Review 3](#service-review---delete-review-3)
     - [Delete Comment - 3](#delete-comment---3)
     - [Email Sent - Success](#email-sent---success)
     - [Email Sent - Failed](#email-sent---failed)
@@ -412,17 +412,17 @@ button at the bottom of their reviews.<br>
 
 ### Service Review - Delete Review 2
 
-![Service Review - Delete Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_button.jpg)
-
-- When users are logged in to the website and they have previously posted a review they will see the Delete
-button at the bottom of their reviews.<br>
-
-### Delete Comment - 2
-
-![Delete Comment - 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete.jpg)
+![Service Review - Delete Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete.jpg)
 
 - If they wish to delete their review, they can press the button Delete and a Bootstrap box model will pop up with the message
   "Are you sure you want to delete your review?".<br>
+
+### Service Review - Delete Review 3
+
+![DService Review - Delete Review 3](./assets/readme/features/interactive_messages/wwatches_clocks_messages_delete_success.jpg)
+
+- IAfter pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top of the page, "The review was deleted successfully".<br>
 
 ### Delete Comment - 3
 
