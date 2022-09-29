@@ -63,7 +63,8 @@ README Table Content
     - [Service Review - Add Review](#service-review---add-review)
     - [Service Review - Update Review 1](#service-review---update-review-1)
     - [Service Review - Update Review 2](#service-review---update-review-2)
-    - [Service Review - Delete Review](#service-review---delete-review)
+    - [Service Review - Delete Review 1](#service-review---delete-review-1)
+    - [Service Review - Delete Review 2](#service-review---delete-review-2)
     - [Delete Comment - 2](#delete-comment---2)
     - [Delete Comment - 3](#delete-comment---3)
     - [Email Sent - Success](#email-sent---success)
@@ -402,26 +403,33 @@ button at the bottom of their reviews <br>
 
 - After the review is updated the user will see the message on the top right of the screen saying "The review was successfully updated". <br>
 
-### Service Review - Delete Review
+### Service Review - Delete Review 1 
 
-![Service Review - Delete Review](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_1.jpg)
+![Service Review - Delete Review 1](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_button.jpg)
+
+- When users are logged in to the website and they have previously posted a review they will see the Delete
+button at the bottom of their reviews.<br>
+
+### Service Review - Delete Review 2
+
+![Service Review - Delete Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_button.jpg)
 
 - When users are logged in to the website and they have previously posted a review they will see the Delete
 button at the bottom of their reviews.<br>
 
 ### Delete Comment - 2
 
-![Delete Comment - 2](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_2.jpg)
+![Delete Comment - 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete.jpg)
 
-- If they wish to delete their comment, they can press the button Delete and a Bootstrap box model will pop up with the message
-  "Are you sure you want to delete your comment?".<br>
+- If they wish to delete their review, they can press the button Delete and a Bootstrap box model will pop up with the message
+  "Are you sure you want to delete your review?".<br>
 
 ### Delete Comment - 3
 
-![Delete Comment - 3](./assets/readme/features/interactive_messages/tasty_blog_user_interaction_comment_delete_3.jpg)
+![Delete Comment - 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
 
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top of the page, "Your comment was deleted successfully".<br>
+  top of the page, "The review was deleted successfully".<br>
 
 ### Email Sent - Success
 
