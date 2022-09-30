@@ -486,29 +486,26 @@ message pops up at the top right of the page "Successfully added product".<br>
 
 ![Add Product to Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_add_to_bag.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top right of the page, "Product deleted".<br>
+- When users choose a product and add it to the bag they will see a success message on the top right of the screen.<br>
 
 ### Update Bag
 
 ![Update Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_update_bag.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top right of the page, "Product deleted".<br>
+- When users update the bag they will see a success message on the top right of the screen..<br>
 
 ### Remove Product from Bag
 
 ![Remove Product from Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_remove_from_bag.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top right of the page, "Product deleted".<br>
+- AWhen users remove the products from the bag they will see a success message on the top right of the screen.<br>
 
 ### Purchase Success
 
 ![Purchase Success](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_success.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
-  top right of the page, "Product deleted".<br>
+- AWhen users fill out the check-out form and finish the purchase successfully they will see a success message 
+with the order details at the top right of the screen..<br>
 
 
 ## Admin Panel / Superuser
