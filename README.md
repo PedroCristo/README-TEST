@@ -80,8 +80,8 @@ README Table Content
     - [Purchase Success](#purchase-success)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Marketing and Social Media](#marketing-and-social-media)
-  - [Statista - Facebook Users](#statista---facebook-users)
-  - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
+    - [Statista - Facebook Users](#statista---facebook-users)
+    - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -532,13 +532,13 @@ with the order details at the top right of the screen..<br>
 Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are 
 aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
 
-## Statista - Facebook Users
+### Statista - Facebook Users
 
 ![Statista - Facebook Users](./assets/readme/extras/watches_clocks_statista_facebook.jpg)
 
 - Distribution of Facebook users worldwide as of 2022 according to [Statista](https://www.statista.com/)<br>
   
-## Watches & Clocks - Facebook Page
+### Watches & Clocks - Facebook Page
 
 ![Watches & Clocks - Facebook Page 1](./assets/readme/extras/watches_clocks_facebook_1.jpg)
 ![Watches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
