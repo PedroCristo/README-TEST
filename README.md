@@ -74,6 +74,10 @@ README Table Content
     - [Delete Product 1](#delete-product-1)
     - [Delete Product 2](#delete-product-2)
     - [Delete Product 3](#delete-product-3)
+    - [Add Product to Bag](#add-product-to-bag)
+    - [Update Bag](#update-bag)
+    - [Remove Product from Bag](#remove-product-from-bag)
+    - [Purchase Success](#purchase-success)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -478,6 +482,34 @@ message pops up at the top right of the page "Successfully added product".<br>
 - After pressing the Delete button again inside the Bootstrap box model they will see a message on the
   top right of the page, "Product deleted".<br>
 
+### Add Product to Bag
+
+![Add Product to Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_add_to_bag.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top right of the page, "Product deleted".<br>
+
+### Update Bag
+
+![Update Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_update_bag.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top right of the page, "Product deleted".<br>
+
+### Remove Product from Bag
+
+![Remove Product from Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_remove_from_bag.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top right of the page, "Product deleted".<br>
+
+### Purchase Success
+
+![Purchase Success](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_success.jpg)
+
+- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+  top right of the page, "Product deleted".<br>
+
 
 ## Admin Panel / Superuser
 
@@ -641,7 +673,7 @@ Testing results [here](TESTING.md)
 
 - All the products content were taken from [Amazon](https://www.amazon.com/)
 - The images were taken from [Aliexpress](https://www.aliexpress.com/)
-- The 2 videos used as a background on the Landing Page were taken from[Pexels](https://www.pexels.com/)
+- The 2 videos used as a background on the Landing Page were taken from [Pexels](https://www.pexels.com/)
 - The Watches & Clocks logos and favicon are my own designed and build
 
 ### Information Sources / Resources
