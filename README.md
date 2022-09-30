@@ -81,7 +81,7 @@ README Table Content
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Marketing and Social Media](#marketing-and-social-media)
   - [Statista - Facebook Users](#statista---facebook-users)
-  - [Watches \& Clocks - Facebook Page 1](#watches--clocks---facebook-page-1)
+  - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -179,7 +179,7 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 ## Database Diagram
 
-![Database Diagrama](./assets/readme/extras/tasty_blog_database_diagrama_1.jpg)<br>
+![Database Diagrama](./assets/readme/extras/watches_clocks_database_diagram.jpg)<br>
 
 ## Features
 
@@ -538,7 +538,7 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 
 - Distribution of Facebook users worldwide as of 2022 according to [Statista](https://www.statista.com/)<br>
   
-## Watches & Clocks - Facebook Page 1
+## Watches & Clocks - Facebook Page
 
 ![Watches & Clocks - Facebook Page 1](./assets/readme/extras/watches_clocks_facebook_1.jpg)
 ![Watches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
