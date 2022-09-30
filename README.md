@@ -79,6 +79,10 @@ README Table Content
     - [Remove Product from Bag](#remove-product-from-bag)
     - [Purchase Success](#purchase-success)
   - [Admin Panel / Superuser](#admin-panel--superuser)
+  - [Marketing and Social Media](#marketing-and-social-media)
+  - [Statista - Facebook Users](#statista---facebook-users)
+  - [Watches \& Clocks - Facebook Page 1](#watches--clocks---facebook-page-1)
+  - [Watches \& Clocks - Facebook Page 2](#watches--clocks---facebook-page-2)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -479,38 +483,38 @@ message pops up at the top right of the page "Successfully added product".<br>
 
 ![Delete Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_product_delete_success.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message on the
+- After pressing the Delete button again inside the Bootstrap box model they will see a message at the
   top right of the page, "Product deleted".<br>
 
 ### Add Product to Bag
 
 ![Add Product to Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_add_to_bag.jpg)
 
-- When users choose a product and add it to the bag they will see a success message on the top right of the screen.<br>
+- When users choose a product and add it to the bag they will see a success message at the top right of the screen.<br>
 
 ### Update Bag
 
 ![Update Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_update_bag.jpg)
 
-- When users update the bag they will see a success message on the top right of the screen..<br>
+- When users update the bag they will see a success message at the top right of the screen..<br>
 
 ### Remove Product from Bag
 
 ![Remove Product from Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_remove_from_bag.jpg)
 
-- AWhen users remove the products from the bag they will see a success message on the top right of the screen.<br>
+- When users remove the products from the bag they will see a success message at the top right of the screen.<br>
 
 ### Purchase Success
 
 ![Purchase Success](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_success.jpg)
 
-- AWhen users fill out the check-out form and finish the purchase successfully they will see a success message 
+- When users fill out the check-out form and finish the purchase successfully they will see a success message 
 with the order details at the top right of the screen..<br>
 
 
 ## Admin Panel / Superuser
 
-![No Search Found](./assets/readme/extras/watches_clocks_admin_panel_products.jpg)
+![Admin Panel / Superuser](./assets/readme/extras/watches_clocks_admin_panel_products.jpg)
 
 - On the Admin Panel, as an admin/superuser I have full access to CRUD functionality so I can view, create, edit and
   delete the following apps:
@@ -522,6 +526,28 @@ with the order details at the top right of the screen..<br>
 5. Reviews
 
 - As admin/superuser I can also approve reviews and change the status and give other permissions to the users.<br>
+
+## Marketing and Social Media
+
+- Market research was performed to decide on the marketing strategy needed to promote the Watches & Clocks brand. For social media marketing, 
+- Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are 
+- aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
+
+## Statista - Facebook Users
+
+![Statista - Facebook Users](./assets/readme/extras/watches_clocks_statista_facebook.jpg)
+
+- Distribution of Facebook users worldwide as of 2022 according to [Statista](https://www.statista.com/).<br>
+  
+## Watches & Clocks - Facebook Page 1
+
+![Watches & Clocks - Facebook Page 1](./assets/readme/extras/watches_clocks_facebook_1.jpg)
+
+## Watches & Clocks - Facebook Page 2
+
+![SWatches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
+
+ - [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/).<br>
 
 ## Technologies Used
 
