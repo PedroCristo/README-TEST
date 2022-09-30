@@ -82,7 +82,6 @@ README Table Content
   - [Marketing and Social Media](#marketing-and-social-media)
   - [Statista - Facebook Users](#statista---facebook-users)
   - [Watches \& Clocks - Facebook Page 1](#watches--clocks---facebook-page-1)
-  - [Watches \& Clocks - Facebook Page 2](#watches--clocks---facebook-page-2)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -537,17 +536,14 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 
 ![Statista - Facebook Users](./assets/readme/extras/watches_clocks_statista_facebook.jpg)
 
-- Distribution of Facebook users worldwide as of 2022 according to [Statista](https://www.statista.com/).<br>
+- Distribution of Facebook users worldwide as of 2022 according to [Statista](https://www.statista.com/)<br>
   
 ## Watches & Clocks - Facebook Page 1
 
 ![Watches & Clocks - Facebook Page 1](./assets/readme/extras/watches_clocks_facebook_1.jpg)
+![Watches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
 
-## Watches & Clocks - Facebook Page 2
-
-![SWatches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
-
- - [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/).<br>
+ - [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/)<br>
 
 ## Technologies Used
 
