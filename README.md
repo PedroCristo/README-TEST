@@ -530,8 +530,8 @@ with the order details at the top right of the screen..<br>
 ## Marketing and Social Media
 
 - Market research was performed to decide on the marketing strategy needed to promote the Watches & Clocks brand. For social media marketing, 
-- Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are 
-- aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
+Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are 
+aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
 
 ## Statista - Facebook Users
 
