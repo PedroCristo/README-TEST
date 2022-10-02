@@ -82,6 +82,9 @@ README Table Content
   - [Marketing and Social Media](#marketing-and-social-media)
     - [Statista - Facebook Users](#statista---facebook-users)
     - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
+  - [Search Engine Optimization](#search-engine-optimization)
+    - [sitemap.xml](#sitemapxml)
+    - [robots.txt](#robotstxt)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -544,6 +547,23 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 ![Watches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
 
  - [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/)<br>
+
+## Search Engine Optimization
+
+### sitemap.xml
+
+- A sitemap file with a list of important URLs was added to ensure that search engines are able to easily navigate through the site 
+and understand its structure. This was made using XML-sitemaps.com by following the steps:
+
+1. Paste the URL of the deployed site into XML-sitemaps
+2. Download the XML sitemap file once ready
+3. Add the file into the projects root folder, named as sitemap.xml
+
+### robots.txt
+
+- A robots.txt file was created to tell search engines where not to go on the website and increase the quality of the site, ultimately improving the SEO rating. 
+
+![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_robots_txt.jpg)
 
 ## Technologies Used
 
