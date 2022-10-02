@@ -82,6 +82,7 @@ README Table Content
   - [Marketing and Social Media](#marketing-and-social-media)
     - [Statista - Facebook Users](#statista---facebook-users)
     - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
+    - [Meta Pixel - Tracking Audience](#meta-pixel---tracking-audience)
   - [Search Engine Optimization](#search-engine-optimization)
     - [sitemap.xml](#sitemapxml)
     - [robots.txt](#robotstxt)
@@ -548,6 +549,12 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 ![Watches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
 
  - [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/)<br>
+
+### Meta Pixel - Tracking Audience
+
+- In order to improve the website services, I have set a Meta Pixel service to track the Watches & Clocks audience.
+
+![Meta Pixel - Tracking Audience](./assets/readme/extras/watches_clocks_meta_pixel.jpg)
 
 ## Search Engine Optimization
 
