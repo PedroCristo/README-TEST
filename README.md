@@ -558,6 +558,10 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 
 ## Search Engine Optimization
 
+- The site was optimized by careful selection of keywords about the "world" of watches and shops. The entire table consists of important relevant topics based on my initial understanding of the business using these topics of keywords was made orientated around common topics and themes within the business. Topics and keywords were then tried out on Google and the relevant suggestions it gave were added to the keyword list. The words crossed out in red were removed due to too having too much competition using Wordtracker. Words crossed out in yellow were removed due to the lack of relevance and not being specific to the site.
+
+![SEO - Keywords List](./assets/readme/extras/watches_clocks_seo_keywords_list.jpg)
+
 ### sitemap.xml
 
 - A sitemap file with a list of important URLs was added to ensure that search engines are able to easily navigate through the site 
