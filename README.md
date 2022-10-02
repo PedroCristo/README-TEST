@@ -85,6 +85,7 @@ README Table Content
   - [Search Engine Optimization](#search-engine-optimization)
     - [sitemap.xml](#sitemapxml)
     - [robots.txt](#robotstxt)
+    - [Sitemap Google Registration](#sitemap-google-registration)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -564,6 +565,12 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 - A robots.txt file was created to tell search engines where not to go on the website and increase the quality of the site, ultimately improving the SEO rating. 
 
 ![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_robots_txt.jpg)
+
+### Sitemap Google Registration
+
+- To ensure that the Google engine will check the website sitemap file I have registered the Watches & Clocks URL on the Google Search Console. 
+
+![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_sitemap_google_verification.jpg)
 
 ## Technologies Used
 
