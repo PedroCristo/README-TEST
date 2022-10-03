@@ -9,7 +9,12 @@ Back to the [README](README.md)
 
 ![Prouct Details Page](./assets/readme/wireframes/watches_clocks_wireframes_product_details_page.jpg)
 
-![Post Details Page](./assets/readme/wireframes/post_details_page.png)
+![Shopping Bag Page](./assets/readme/wireframes/watches_clocks_wireframes_shopping_bag_page.jpg)
+
+
+
+
+
 
 ![Categories Page](./assets/readme/wireframes/categories_page.png)
 
