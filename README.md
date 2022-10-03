@@ -578,6 +578,8 @@ is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
 - In order to add a page with the Privacy Policy for Watches & Clocks, I used the service [Privacy Policy Generator](https://www.privacypolicygenerator.info/) to make sure that the website is following the European Privacy Policy Rules.
 
+![Privacy Policy](./assets/readme/extras/watches_clocks_privacy_policy.jpg)
+
 - [Watches & Clocks - Privacy Policy Page](https://www.privacypolicygenerator.info/live.php?token=He4U9OHbOs5hfHSPBg0sqUnVRq04P12y)
 
 ## Search Engine Optimization
