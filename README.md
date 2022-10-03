@@ -89,6 +89,7 @@ README Table Content
     - [sitemap.xml](#sitemapxml)
     - [robots.txt](#robotstxt)
     - [Sitemap Google Registration](#sitemap-google-registration)
+  - [Stripe Payments](#stripe-payments)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
       - [Django Packages](#django-packages)
@@ -598,6 +599,12 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 - To ensure that the Google engine will check the website sitemap file I have registered the Watches & Clocks URL on the Google Search Console. 
 
 ![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_sitemap_google_verification.jpg)
+
+## Stripe Payments
+
+- The Stripe payments system is set to handle the purchase on the website. Below is presented a screenshot of the Watches 6 Clocks - Stripe dashboard.
+
+![ Stripe Payments](./assets/readme/extras/watches_clocks_stripe_dashboard.jpg)
 
 ## Technologies Used
 
