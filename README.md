@@ -84,6 +84,7 @@ README Table Content
     - [Statista - Facebook Users](#statista---facebook-users)
     - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
     - [Meta Pixel - Tracking Audience](#meta-pixel---tracking-audience)
+    - [Mailchimp Subscription Service](#mailchimp-subscription-service)
   - [Search Engine Optimization](#search-engine-optimization)
     - [sitemap.xml](#sitemapxml)
     - [robots.txt](#robotstxt)
@@ -561,6 +562,15 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 - In order to improve the website services, I have set a Meta Pixel service to track the Watches & Clocks audience.
 
 ![Meta Pixel - Tracking Audience](./assets/readme/extras/watches_clocks_meta_pixel.jpg)
+
+### Mailchimp Subscription Service
+
+- Users are encouraged to signup for newsletters, discounts and information about the products sold at Watches & Clocks. 
+The form for signup is available on the website footer and is present on any page. The email subscription service is run through 
+Mailchimp, allowing the website admin to send marketing emails through the platform, increasing engagement within the site. Below 
+is a screenshot of the Watches & Clocks - Mailchimp dashboard.
+
+![ Mailchimp Subscription Service](./assets/readme/extras/watches_clocks_mailchimp_dashborad.jpg)
 
 ## Search Engine Optimization
 
