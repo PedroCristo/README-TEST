@@ -7,7 +7,7 @@ Back to the [README](README.md)
 
 ![Products Page](./assets/readme/wireframes/watches_clocks_wireframes_products_page.jpg)
 
-![Contact Page](./assets/readme/wireframes/contact_page.png)
+![Prouct Details Page](./assets/readme/wireframes/watches_clocks_wireframes_product_details_page.jpg)
 
 ![Post Details Page](./assets/readme/wireframes/post_details_page.png)
 
