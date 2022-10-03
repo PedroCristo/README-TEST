@@ -78,6 +78,7 @@ README Table Content
     - [Update Bag](#update-bag)
     - [Remove Product from Bag](#remove-product-from-bag)
     - [Purchase Success](#purchase-success)
+    - [Purchase Success - Confirmation Email](#purchase-success---confirmation-email)
   - [Admin Panel / Superuser](#admin-panel--superuser)
   - [Marketing and Social Media](#marketing-and-social-media)
     - [Statista - Facebook Users](#statista---facebook-users)
@@ -513,8 +514,13 @@ message pops up at the top right of the page "Successfully added product".<br>
 ![Purchase Success](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_success.jpg)
 
 - When users fill out the check-out form and finish the purchase successfully they will see a success message 
-with the order details at the top right of the screen..<br>
+with the order details at the top right of the screen.<br>
 
+### Purchase Success - Confirmation Email
+
+![ Purchase Success - Confirmation Email](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_email_confirmation.jpg)
+
+- When users successfully purchase a product they are sent an automatic email containing all of their order confirmation details. 
 
 ## Admin Panel / Superuser
 
