@@ -1,11 +1,11 @@
 ## Wireframes
 Back to the [README](README.md)
 
-![Home Page](./assets/readme/wireframes/home_page.png)
+![Landing Page](./assets/readme/wireframes/watches_clocks_wireframes_landig_page.jpg)
 
-![about Page](./assets/readme/wireframes/about_page.png)
+![Home Page](./assets/readme/wireframes/watches_clocks_wireframes_home_page.jpg)
 
-![Blog Page](./assets/readme/wireframes/blog_page.png)
+![Products Page](./assets/readme/wireframes/watches_clocks_wireframes_products_page.jpg)
 
 ![Contact Page](./assets/readme/wireframes/contact_page.png)
 

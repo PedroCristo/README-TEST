@@ -523,7 +523,7 @@ with the order details at the top right of the screen.<br>
 
 ![ Purchase Success - Confirmation Email](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_email_confirmation.jpg)
 
-- When users successfully purchase a product they are sent an automatic email containing all of their order confirmation details. 
+- When users successfully purchase a product they are sent an automatic email containing all of their order confirmation details.<br>
 
 ## Admin Panel / Superuser
 
@@ -563,7 +563,7 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 
 - In order to improve the website services, I have set a Meta Pixel service to track the Watches & Clocks audience.
 
-![Meta Pixel - Tracking Audience](./assets/readme/extras/watches_clocks_meta_pixel.jpg)
+![Meta Pixel - Tracking Audience](./assets/readme/extras/watches_clocks_meta_pixel.jpg)<br>
 
 ### Mailchimp Subscription Service
 
@@ -572,7 +572,7 @@ The form for signup is available on the website footer and is present on any pag
 Mailchimp, allowing the website admin to send marketing emails through the platform, increasing engagement within the site. Below 
 is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
-![ Mailchimp Subscription Service](./assets/readme/extras/watches_clocks_mailchimp_dashborad.jpg)
+![ Mailchimp Subscription Service](./assets/readme/extras/watches_clocks_mailchimp_dashborad.jpg)<br>
 
 ## Privacy Policy 
 
@@ -580,13 +580,13 @@ is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
 ![Privacy Policy](./assets/readme/extras/watches_clocks_privacy_policy.jpg)
 
-- [Watches & Clocks - Privacy Policy Page](https://www.privacypolicygenerator.info/live.php?token=He4U9OHbOs5hfHSPBg0sqUnVRq04P12y)
+- [Watches & Clocks - Privacy Policy Page](https://www.privacypolicygenerator.info/live.php?token=He4U9OHbOs5hfHSPBg0sqUnVRq04P12y)<br>
 
 ## Search Engine Optimization
 
 - The site was optimized by careful selection of keywords about the "world" of watches and shops. The entire table consists of important relevant topics based on my initial understanding of the business using these topics of keywords was made orientated around common topics and themes within the business. Topics and keywords were then tried out on Google and the relevant suggestions it gave were added to the keyword list. The words crossed out in red were removed due to too having too much competition using Wordtracker. Words crossed out in yellow were removed due to the lack of relevance and not being specific to the site.
 
-![SEO - Keywords List](./assets/readme/extras/watches_clocks_seo_keywords_list.jpg)
+![SEO - Keywords List](./assets/readme/extras/watches_clocks_seo_keywords_list.jpg)<br>
 
 ### sitemap.xml
 
@@ -595,25 +595,25 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 
 1. Paste the URL of the deployed site into XML-sitemaps
 2. Download the XML sitemap file once ready
-3. Add the file into the projects root folder, named as sitemap.xml
+3. Add the file into the projects root folder, named as sitemap.xml<br>
 
 ### robots.txt
 
 - A robots.txt file was created to tell search engines where not to go on the website and increase the quality of the site, ultimately improving the SEO rating. 
 
-![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_robots_txt.jpg)
+![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_robots_txt.jpg)<br>
 
 ### Sitemap Google Registration
 
 - To ensure that the Google engine will check the website sitemap file I have registered the Watches & Clocks URL on the Google Search Console. 
 
-![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_sitemap_google_verification.jpg)
+![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_sitemap_google_verification.jpg)<br>
 
 ## Stripe Payments
 
 - The Stripe payments system is set to handle the purchase on the website. Below is presented a screenshot of the Watches 6 Clocks - Stripe dashboard.
 
-![ Stripe Payments](./assets/readme/extras/watches_clocks_stripe_dashboard.jpg)
+![ Stripe Payments](./assets/readme/extras/watches_clocks_stripe_dashboard.jpg)<br>
 
 ## Technologies Used
 
@@ -623,7 +623,7 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 - [CSS 3](https://en.wikipedia.org/wiki/CSS)
 - [JavaScript](https://www.javascript.com/)
 - [Django](https://www.python.org/)
-- [Python](https://www.djangoproject.com/)
+- [Python](https://www.djangoproject.com/)<br>
 
 #### Django Packages
 
@@ -634,7 +634,7 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 - [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account management
 - [Stripe](https://pypi.org/project/stripe/) for processing all purchases on the website
 - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) to style the forms
-- [Pillow](https://pypi.org/project/Pillow/) to process and save all the images downloaded through the database
+- [Pillow](https://pypi.org/project/Pillow/) to process and save all the images downloaded through the database<br>
 
 ### Frameworks - Libraries - Programs Used
 
@@ -673,7 +673,7 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 - [CANVA](https://www.canva.com/)
 - To build the logos for the project
 - [AWS](https://aws.amazon.com/) 
-- was used to host the static files and media
+- was used to host the static files and media<br>
 
 ### Testing
 
@@ -693,7 +693,7 @@ Testing results [here](TESTING.md)
 10. Add app to the list of installed apps in settings.py file: you_app_name
 11. Migrate changes: in the terminal window type python3 manage.py migrate
 12. Run the server to test if the app is installed, in the terminal window type python3 manage.py runserver
-13. If the app has been installed correctly the window will display The install worked successfully! Congratulations!
+13. If the app has been installed correctly the window will display The install worked successfully! Congratulations!<br>
 
 ## Deployment of This Project
 
@@ -722,7 +722,7 @@ Testing results [here](TESTING.md)
 15. Confirm you want to connect to GitHub
 16. Search for the repository name and click the connect button
 17. Scroll to the bottom of the deploy page and select the preferred deployment type
-18. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github
+18. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github<br>
 
 ## Final Deployment
 
@@ -732,7 +732,7 @@ Testing results [here](TESTING.md)
 4. In this project the summernote editor was used so for this to work in Heroku add: X_FRAME_OPTIONS = 'SAMEORIGIN' to
    settings.py.
 5. In Heroku settings config vars delete the record for DISABLE_COLLECTSTATIC
-6. In Heroku settings config vars set the record for USE_AWS to True
+6. In Heroku settings config vars set the record for USE_AWS to True<br>
   
 
 ## Forking This Project
@@ -741,7 +741,7 @@ Testing results [here](TESTING.md)
 
 1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_5)
 2. Find the 'Fork' button at the top right of the page
-3. Once you click the button the fork will be in your repository
+3. Once you click the button the fork will be in your repository<br>
 
 ## Cloning This Project
 
@@ -754,7 +754,7 @@ Testing results [here](TESTING.md)
 4. Open a new terminal
 5. Change the current working directory to the location that you want the cloned directory
 6. Type 'git clone' and paste the URL copied in step 3
-7. Press 'Enter' and the project is cloned
+7. Press 'Enter' and the project is cloned<br>
 
 ## Credits
 
@@ -763,7 +763,7 @@ Testing results [here](TESTING.md)
 - All the products content were taken from [Amazon](https://www.amazon.com/)
 - The images were taken from [Aliexpress](https://www.aliexpress.com/)
 - The 2 videos used as a background on the Landing Page were taken from [Pexels](https://www.pexels.com/)
-- The Watches & Clocks logos and favicon are my own designed and build
+- The Watches & Clocks logos and favicon are my own designed and build<br>
 
 ### Information Sources / Resources
 
@@ -776,3 +776,7 @@ Testing results [here](TESTING.md)
 
 - Special thanks to my mentor Sandeep Aggarwal, my colleagues at Code Institute, Kasia Bogucka, and Mairéad Gillic for
   their assistance throughout this project.
+
+
+
+
