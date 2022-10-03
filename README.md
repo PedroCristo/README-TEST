@@ -85,6 +85,7 @@ README Table Content
     - [Watches \& Clocks - Facebook Page](#watches--clocks---facebook-page)
     - [Meta Pixel - Tracking Audience](#meta-pixel---tracking-audience)
     - [Mailchimp Subscription Service](#mailchimp-subscription-service)
+  - [Privacy Policy](#privacy-policy)
   - [Search Engine Optimization](#search-engine-optimization)
     - [sitemap.xml](#sitemapxml)
     - [robots.txt](#robotstxt)
@@ -572,6 +573,12 @@ Mailchimp, allowing the website admin to send marketing emails through the platf
 is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
 ![ Mailchimp Subscription Service](./assets/readme/extras/watches_clocks_mailchimp_dashborad.jpg)
+
+## Privacy Policy 
+
+- In order to add a page with the Privacy Policy for Watches & Clocks, I used the service [Privacy Policy Generator](https://www.privacypolicygenerator.info/) to make sure that the website is following the European Privacy Policy Rules.
+
+- [Watches & Clocks - Privacy Policy Page](https://www.privacypolicygenerator.info/live.php?token=He4U9OHbOs5hfHSPBg0sqUnVRq04P12y)
 
 ## Search Engine Optimization
 
