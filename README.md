@@ -55,6 +55,7 @@ README Table Content
     - [Change Password Page](#change-password-page)
     - [Navbar](#navbar)
     - [Footer](#footer)
+    - [Page 404 - Page Not Found](#page-404---page-not-found)
   - [Messages and Interaction With Users](#messages-and-interaction-with-users)
     - [Sign up 1](#sign-up-1)
     - [Sign up 2](#sign-up-2)
@@ -370,6 +371,12 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 - On the website footer, users can see basic information about the Watches & Clocks such as contact, social media,
   copyright, and a form where they can subscribe to the newsletter.<br>
+
+### Page 404 - Page Not Found
+
+![Page 404 - Page Not Found](./assets/readme/features/watches_clocks_404_page.jpg)
+
+- If for any reason the page that the user is looking for does not exist or any typing URL error, the user will see this page.<br>
 
 ## Messages and Interaction With Users
 
