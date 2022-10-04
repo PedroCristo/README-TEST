@@ -19,10 +19,10 @@ Back to the [README](README.md)
 
 ![Profile Page](./assets/readme/wireframes/watches_clocks_wireframes_profile_page.jpg)
 
+![Customers Reviews Page](./assets/readme/wireframes/watches_clocks_wireframes_customers_reviews_page.jpg)
 
 
 
-![Search Box](./assets/readme/wireframes/search_box.png)
 
 ![Search Results Page](./assets/readme/wireframes/search_results_page.png)
 
