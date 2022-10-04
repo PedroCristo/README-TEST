@@ -15,11 +15,10 @@ Back to the [README](README.md)
 
 ![Checkout Success Page](./assets/readme/wireframes/watches_clocks_wireframes_checkout_success_page.jpg)
 
+![Product Management Page](./assets/readme/wireframes/watches_clocks_wireframes_product_management_page.jpg)
 
 
 
-
-![Categories Page](./assets/readme/wireframes/categories_page.png)
 
 ![Categories Results Page](./assets/readme/wireframes/categories_results_page.png)
 
