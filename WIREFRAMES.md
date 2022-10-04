@@ -23,12 +23,12 @@ Back to the [README](README.md)
 
 ![Add/Edit Reviews Page](./assets/readme/wireframes/watches_clocks_wireframes_add_edit_reviews_page.jpg)
 
+![signup Page](./assets/readme/wireframes/watches_clocks_wireframes_signUp_page.jpg)
+
+![Sigin Page](./assets/readme/wireframes/watches_clocks_wireframes_signIn_page.jpg)
+
+![Signout Page](./assets/readme/wireframes/watches_clocks_wireframes_signOut_page.jpg)
 
 
 
-![signup Page](./assets/readme/wireframes/signup_page.png)
-
-![Signout Page](./assets/readme/wireframes/signout_page.png)
-
-![Login Page](./assets/readme/wireframes/login_page.png)
 
