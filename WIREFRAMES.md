@@ -17,10 +17,10 @@ Back to the [README](README.md)
 
 ![Product Management Page](./assets/readme/wireframes/watches_clocks_wireframes_product_management_page.jpg)
 
+![Profile Page](./assets/readme/wireframes/watches_clocks_wireframes_profile_page.jpg)
 
 
 
-![Categories Results Page](./assets/readme/wireframes/categories_results_page.png)
 
 ![Search Box](./assets/readme/wireframes/search_box.png)
 
