@@ -11,6 +11,7 @@ Back to the [README](README.md)
 
 ![Shopping Bag Page](./assets/readme/wireframes/watches_clocks_wireframes_shopping_bag_page.jpg)
 
+![Checkout Page](./assets/readme/wireframes/watches_clocks_wireframes_checkout_page.jpg)
 
 
 
