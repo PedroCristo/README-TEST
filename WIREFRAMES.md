@@ -13,6 +13,8 @@ Back to the [README](README.md)
 
 ![Checkout Page](./assets/readme/wireframes/watches_clocks_wireframes_checkout_page.jpg)
 
+![Checkout Success Page](./assets/readme/wireframes/watches_clocks_wireframes_checkout_success_page.jpg)
+
 
 
 
