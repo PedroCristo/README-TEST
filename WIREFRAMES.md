@@ -21,7 +21,7 @@ Back to the [README](README.md)
 
 ![Customers Reviews Page](./assets/readme/wireframes/watches_clocks_wireframes_customers_reviews_page.jpg)
 
-![Add/Edit Reviews Page](./assets/readme/wireframes/../features/watches_clocks_add_edit_review_page.jpg)
+![Add/Edit Reviews Page](./assets/readme/wireframes/watches_clocks_wireframes_add_edit_reviews_page.jpg)
 
 
 
