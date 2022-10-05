@@ -1,12 +1,11 @@
 # Watches & Clocks - Introduction
 
 Project milestone 5 for Code Institute Full-stack development program: Django Framework.
-This project is a Full Stack E-commerce website built using the Django framework.
 Watches & Clocks is an E-commerce shop where users can find and buy watches and search for
-products by filtering different categories. They can also register themselves on the website
-and fill in and keep their personal information on the profile page. All the visitors are welcome
-to drop a service review and help the site admin to improve the service. The applicattion provides
-a nice look, easy, clear and concise site navigation.
+products by filtering different categories. They can also register by filling in their personal
+information on the website’s profile page. All the visitorsare welcome to drop a service review
+and help the site admin to improve the service. The application has agood appearance with an easy,
+clear and concise site navigation.
 
 [Live Project Here](https://watches-and-clocks-portfolio-5.herokuapp.com/)
 
@@ -44,7 +43,7 @@ README Table Content
     - [Products Checkout - Success](#products-checkout---success)
     - [Products Management](#products-management)
     - [Profile Page](#profile-page)
-      - [Services Reviews Page](#services-reviews-page)
+      - [Service Reviews Page](#service-reviews-page)
       - [Add/Edit Service Review Page](#addedit-service-review-page)
     - [Signup Page](#signup-page)
     - [Signup Page - Verify Email](#signup-page---verify-email)
@@ -115,29 +114,30 @@ README Table Content
 
 1. Navigate around the site and easily view the desired content.
 2. View a list of products and choose accordingly.
-3. Search products to find specific poducts.
-4. Click on a product to read the see the details.
+3. Search products to find a specific product.
+4. Click on a product to read and view the details.
 5. Register for an account to avail of the services offered to members.
-6. View comments on recipes so that I can read other users opinions.
-7. Buy a product by using the website checkout
+6. View product comments so that I can read other users opinions.
+7. Buy a product by using the website checkout system.
 
-- As logged in website user, I can:
+- As a logged in website user, I can:
 
 1. Review the website service.
 2. Delete my previous reviews.
-3. Edite my previous reviews.
-4. Manage my profile by updating my details.
-5. Logout from the website.
-6. Buy a product by using the website checkout and using my saved data on my profile.
+3. Save my data under my personal profile.
+4. Edit my previous reviews.
+5. Manage my profile by updating my details.
+6. Logout of the website.
+7. Using my personal profile, buy a product by using the website checkout system.
 
-- As a website superuser, I can:
+- As a website Superuser, I can:
 
 1. Create and publish a new product.
-2. Create draft a new product so that come back and finished them later.
-3. Create a new user, product, and categories.
+2. Create a draft of a a new product so it can be finalised later.
+3. Create a new user, products, and categories.
 4. Delete user, products, categories and reviews.
 5. Approve user's reviews.
-6. Change the website permissions for a user.
+6. Change a user’s permissions on the website
 7. Upload new banners to be displayed on the website.
 
 ### Agile Methodology
@@ -149,11 +149,11 @@ All functionality and development of this project were managed using GitHub whic
 
 #### Main Site Goals
 
-- To provide users with a good experience when using the website with watches and clocks on display.
-- To provide users with a visually pleasing website that is intuitive to use and easy to navigate.
+- To provide users with a good website experience with watches and clocks on display.
+- To provide users with a visually pleasing website that is intuitive and easy to navigate.
 - To provide a website with a clear purpose.
 - To provide tools that allow users to search for products.
-- To provide users with a easy and safe way to buy their products.
+- To provide users with an easy and safe way to buy their products.
 
 ## Design
 
@@ -162,30 +162,30 @@ All functionality and development of this project were managed using GitHub whic
 ![Colours Palete](./assets/readme/extras/watches_clocks_color_palete.png)<br>
 
 - The colour scheme is kept simple by opting for a combination of white text set against the image
-  background and black text against the white background. The navbar was set on a white background
+  background and black text set against the white background. The navbar was set on a white background
   and a light grey on the bottom. The interactive colour is used for icons and the website logo.
-  Yellow and red are used for the buttons to buy and see product details. The dark grey for to website
-  footer contrasts with the rest of the website.
+  Yellow is used for the "Buy Now" buttons and red is used to the "Discover More" buttons. The Dark grey was used for the
+  website footer. This contrasts with the rest of the website.
 
 #### Typography
 
-- The Montserrat font is used as the main font for the whole project and the Kaushan font is used to
+- The Montserrat font is used as the main font for the whole project. The Kaushan font is used to
   display the website logo.
 
 #### Imagery
 
-- All the images, were converted to webp format to improve the website performance. The product images and
-  banners are uploaded through the admin panel. The image banners are available in two different sizes to
-  be displayed on desktop and mobile.
+- All the images were converted to webp format to improve the website performance. The product images and banners are
+  uploaded by the admin panel. The image banners are available in two different sizes. The different sizes allow for the
+  banners to be displayed on both desktop and mobile platforms.
 
 #### Video
 
-- They are 2 videos playing as a background on the landing page, one is displaying on the desktop another one is on mobile.
-  They were both compressed to improve the website's performance.
+- On the landing page, 2 videos playing as a background. One video is displayed on the desktop platform whilst
+  the second video plays on the mobile platform. The two videos were both compressed to improve the website's performance.
 
 ### Wireframes
 
-Wireframes for this project can be located [here](WIREFRAMES.md)
+Wireframes for this project are located [here](WIREFRAMES.md)
 
 ## Database Diagram
 
@@ -197,82 +197,84 @@ Wireframes for this project can be located [here](WIREFRAMES.md)
 
 ![Landing page](./assets/readme/features/watches_clocks_landing_page.jpg)
 
-- This Landing page works as the website cover, users will see a background video playing in a loop, a slogan
-  text about the collection available, two social media buttons and a button to go to the website's Home Page.<br>
+- The Landing page works as the website cover. Users will see a background video playing in a loop, a slogan text about
+  the available collection, and two social media buttons. There is also a button to go to the website's Home Page.<br>
 
 ### Home Page - Images Carousel
 
 ![Home Page - Images Carousel](./assets/readme/features/watches_clocks_home_page_carousel.jpg)
 
-- The home page is equipped with a 3 images carousel on the top, users will see 3 banners advertising
-  products and services provided by Watches & Clocks shop.<br>
+- The home page is equipped with a 3 images carousel on the
+  top. Users will see 3 Watches & Clocks shop banners advertising products and services.<br>
 
 ### Home Page - Selected Products
 
 ![Home Page - Selected Products](./assets/readme/features/watches_clocks_home_page_selected_products.jpg)
 
-- In this feature, users will see a selection of products selected by the website admin it can be used to highlight special
-  or popular products. The website admin can choose the products to be displayed on this feature by selecting a product in
-  the admin panel or from the website front-end and clicking on the featured box.<br>
+- In this feature, users will see a variety of products selected by the website admin. It can be used to highlight special
+  or popular products. The website admin can choose the displayed products by selecting a product in
+  the admin panel or from the website front-end by clicking on the featured box.<br>
 
 ### Home Page - Image Banner
 
 ![Home Page - Image Banner](./assets/readme/features/watches_clocks_home_page_banner.jpg)
 
 - This banner feature is used to advertise new or popular products on the website. The website admin can upload many
-  of them through the admin panel and choose the one to be displayed by clicking on the banner featured box. It allows
+  of images through the admin panel and choose the one to be displayed by clicking on the banner featured box. It allows
   the admin to change the banner easily depending on what will be better to be displayed at a certain moment.<br>
 
 ### Home Page - Customers Reviews Carousel
 
 ![Home Page - Customers Reviews Carousel](./assets/readme/features/watches_clocks_home_page_reviews.jpg)
 
-- In this feature, users can see a list of reviews written by other users about the website service. 
-The website admin can choose the reviews to be displayed on this carousel by clicking the 
-Carousel Review box in the admin panel.<br>
+- In this feature, users can see a list of website service reviews written by other users.
+  The website admin can choose which reviews are displayed on this carousel by clicking the
+  Carousel Review box in the admin panel.<br>
 
 ### Products Page
 
 ![Products Page](./assets/readme/features/watches_clocks_products_page.jpg)
 
-- On this page, users will see all the products available on the website such as some product details and if they are interested
-in the watch they can press the button Buy Now. They can also sort products by price, name, rating and category. 
-From this page, the site admin logged in can edit or delete products.<br>
+- On this page, users will see all the products available on thewebsite such as product details. For example,
+  if the user is interested in the watch they can press the button "Buy Now". They can also sort products by price,
+  name, rating and category. Furthermore, when the site admin is logged in, it can edit or delete products.<br>
 
-### Products Details 
+### Products Details
 
 ![Product Details ](./assets/readme/features/watches_clocks_products_details.jpg)
 
-- This feature is at the top of the Product Details Page. Where users can see the product image and see information about the product 
-such as price, category, gender category and rating. If they are interested in the watch they can choose the product size, and quantityand 
-add the product to the shopping bag. Also, they can just leave the page by pressing the button Keep Shopping.
+- This feature is at the top of the Product Details Page. Here users can see the product image and product
+  information such as price, category, gendercategory and rating. If the user is interested in the watch they can 
+  choose the product size, product quantity and add the product to their shopping bag. Also, the user can leave the 
+  page by pressing the button "Keep Shopping".
 
 ### Products Details - Features
 
 ![Product Details - Features](./assets/readme/features/watches_clocks_products_details_features.jpg)
 
-- SScrolling down, the user will have access to the full product details such as watch features and watch details.<br>
+- Scrolling down, the user will have access to the full product details such as watch features and watch details.<br>
 
 ### Products Details - Products on Sale
 
 ![Product Details - Products on Sale](./assets/readme/features/watches_clocks_products_on_sale.jpg)
 
-- In this features users, can see a selection of products on sales chosen by the website admin by adding an old price and 
-changing the product status to sales on the admin panel or from the website front-end.<br>
+- In this feature users, can see a selection of products on sale. The sale items are chosen by the website admin by adding an old price and
+changing the product status to sale. This is completed through the admin panel or from the website front-end.<br>
 
 ### Products Shopping Bag
 
 ![Products Shopping Bag](./assets/readme/features/watches_clocks_bag_page.jpg)
 
-- This feature is the Shopping bag where users can add products, change the quantity or remove products, check total price and delivery
-costs and go to the secure checkout to finish the order. They can also leave this page by pressing the button Kepp Shopping.<br>
+- TThis feature is called the Shopping bag. Here, users can add products and quantities. Check the total price, and delivery costs and go 
+to the secure checkout to finish the order. Before secure checkout. the user can also change the quantity and remove unwanted products. The
+user can also leave this page by pressing the button "Keep Shopping".<br>
 
 ### Products Shopping Bag - Products Coming Soon
 
 ![Products Shopping Bag - Products Coming Soon](./assets/readme/features/watches_clocks_products_coming_soon.jpg)
 
-- Scrolling down users can see a carousel displaying a selection of products that will be available for purchase on the website soon. 
-The website admin can add products to this list by clicking the Coming Soon box in the admin panel or from the website front-end.<br>
+- Scrolling down users can see a carousel displaying a selection of Coming Soon products that will be available for future
+purchase. The website admin can add products to this list by clicking the Coming Soon box in the admin panel or from the website front-end.<br>
 
 ### Products Checkout
 
@@ -284,69 +286,69 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Products Checkout - Success](./assets/readme/features/watches_clocks_checkout_success_page.jpg)
 
-- After a successful purchase, the user will be redirected to this page to check the confirmation of the order details.<br>
+- On the checkout page, users will have to fill out the form and add their credit/debit card details to finish the purchase.<br>
 
 ### Products Management
 
 ![Products Management](./assets/readme/features/watches_clocks_products_management.jpg)
 
-- On this page the website admin logged in can add a new product to the website without the need to go to the admin panel.<br>
-  
+- When the website admin is logged in on this page, they can add a new product to the website without going to the admin panel.<br>
+
 ### Profile Page
 
 ![Profile Page](./assets/readme/features/watches_clocks_profile_page.jpg)
 
-- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.<br>
-  
-#### Services Reviews Page
+- On this page a logged in user (with a valid registration account) can add or edit their own personal details and also check previous orders.<br>
+
+#### Service Reviews Page
 
 ![Services Reviews Page](./assets/readme/features/watches_clocks_service_review_page.jpg)
 
-- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.<br>
-  
+- On this feature, users can see website service reviews written by other users or their own reviews if they have submitted a review before.<br>
+
 #### Add/Edit Service Review Page
 
 ![Add/Edit Service Review Page](./assets/readme/features/watches_clocks_add_edit_review_page.jpg)
 
-- On this page a user with a valid registration account and logged in can add or edit their own personal details and also check previous orders.<br>
+- On this page a user with a valid registration account and logged in can add or edit their own personal service reviews.<br>
 
 ### Signup Page
 
 ![Signup Page](./assets/readme/features/watches_clocks_sign_up_page.jpg)
 
-- On the Signup Page, a new user can sign up for the Watches & Closck website by filling out and then submitting the form.<br>
-  
+- After submitting the Signup form, the user will be redirected to this page, advising them to check the link sent to their email box.<br>
+
 ### Signup Page - Verify Email
 
 ![Signup Page - Verify Email](./assets/readme/features/watches_clocks_verify_email_page.jpg)
 
-- The user will be redirected to this page, after submitting the Signup form, telling them to check the link sent to the email box.<br>
-  
+- TAfter submitting the Signup form, the user will be redirected to this page, advising them to check the link sent to their email box.<br>
+
 ### Signup Page - Confirm Email
 
 ![Signup Page - Confirm Email](./assets/readme/features/watches_clocks_confirm_email_page.jpg)
 
-- When the user will click on the link sent to the email box it will redirect the user to this page saying that the email is confirmed.<br>
+- Once the user clicks on the link sent to their email box, it will redirect the user to this page which confirms their email.<br>
 
 ### Login Page
 
 ![Login Page](./assets/readme/features/watches_clocks_login_page.jpg)
 
-- On the Login Page, users can log in to the website by inputting the username and password and have access
-  to website services for a user registered.<br>
+- On the Login Page, users can log in to the website by inputting their username and password. The user is now
+registered and will have access to the Registered User website services.<br>
 
 ### Logout Page
 
 ![Logout Page](./assets/readme/features/watches_clocks_logout_page.jpg)
 
 - On the Logout Page, users can confirm that they wish to exit the website.<br>
-  
+
 ### Reset Password Page
 
 ![Reset Password Page](./assets/readme/features/watches_clocks_pass_reset_page.jpg)
 
-- Users can use this page to reset their login password by adding the email address in the input and clicking on the button Reset Password.<br>
-  
+- Users can use this page to reset their login password. The user adds their email address in the input field and clicks on the button "Reset Password".<br>
+
 ### Change Password Page
 
 ![Change Password Page](./assets/readme/features/watches_clocks_pass_change_page.jpg)
@@ -358,12 +360,13 @@ The website admin can add products to this list by clicking the Coming Soon box 
 ![Navbar](./assets/readme/features/watches_clocks_responsive_navbar.jpg)
 
 - The navigation bar is present at the top of every page and houses all links to the various other pages.
-- The links at the bottom of the navbar are dropdown menus. They are used to filter products such as all products, types of watches, gender and special offers. 
+- The links at the bottom of the navbar are dropdown menus. They are used to filter products such as all products, types of watches, gender and special offers.
 - Is available also a link to go to the Home Page and another one for more options.
 - The options to Register or Log in will change to the option to log out once a user has logged in.
 - Once a user has signed in, more options such as profile or add review will be available in the navbar.
 - A search box is nested in also in the navbar.
-- The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.<br>
+- The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.
+- A link is also available to go to the Home Page and another link is available for More Options.<br>
 
 ### Footer
 
@@ -425,8 +428,8 @@ The website admin can add products to this list by clicking the Coming Soon box 
 
 ![Service Review - Update Review 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_button.jpg)
 
-- When users are logged in to the website and they have previously posted a review they will see the Edit
-button at the bottom of their reviews <br>
+- When users are logged in to the website and they have previously posted a review they will see the "Edit"
+  button at the bottom of their reviews <br>
 
 ### Service Review - Update Review 2
 
@@ -434,12 +437,12 @@ button at the bottom of their reviews <br>
 
 - After the review is updated the user will see the message at the top right of the screen saying "The review was successfully updated". <br>
 
-### Service Review - Delete Review 1 
+### Service Review - Delete Review 1
 
 ![Service Review - Delete Review 1](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_button.jpg)
 
-- When users are logged in to the website and they have previously posted a review they will see the Delete
-button at the bottom of their reviews.<br>
+- When users are logged in to the website and they have previously posted a review they will see the "Delete"
+  button at the bottom of their reviews.<br>
 
 ### Service Review - Delete Review 2
 
@@ -452,7 +455,7 @@ button at the bottom of their reviews.<br>
 
 ![DService Review - Delete Review 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message at the
+- After pressing the "Delete" button again inside the Bootstrap box model they will see a message at the
   top right of the page, "The review was deleted successfully".<br>
 
 ### Add Product
@@ -460,13 +463,13 @@ button at the bottom of their reviews.<br>
 ![Add Product](./assets/readme/features/interactive_messages/watches_clocks_messages_add_product.jpg)
 
 - The website admin logged in can add new products through the website's front-end. After it will be submitted successfully the following
-message pops up at the top right of the page "Successfully added product".<br>
+  message pops up at the top right of the page "Successfully added product".<br>
 
 ### Edit Product 1
 
 ![Edit Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product_button.jpg)
 
-- The website admin logged in can edit products already added through the website's front-end by clicking on the Edit button.<br>
+- The website admin logged in can edit products already added through the website's front-end by clicking on the "Edit" button.<br>
 
 ### Edit Product 2
 
@@ -478,27 +481,27 @@ message pops up at the top right of the page "Successfully added product".<br>
 
 ![Edit Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_update_product_success.jpg)
 
-- After the Update Product button is pressed and the product is edited successfully the website admin will see a message at the top right of the page 
-"Successfully updated product!".<br>
+- After the "Update Product" button is pressed and the product is edited successfully the website admin will see a message at the top right of the page
+  "Successfully updated product!".<br>
 
 ### Delete Product 1
 
 ![Delete Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_product_button.jpg)
 
-- The website admin logged in can delete products already added through the website's front-end by clicking on the Delete button.<br>
+- The website admin logged in can delete products already added through the website's front-end by clicking on the "Delete" button.<br>
 
 ### Delete Product 2
 
 ![Delete Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete_product.jpg)
 
-- After pressing the Delete button the Bootstrap box model will pop up with a message at the
+- After pressing the "Delete" button the Bootstrap box model will pop up with a message at the
   center of the page, "Are you sure you want to delete this product?".<br>
 
 ### Delete Product 3
 
 ![Delete Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_product_delete_success.jpg)
 
-- After pressing the Delete button again inside the Bootstrap box model they will see a message at the
+- After pressing the "Delete" button again inside the Bootstrap box model they will see a message at the
   top right of the page, "Product deleted".<br>
 
 ### Add Product to Bag
@@ -523,8 +526,8 @@ message pops up at the top right of the page "Successfully added product".<br>
 
 ![Purchase Success](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_success.jpg)
 
-- When users fill out the check-out form and finish the purchase successfully they will see a success message 
-with the order details at the top right of the screen.<br>
+- When users fill out the check-out form and finish the purchase successfully they will see a success message
+  with the order details at the top right of the screen.<br>
 
 ### Purchase Success - Confirmation Email
 
@@ -549,22 +552,22 @@ with the order details at the top right of the screen.<br>
 
 ## Marketing and Social Media
 
-- Market research was performed to decide on the marketing strategy needed to promote the Watches & Clocks brand. For social media marketing, 
-Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are 
-aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
+- Market research was performed to decide on the marketing strategy needed to promote the Watches & Clocks brand. For social media marketing,
+  Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are
+  aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
 
 ### Statista - Facebook Users
 
 ![Statista - Facebook Users](./assets/readme/extras/watches_clocks_statista_facebook.jpg)
 
 - Distribution of Facebook users worldwide as of 2022 according to [Statista](https://www.statista.com/)<br>
-  
+
 ### Watches & Clocks - Facebook Page
 
 ![Watches & Clocks - Facebook Page 1](./assets/readme/extras/watches_clocks_facebook_1.jpg)
 ![Watches & Clocks - Facebook Page 2](./assets/readme/extras/watches_clocks_facebook_2.jpg)
 
- - [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/)<br>
+- [Watches & Clocks Facebook Page](https://www.facebook.com/people/Watches-Clocks/100086385370740/)<br>
 
 ### Meta Pixel - Tracking Audience
 
@@ -574,14 +577,14 @@ aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of u
 
 ### Mailchimp Subscription Service
 
-- Users are encouraged to signup for newsletters, discounts and information about the products sold at Watches & Clocks. 
-The form for signup is available on the website footer and is present on any page. The email subscription service is run through 
-Mailchimp, allowing the website admin to send marketing emails through the platform, increasing engagement within the site. Below 
-is a screenshot of the Watches & Clocks - Mailchimp dashboard.
+- Users are encouraged to signup for newsletters, discounts and information about the products sold at Watches & Clocks.
+  The form for signup is available on the website footer and is present on any page. The email subscription service is run through
+  Mailchimp, allowing the website admin to send marketing emails through the platform, increasing engagement within the site. Below
+  is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
 ![ Mailchimp Subscription Service](./assets/readme/extras/watches_clocks_mailchimp_dashborad.jpg)<br>
 
-## Privacy Policy 
+## Privacy Policy
 
 - In order to add a page with the Privacy Policy for Watches & Clocks, I used the service [Privacy Policy Generator](https://www.privacypolicygenerator.info/) to make sure that the website is following the European Privacy Policy Rules.
 
@@ -597,8 +600,8 @@ is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
 ### sitemap.xml
 
-- A sitemap file with a list of important URLs was added to ensure that search engines are able to easily navigate through the site 
-and understand its structure. This was made using XML-sitemaps.com by following the steps:
+- A sitemap file with a list of important URLs was added to ensure that search engines are able to easily navigate through the site
+  and understand its structure. This was made using XML-sitemaps.com by following the steps:
 
 1. Paste the URL of the deployed site into XML-sitemaps
 2. Download the XML sitemap file once ready
@@ -606,13 +609,13 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 
 ### robots.txt
 
-- A robots.txt file was created to tell search engines where not to go on the website and increase the quality of the site, ultimately improving the SEO rating. 
+- A robots.txt file was created to tell search engines where not to go on the website and increase the quality of the site, ultimately improving the SEO rating.
 
 ![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_robots_txt.jpg)<br>
 
 ### Sitemap Google Registration
 
-- To ensure that the Google engine will check the website sitemap file I have registered the Watches & Clocks URL on the Google Search Console. 
+- To ensure that the Google engine will check the website sitemap file I have registered the Watches & Clocks URL on the Google Search Console.
 
 ![Watches & Clocks - Robots.txt](./assets/readme/extras/watches_clocks_sitemap_google_verification.jpg)<br>
 
@@ -679,7 +682,7 @@ and understand its structure. This was made using XML-sitemaps.com by following 
 - To convert the images to webp format
 - [CANVA](https://www.canva.com/)
 - To build the logos for the project
-- [AWS](https://aws.amazon.com/) 
+- [AWS](https://aws.amazon.com/)
 - was used to host the static files and media<br>
 
 ### Testing
@@ -720,16 +723,16 @@ Testing results [here](TESTING.md)
 11. Click Reveal Config Vars and add a new record with the EMAIL_HOST_USER
 12. Click Reveal Config Vars and add a new record with the STRIPE_PUBLIC_KEY
 13. Click Reveal Config Vars and add a new record with the STRIPE_SECRET_KEY
-13. Click Reveal Config Vars and add a new record with the STRIPE_WH_SECRET
-10. Click Reveal Config Vars and add a new record with the DISABLE_COLLECTSTATIC = 1
-11. The next page is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
-12. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
-13. Scroll to the top of the page and choose the Deploy tab
-14. Select Github as the deployment method
-15. Confirm you want to connect to GitHub
-16. Search for the repository name and click the connect button
-17. Scroll to the bottom of the deploy page and select the preferred deployment type
-18. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github<br>
+14. Click Reveal Config Vars and add a new record with the STRIPE_WH_SECRET
+15. Click Reveal Config Vars and add a new record with the DISABLE_COLLECTSTATIC = 1
+16. The next page is the project’s Deploy Tab. Click on the Settings Tab and scroll down to Config Vars
+17. Next, scroll down to the Buildpack section click Add Buildpack select python and click Save Changes
+18. Scroll to the top of the page and choose the Deploy tab
+19. Select Github as the deployment method
+20. Confirm you want to connect to GitHub
+21. Search for the repository name and click the connect button
+22. Scroll to the bottom of the deploy page and select the preferred deployment type
+23. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github<br>
 
 ## Final Deployment
 
@@ -740,14 +743,13 @@ Testing results [here](TESTING.md)
    settings.py.
 5. In Heroku settings config vars delete the record for DISABLE_COLLECTSTATIC
 6. In Heroku settings config vars set the record for USE_AWS to True<br>
-  
 
 ## Forking This Project
 
 - Fork this project by following the steps:
 
 1. Open [GitHub](https://github.com/PedroCristo/portfolio_project_5)
-2. Find the 'Fork' button at the top right of the page
+2. Find the "Fork" button at the top right of the page
 3. Once you click the button the fork will be in your repository<br>
 
 ## Cloning This Project
@@ -760,8 +762,8 @@ Testing results [here](TESTING.md)
 3. Once you click the button the fork will be in your repository
 4. Open a new terminal
 5. Change the current working directory to the location that you want the cloned directory
-6. Type 'git clone' and paste the URL copied in step 3
-7. Press 'Enter' and the project is cloned<br>
+6. Type "git clone" and paste the URL copied in step 3
+7. Press "Enter" and the project is cloned<br>
 
 ## Credits
 
@@ -783,7 +785,3 @@ Testing results [here](TESTING.md)
 
 - Special thanks to my mentor Sandeep Aggarwal, my colleagues at Code Institute, Kasia Bogucka, and Mairéad Gillic for
   their assistance throughout this project.
-
-
-
-
