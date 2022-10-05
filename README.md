@@ -11,6 +11,7 @@ clear and concise site navigation.
 
 <p align="center"><img src="./assets/readme/features/watches_clocks_responsiveness.jpg"
         alt="Watches & Clocks webpage on multiple devices"></p>
+        
 
 README Table Content
 
