@@ -1,6 +1,6 @@
 # Watches & Clocks - Introduction
 
-Project milestone 5 for Code Institute Full-stack development program: Django Framework.
+Project milestone 5 for Code Institute Full-stack development program: Django Framework.<br>
 Watches & Clocks is an E-commerce shop where users can find and buy watches and search for
 products by filtering different categories. They can also register by filling in their personal
 information on the website’s profile page. All the visitorsare welcome to drop a service review
