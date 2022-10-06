@@ -219,9 +219,9 @@ Wireframes for this project are located [here](WIREFRAMES.md)
 
 ![Home Page - Image Banner](./assets/readme/features/watches_clocks_home_page_banner.jpg)
 
-- This banner feature is used to advertise new or popular products on the website. The website admin can upload many
-  of images through the admin panel and choose the one to be displayed by clicking on the banner featured box. It allows
-  the admin to change the banner easily depending on what will be better to be displayed at a certain moment.<br>
+- This banner feature is used to advertise new or popular products on the website. The website admin can upload many images through 
+the admin panel and choose the one to be displayed by clicking on the banner featured box. It allows
+the website admin to change the banner easily depending on what will be better to be displayed at a certain moment.<br>
 
 ### Home Page - Customers Reviews Carousel
 
@@ -513,7 +513,7 @@ deleted" at the top right of the page.<br>
 
 ![Update Bag](./assets/readme/features/interactive_messages/watches_clocks_messages_update_bag.jpg)
 
-- When users update the bag they will see a success message at the top right of the screen..<br>
+- When users update the bag they will see a success message at the top right of the screen.<br>
 
 ### Remove Product from Bag
 
