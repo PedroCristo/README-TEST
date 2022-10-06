@@ -55,7 +55,7 @@ README Table Content
     - [Navbar](#navbar)
     - [Footer](#footer)
     - [Page 404 - Page Not Found](#page-404---page-not-found)
-  - [Messages and Interaction With Users](#messages-and-interaction-with-users)
+  - [Messages and Interaction with Users](#messages-and-interaction-with-users)
     - [Sign up 1](#sign-up-1)
     - [Sign up 2](#sign-up-2)
     - [Login](#login)
@@ -362,26 +362,26 @@ registered and will have access to the Registered User website services.<br>
 - The navigation bar is present at the top of every page and houses all links to the various other pages.
 - The links at the bottom of the navbar are dropdown menus. They are used to filter products such as all products, types of watches, gender and special offers.
 - Is available also a link to go to the Home Page and another one for more options.
-- The options to Register or Log in will change to the option to log out once a user has logged in.
-- Once a user has signed in, more options such as profile or add review will be available in the navbar.
-- A search box is nested in also in the navbar.
-- The navbar is fully responsive, collapsing into a hamburger menu when the screen size becomes smaller.
-- A link is also available to go to the Home Page and another link is available for More Options.<br>
-
+- A link is also available to go to the Home Page and another link is available for More Options.
+- When a user has logged in, their option to Register or Log in will change to the log out option.
+- When a user has signed in, more options such as profile or add review will be available in the navbar.
+- Also, a search box is nested in the navbar.
+- The navbar is fully responsive. It collapses into a hamburger menu when the screen size decreases.<br>
+  
 ### Footer
 
 ![Footer](./assets/readme/features/watches_clocks_footer.jpg)
 
-- On the website footer, users can see basic information about the Watches & Clocks such as contact, social media,
+- On the website footer, users can see basic information about the Watches & Clocks. The information includes contact, social media,
   copyright, and a form where they can subscribe to the newsletter.<br>
 
 ### Page 404 - Page Not Found
 
 ![Page 404 - Page Not Found](./assets/readme/features/watches_clocks_404_page.jpg)
 
-- If for any reason the page that the user is looking for does not exist or any typing URL error, the user will see this page.<br>
+- The user will see this feature when the page that the user is looking for, does not exist or for any typing URL error.<br>
 
-## Messages and Interaction With Users
+## Messages and Interaction with Users
 
 - Some interactive messages were added to the project to make the navigation on the website easier and to improve the
   user's experience.
@@ -390,119 +390,118 @@ registered and will have access to the Registered User website services.<br>
 
 ![Sign up 1](./assets/readme/features/interactive_messages/watches_clocks_messages_registration_alert.jpg)
 
-- When users sign up to the website they will see a message at the top right of the page saying "Confirmation e-mail sent to (email used to sign up)".<br>
+- When users sign up to the website they will see a message at the top right of the page saying "Confirmation sent to the sign up email address"<br>
 
 ### Sign up 2
 
 ![Sign up 2](./assets/readme/features/interactive_messages/watches_clocks_messages_registration_success.jpg)
 
-- User have to confirm the email used for signing up and will see at the top right of the page the following message "You have confirmed (email used to sign up)".<br>
+- The user confirms their sign up email address. Once confirmed, the user will see the following message "You have
+confirmed (email used to sign up) at the top right of the page Login.<br>
 
 ### Login
 
 ![Login](./assets/readme/features/interactive_messages/watches_clocks_messages_login.jpg)
 
-- When users sign in to the website they will see a message at the top right of the page saying "Successfully signed in as
-  (username)".<br>
+- WWhen users sign in to the website they will see a message "Successfully signed in as (username)" at the top right of the page.<br>
 
 ### Logout
 
 ![Logout](./assets/readme/features/interactive_messages/watches_clocks_messages_logout.jpg)
 
-- When users log out of the website they will see a message at the top right of the page saying "You have signed out".<br>
+- When users log out of the website they will see the message "You have signed out" at the top right of the page.<br>
 
 ### Profile Update
 
 ![Profile Update](./assets/readme/features/interactive_messages/watches_clocks_messages_profile_update.jpg)
 
-- When users update their profile they will see a message at the top right of the page saying that their account has been updated.<br>
+- When users update their profile they will see a message that their account has been updated at the top right of the page.<br>
 
 ### Service Review - Add Review
 
 ![Service Review - Add Review](./assets/readme/features/interactive_messages/watches_clocks_messages_review_sent.jpg)
 
-- When users are logged in to the website they can add a service review and after they submit the review they will see a
-  message at the top right of the page saying "Your review was sent successfully and is awaiting approval".<br>
+- WWhen users are logged in to the website they can add a service review. When they submit the review they
+will see a message "Your review was sent successfully and is awaiting approval" at the top right of the page.<br>
 
 ### Service Review - Update Review 1
 
 ![Service Review - Update Review 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_button.jpg)
 
-- When users are logged in to the website and they have previously posted a review they will see the "Edit"
+- When users are logged in to the website and have previously posted a review they will see the "Edit"
   button at the bottom of their reviews <br>
 
 ### Service Review - Update Review 2
 
 ![Service Review - Update Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_review_updated.jpg)
 
-- After the review is updated the user will see the message at the top right of the screen saying "The review was successfully updated". <br>
+- After the review is updated the user will see the message "The review was successfully updated" at the top right of the screen.<br>
 
 ### Service Review - Delete Review 1
 
 ![Service Review - Delete Review 1](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_button.jpg)
 
-- When users are logged in to the website and they have previously posted a review they will see the "Delete"
+- When users are logged in to the website and have previously posted a review they will see the "Delete"
   button at the bottom of their reviews.<br>
 
 ### Service Review - Delete Review 2
 
 ![Service Review - Delete Review 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete.jpg)
 
-- If they wish to delete their review, they can press the button Delete and a Bootstrap box model will pop up with the message
-  "Are you sure you want to delete your review?".<br>
+- If the user wishes to delete their review, they can press the "Delete" button and a Bootstrap box model will pop up with the message "Are you sure you want to delete your review?".<br>
 
 ### Service Review - Delete Review 3
 
-![DService Review - Delete Review 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
+![Service Review - Delete Review 3](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_success.jpg)
 
-- After pressing the "Delete" button again inside the Bootstrap box model they will see a message at the
-  top right of the page, "The review was deleted successfully".<br>
+- When the user presses the "Delete" button again within the Bootstrap box model they will see the message "The review was deleted successfully"
+at the top right of the page.<br>
 
 ### Add Product
 
 ![Add Product](./assets/readme/features/interactive_messages/watches_clocks_messages_add_product.jpg)
 
-- The website admin logged in can add new products through the website's front-end. After it will be submitted successfully the following
-  message pops up at the top right of the page "Successfully added product".<br>
+- When the website admin is logged in, they can add new products through the website front-end. When submitted successfully 
+the following message "Successfully added product" pops up at the top right of the page.<br>
 
 ### Edit Product 1
 
 ![Edit Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_edit_product_button.jpg)
 
-- The website admin logged in can edit products already added through the website's front-end by clicking on the "Edit" button.<br>
+- When the website admin is logged in, they can edit products already added through the website&#39;s front-end by clicking on the "Edit" button.<br>
 
 ### Edit Product 2
 
 ![Edit Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_alert_edit_product.jpg)
 
-- Once the button is clicked the website admin will see the following alert at the top right of the screen "You are editing (product name)".<br>
+- Once the button is clicked the website admin will see the following alert "You are editing (product name)" at the top right of the screen.<br>
 
 ### Edit Product 3
 
 ![Edit Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_update_product_success.jpg)
 
-- After the "Update Product" button is pressed and the product is edited successfully the website admin will see a message at the top right of the page
-  "Successfully updated product!".<br>
+- After the "Update Product" button is pressed and the product is edited successfully, the website admin will see the message
+"Successfully updated product!" at the top right of the page.<br>
 
 ### Delete Product 1
 
 ![Delete Product 1](./assets/readme/features/interactive_messages/watches_clocks_messages_delete_product_button.jpg)
 
-- The website admin logged in can delete products already added through the website's front-end by clicking on the "Delete" button.<br>
+- When the website admin is logged in, they can delete products already added through the website’s front-end by clicking the "Delete" button.<br>
 
 ### Delete Product 2
 
 ![Delete Product 2](./assets/readme/features/interactive_messages/watches_clocks_messages_bootstrap_model_delete_product.jpg)
 
-- After pressing the "Delete" button the Bootstrap box model will pop up with a message at the
-  center of the page, "Are you sure you want to delete this product?".<br>
+- After pressing the "Delete" button the Bootstrap box model will pop up with a message "Are you sure you want to delete this
+product?"at the in the centre of the page.<br>
 
 ### Delete Product 3
 
 ![Delete Product 3](./assets/readme/features/interactive_messages/watches_clocks_messages_product_delete_success.jpg)
 
-- After pressing the "Delete" button again inside the Bootstrap box model they will see a message at the
-  top right of the page, "Product deleted".<br>
+- When the user presses the "Delete" button again within the Bootstrap box model they will see the message "Product
+deleted" at the top right of the page.<br>
 
 ### Add Product to Bag
 
@@ -526,20 +525,20 @@ registered and will have access to the Registered User website services.<br>
 
 ![Purchase Success](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_success.jpg)
 
-- When users fill out the check-out form and finish the purchase successfully they will see a success message
+- When users fill out the check-out form and complete the purchase they will see a success message
   with the order details at the top right of the screen.<br>
 
 ### Purchase Success - Confirmation Email
 
 ![ Purchase Success - Confirmation Email](./assets/readme/features/interactive_messages/watches_clocks_messages_purchase_email_confirmation.jpg)
 
-- When users successfully purchase a product they are sent an automatic email containing all of their order confirmation details.<br>
+- When users successfully purchase a product they are sent an automatic confirmation email containing all of their order details.<br>
 
 ## Admin Panel / Superuser
 
 ![Admin Panel / Superuser](./assets/readme/extras/watches_clocks_admin_panel_products.jpg)
 
-- On the Admin Panel, as an admin/superuser I have full access to CRUD functionality so I can view, create, edit and
+- On the Admin Panel and as an admin/superuser I have full access to CRUD functionality. This means I can view, create, edit and
   delete the following apps:
 
 1. Banners
@@ -548,13 +547,14 @@ registered and will have access to the Registered User website services.<br>
 4. Profiles
 5. Reviews
 
-- As admin/superuser I can also approve reviews and change the status and give other permissions to the users.<br>
+- As admin/superuser I can also approve reviews, change the status and give other permissions.<br>
 
 ## Marketing and Social Media
 
-- Market research was performed to decide on the marketing strategy needed to promote the Watches & Clocks brand. For social media marketing,
-  Facebook is still the best option to promote brands to potential customers as it is one of the most used social media also 22% of users are
-  aged between 18 - 24 and 31% of users are aged between 25 - 34. This amount of users are the main target for Watches & Clocks potential customers.<br>
+- Market research was undertaken to decide on the appropriate marketing strategy to promote the Watches & Clocks brand. For social media marketing,
+Facebook is still the best option to promote brands to potential customers. It is one of the most used social media platforms with 22% of users
+aged between 18 - 24 and 31% of users aged between 25 - 34. This age category is the main target audience for Watches & Clocks. 
+This age range is viewed as the most likely to become potential customers.<br>
 
 ### Statista - Facebook Users
 
@@ -578,7 +578,7 @@ registered and will have access to the Registered User website services.<br>
 ### Mailchimp Subscription Service
 
 - Users are encouraged to signup for newsletters, discounts and information about the products sold at Watches & Clocks.
-  The form for signup is available on the website footer and is present on any page. The email subscription service is run through
+  The signup form is available on the website footer and is present on any page. The email subscription service is run through
   Mailchimp, allowing the website admin to send marketing emails through the platform, increasing engagement within the site. Below
   is a screenshot of the Watches & Clocks - Mailchimp dashboard.
 
@@ -586,7 +586,8 @@ registered and will have access to the Registered User website services.<br>
 
 ## Privacy Policy
 
-- In order to add a page with the Privacy Policy for Watches & Clocks, I used the service [Privacy Policy Generator](https://www.privacypolicygenerator.info/) to make sure that the website is following the European Privacy Policy Rules.
+- In order to add a page with the Watches & Clocks Privacy Policy I used the service [Privacy Policy Generator](https://www.privacypolicygenerator.info/) to ensure 
+that the website is compliant with the European Privacy Policy Rules.<br>
 
 ![Privacy Policy](./assets/readme/extras/watches_clocks_privacy_policy.jpg)
 
@@ -594,7 +595,11 @@ registered and will have access to the Registered User website services.<br>
 
 ## Search Engine Optimization
 
-- The site was optimized by careful selection of keywords about the "world" of watches and shops. The entire table consists of important relevant topics based on my initial understanding of the business using these topics of keywords was made orientated around common topics and themes within the business. Topics and keywords were then tried out on Google and the relevant suggestions it gave were added to the keyword list. The words crossed out in red were removed due to too having too much competition using Wordtracker. Words crossed out in yellow were removed due to the lack of relevance and not being specific to the site.
+- The site was optimized by careful selection of keywords relating to the "world" of watches and shops. The entire table has important 
+relevant topics relating to watches and shops. The chosen topics/words are based on my initial understanding of the business. Keywords were chosen 
+based on common topics and themes within the watch and clocks’ industry. Topics and keywords were then tested tried out on Google and the relevant
+returned search suggestions it gave were added to the keyword list. The words crossed out in red wereremoved. Wordtracker highlighted these key 
+words as too popular. Words crossed out in yellow were removed as they were not relevant or specific to the site.<br>
 
 ![SEO - Keywords List](./assets/readme/extras/watches_clocks_seo_keywords_list.jpg)<br>
 
@@ -604,7 +609,7 @@ registered and will have access to the Registered User website services.<br>
   and understand its structure. This was made using XML-sitemaps.com by following the steps:
 
 1. Paste the URL of the deployed site into XML-sitemaps
-2. Download the XML sitemap file once ready
+2. Download the XML sitemap file
 3. Add the file into the projects root folder, named as sitemap.xml<br>
 
 ### robots.txt
@@ -621,7 +626,8 @@ registered and will have access to the Registered User website services.<br>
 
 ## Stripe Payments
 
-- The Stripe payments system is set to handle the purchase on the website. Below is presented a screenshot of the Watches 6 Clocks - Stripe dashboard.
+- The Stripe payments system is set up as the online payment processing and credit card processing platform for the purchases. 
+Below is a screenshot of the Watches 6 Clocks - Stripe dashboard.
 
 ![ Stripe Payments](./assets/readme/extras/watches_clocks_stripe_dashboard.jpg)<br>
 
@@ -641,8 +647,8 @@ registered and will have access to the Registered User website services.<br>
 - [Dj_database_url](https://pypi.org/project/dj-database-url/) to parse the database URL from the environment variables in Heroku
 - [Psycopg2](https://pypi.org/project/psycopg2/) as an adaptor for Python and PostgreSQL databases
 - [Summernote](https://summernote.org/) as a text editor
-- [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration, account management
-- [Stripe](https://pypi.org/project/stripe/) for processing all purchases on the website
+- [Allauth](https://django-allauth.readthedocs.io/en/latest/installation.html) for authentication, registration and account management
+- [Stripe](https://pypi.org/project/stripe/) for processing all online and credit card purchases on the website
 - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) to style the forms
 - [Pillow](https://pypi.org/project/Pillow/) to process and save all the images downloaded through the database<br>
 
@@ -659,7 +665,7 @@ registered and will have access to the Registered User website services.<br>
 - [Heroku](https://id.heroku.com)
 - Heroku was used to deploy the live project
 - [PostgreSQL](https://www.postgresql.org/)
-- Database used through heroku.
+- Database used through Heroku.
 - [VSCode](https://code.visualstudio.com/)
 - VSCode was used to create and edit the website
 - [Lucidchart](https://lucid.app/)
@@ -671,7 +677,7 @@ registered and will have access to the Registered User website services.<br>
 - [W3C - CSS](https://jigsaw.w3.org/css-validator/)
 - W3C - CSS was used to validate the CSS code
 - [Fontawesome](https://fontawesome.com/)
-- To add icons to the website
+- Was used to add icons to the website
 - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 - To check App responsiveness and debugging
 - [Google Fonts](https://fonts.google.com/)
@@ -687,7 +693,7 @@ registered and will have access to the Registered User website services.<br>
 
 ### Testing
 
-Testing results [here](TESTING.md)
+Testing results are [here](TESTING.md)
 
 ## Creating the Django app
 
@@ -702,8 +708,7 @@ Testing results [here](TESTING.md)
 9. Create app: in the terminal window type python3 manage.py startapp your_app_name
 10. Add app to the list of installed apps in settings.py file: you_app_name
 11. Migrate changes: in the terminal window type python3 manage.py migrate
-12. Run the server to test if the app is installed, in the terminal window type python3 manage.py runserver
-13. If the app has been installed correctly the window will display The install worked successfully! Congratulations!<br>
+12. Run the server to test if the app is installed, in the terminal "The install worked successfully! Congratulations!"<br>
 
 ## Deployment of This Project
 
@@ -732,7 +737,7 @@ Testing results [here](TESTING.md)
 20. Confirm you want to connect to GitHub
 21. Search for the repository name and click the connect button
 22. Scroll to the bottom of the deploy page and select the preferred deployment type
-23. Click either Enable Automatic Deploys for automatic deployment when you push updates to Github<br>
+23. Click Enable Automatic Deploys for automatic deployment when you push updates to Github<br>
 
 ## Final Deployment
 
