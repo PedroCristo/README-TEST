@@ -8,23 +8,31 @@ Back to the [README](README.md)
 * Python testing was done using the PEP8 Online to ensure there were no syntax errors in the project. All python files
 were entered into the online checker and no errors were found in any of the custom codes.
 
-#### Tasty Blog - Blog
+#### Watches & Clocks - bag
 * [apps.py](./assets/readme/test/pep8/blog_pep8_apps.jpg)
 * [forms.py](./assets/readme/test/pep8/blog_pep8_forms.jpg)
 * [urls.py](./assets/readme/test/pep8/blog_pep8_urls.jpg)
 * [views.py](./assets/readme/test/pep8/blog_pep8_views.jpg)
 * [context_processors.py](./assets/readme/test/pep8/blog_pep8_context_processor.jpg)
 
-#### Tasty Blog - Posts
+#### Watches & Clocks - banners
 * [admin.py](./assets/readme/test/pep8/posts_pep8_admin.jpg)
 * [apps.py](./assets/readme/test/pep8/posts_pep8_apps.jpg)
 * [models.py](./assets/readme/test/pep8/posts_pep8_models.jpg)
 
-#### Tasty Blog - Users
+#### Watches & Clocks - checkout
 * [apps.py](./assets/readme/test/pep8/users_pep8_apps.jpg)
 * [signals.py](./assets/readme/test/pep8/users_pep8_signals.jpg)
 
-#### Tasty Blog - Tastyblog
+#### Watches & Clocks - home
+
+#### Watches & Clocks - products
+
+#### Watches & Clocks - profiles
+
+#### Watches & Clocks - reviews
+
+#### Watches & Clocks - watches_and_clocks
 * [asgi.py](./assets/readme/test/pep8/tastyblog_pep8_asgi.jpg)
 * [urls.py](./assets/readme/test/pep8/tastyblog_pep8_urls.jpg)
 * [wsgi.py](./assets/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
@@ -38,7 +46,7 @@ code and could not be changed to remove the errors.
 Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on Desktop.
 
 ##### Desktop Results:
-![Lighthouse Mobile Result](./assets/readme/test/tasty_blog_lighthouse_desktop_results.jpg).
+![Lighthouse Mobile Result](./assets/readme/test/watches_clocks_light_house_desktop_results.jpg).
 
 ###### Mobile Results:
 ![Lighthouse Desktop Result](./assets/readme/test/tasty_blog_lighthouse_mobile_results.jpg).
@@ -58,6 +66,10 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 
 ### jQuery Validation
 ![CSS Validation Result](./assets/readme/test/tasty_blog_jquery_validator_results.jpg).
+
+### Console Results
+![Console Results](./assets/readme/test/watches_clocks_console_results.jpg).
+
 
 
 ## Manual Testing
