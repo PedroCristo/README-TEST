@@ -52,7 +52,7 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 ![Lighthouse Desktop Result](./assets/readme/test/tasty_blog_lighthouse_mobile_results.jpg).
 
 ### HTML Validation
-![HTML Validation Result](./assets/readme/test/tasty_blog_html_validator_results.jpg).
+![HTML Validation Result](./assets/readme/test/watches_clocks_html_main_results.jpg).
 
 ### CSS Validation
 * Custom CSS was validated using W3C Jigsaw validation service. Fifty-three warnings were displayed, however, 
@@ -74,10 +74,7 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 ### Frontend
 * The Signup, Login and Logout system has no issues and is working accordingly. It shows the right 
   interactive message to the users.
-* The Profile Page is working properly. It updates the user information and uploads/updates the 
-  user profile image. It shows the interactive message to the user once the update is complete.
-* The user profile image in the navbar and Post Details page has no issues and shows the user image 
-  when it is uploaded by the user on the Profile Page.
+* The Profile Page is working properly. It updates the user information. It shows the interactive message to the user once the update is complete.
 * All the internal links are working and bring the user to the right page on the website.
 * All the external links are working and bring the user to the right social media page by 
   opening a new browser tab.
@@ -111,19 +108,3 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 The Test case for this project can be found [here](https://docs.google.com/spreadsheets/d/100bSOz3C9ra1K0PpAldBvg7NzoyHEMZZjpIWfiHnkQU/edit#gid=0)
   
 ## Bugs
-### Terminal Bug
-#### Comment Model 
-![Comment Model](./assets/readme/extras/comments_model_issue.jpg)
-#### Terminal Error
-![Comment Model - Terminal](./assets/readme/extras/terminal_comment_model_issue.jpg)
-
-* While I was developing the project I tried to add a comment profile Image to the comments model by adding a 
-  foreign key related to the profile model. When I was doing the migrations, the terminal required a default 
-  number for the new foreign key.  I added the number zero however this was not the correct default option. 
-  When I ran the migrations I got an error message on the terminal, saying that "(post_id)=(7) is not present in the table".
-
-### Fixed Bug
-
-* I spent a considerable amount of time trying to rectify this error. I sought advice from my slack community colleagues and researched 
-  an online solution. I then called the Code Institute Tutor Assistance. I was advised, by the tutor, to reset my database on Heroku and 
-  then run migrate on the terminal. I followed the advice and I fixed the issue by resetting my project database.
