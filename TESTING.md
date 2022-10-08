@@ -5,15 +5,17 @@ Back to the [README](README.md)
   When the outcome was not as expected, debugging took place at that point.  
 
 ### Python Validation - PEP8
-* Python testing was done using the PEP8 Online to ensure there were no syntax errors in the project. All python files
-were entered into the online checker and no errors were found in any of the custom codes.
+* Python testing was done using the Pycodestyle to ensure there were no syntax errors in the project. All python files
+were entered into the checker and no errors were found in any of the custom codes.
 
-#### Watches & Clocks - bag
-* [apps.py](./assets/readme/test/pep8/blog_pep8_apps.jpg)
-* [forms.py](./assets/readme/test/pep8/blog_pep8_forms.jpg)
-* [urls.py](./assets/readme/test/pep8/blog_pep8_urls.jpg)
-* [views.py](./assets/readme/test/pep8/blog_pep8_views.jpg)
-* [context_processors.py](./assets/readme/test/pep8/blog_pep8_context_processor.jpg)
+#### Checked Python Files
+
+#### App - Bag
+* apps.py
+* forms.py
+* urls.py
+* views.py
+* context_processors.py
 
 #### Watches & Clocks - banners
 * [admin.py](./assets/readme/test/pep8/posts_pep8_admin.jpg)
