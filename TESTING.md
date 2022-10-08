@@ -12,36 +12,72 @@ were entered into the checker and no errors were found in any of the custom code
 
 #### App - Bag
 * apps.py
-* forms.py
+* context.py
 * urls.py
 * views.py
+  
+#### Banners - Bag
+* admin.py
+* apps.py
 * context_processors.py
+* models.py
+* urls.py
+* views.py
+* 
+#### Checkout - Bag
+* admin.py
+* apps.py
+* forms.py
+* models.py
+* signals.py
+* urls.py
+* views.py
+* webhook_handler.py
+* webhooks.py
+* 
+#### Home - Bag
+* admin.py
+* apps.py
+* models.py
+* urls.py
+* views.py
 
-#### Watches & Clocks - banners
-* [admin.py](./assets/readme/test/pep8/posts_pep8_admin.jpg)
-* [apps.py](./assets/readme/test/pep8/posts_pep8_apps.jpg)
-* [models.py](./assets/readme/test/pep8/posts_pep8_models.jpg)
+#### Products - Bag
+* admin.py
+* apps.py
+* context_processors.py
+* forms.py
+* models.py
+* urls.py
+* views.py
+* widgets.py
+  
+#### Profiles - Bag
+* admin.py
+* apps.py
+* forms.py
+* models.py
+* urls.py
+* views.py
+  
+#### Reviews - Bag
+* admin.py
+* apps.py
+* context_processors.py
+* forms.py
+* models.py
+* urls.py
+* views.py
+* widgets.py
 
-#### Watches & Clocks - checkout
-* [apps.py](./assets/readme/test/pep8/users_pep8_apps.jpg)
-* [signals.py](./assets/readme/test/pep8/users_pep8_signals.jpg)
-
-#### Watches & Clocks - home
-
-#### Watches & Clocks - products
-
-#### Watches & Clocks - profiles
-
-#### Watches & Clocks - reviews
-
-#### Watches & Clocks - watches_and_clocks
-* [asgi.py](./assets/readme/test/pep8/tastyblog_pep8_asgi.jpg)
-* [urls.py](./assets/readme/test/pep8/tastyblog_pep8_urls.jpg)
-* [wsgi.py](./assets/readme/test/pep8/tastyblog_pep8_wsgi.jpg)
-* [settings.py](./assets/readme/test/pep8/tastyblog_pep8_settings.jpg)
+#### Project - watches_and_clocks
+* asgi.py
+* urls.py
+* wsgi.py
+* settings.py
 * A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation
 code and could not be changed to remove the errors.
-* [manage.py](./assets/readme/test/pep8/pep8_manage.jpg)
+* manage.py
 
 
 ### Lighthouse
