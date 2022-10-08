@@ -8,6 +8,8 @@ Back to the [README](README.md)
 * Python testing was done using the Pycodestyle to ensure there were no syntax errors in the project. All python files
 were entered into the checker and no errors were found in any of the custom codes.
 
+![Pycodestyle results](./assets/readme/test/watches_clocks_pycodestyle_results.jpg).
+
 #### Checked Python Files
 
 #### App - Bag
