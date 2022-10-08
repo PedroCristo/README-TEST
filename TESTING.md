@@ -75,7 +75,7 @@ were entered into the checker and no errors were found in any of the custom code
 * urls.py
 * wsgi.py
 * settings.py
-* A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation
+- A few errors were raised in the tastyblog/settings.py file, however these were related to default django authorisation
 code and could not be changed to remove the errors.
 * manage.py
 
