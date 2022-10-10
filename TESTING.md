@@ -146,6 +146,6 @@ The Test case for this project can be found [here](TEST_CASE.md)
 ![Stray Tag W3C error](./assets/readme/test/bugs/watches_clocks_stray_tag_w3c_error.jpg).
 
 * I realized that if I would move the Django block tag up and set it in between the ``<!-- END OF FOOTER -->`` and ``<!-- SCRIPTS -->``
-* I could clean my code on the validator however the Stripe script wasn't loading anymore and I couldn't make purchase.
+I could clean my code on the validator however the Stripe script wasn't loading anymore and I couldn't make purchase.
 
-![Django Block Tag](./assets/readme/test/bugs/watches_clocks_django_block_tag_1.jpg).
+![Django Block Tag](./assets/readme/test/bugs/watches_clocks_django_block_tag.jpg).
