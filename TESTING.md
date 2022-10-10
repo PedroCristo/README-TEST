@@ -118,33 +118,34 @@ Lighthouse was used to test Performance, Best Practices, Accessibility and SEO o
 * All the internal links are working and bring the user to the right page on the website.
 * All the external links are working and bring the user to the right social media page by 
   opening a new browser tab.
-* The Categories Page shows the recipes filtered by category without issues.
-* The drop-down menu in the navbar shows a list of categories on every page of the website.
-* The contact form on the Contact Page is working without any errors.  It sends an email, 
-  to the info@tastyblog, once the user fills in the form and clicks on the send button. 
-  Both interactive messages for email success or failure are also displayed on the screen.
-* The pagination system is working. It adds another page after 6 posts on the page.
-* On the Post Details Page, the Like/unlike functionality is working without issues and shows 
-  the right interactive message to the user when the heart icon is clicked.
-* The comment form has no issues and it submits a new comment once the form is completed by a
+* The Categories Page shows the products filtered by category without issues.
+* The drop-down menus in the navbar shows a list of categories on every page of the website.
+* The service review form has no issues and it submits a new user review once the form is completed by a
   registered user. 
-  The comment is displayed once the submit button is pressed. The two interactive messages for 
-  this action are working without errors. 
-* The functionality to delete a message, previously sent by the user or by the superuser, is 
+* The functionality to delete a reviews, previously sent by the user or by the superuser, is 
   working without issues. The Bootstrap model is open to asking the user if they want to delete 
-  the message. Once the action is complete, the interactive message is displayed at the top of the page.
-* The functionality to update a message, previously sent by the user or by the superuser, is 
-  working without issues. A new page is open, to update the comment when the button edit is 
-  pressed. Once the action is complete, the interactive message is displayed at the top of the page. 
-
+  the review. Once the action is complete, the interactive message is displayed at the top right of the page.
+* The functionality to add/update/delete a product, previously submited by the website admin, is 
+  working without issues.
+* The stripe payment system is working correctly and is receiving the user's payment.
+* Products can be filtered by different categories and this process is working correctly.
+  
 ### Backend/Admin Panel
 * I have tested the Admin Panel repeatedly since the start of the project development. All the models are working without issues.  
   I have created, deleted, and updated data in all models without errors. The models have the behavior expected for what they were built for.
-* Whenever a user comments on a post the Superuser has to approve it before it will be displayed on the website. This functionality is 
+* Whenever a user submit a new review the Superuser has to approve it before it will be displayed on the website. This functionality is 
   working without issues.
-* When the author is posting a new recipe all the required fields have to be filled otherwise the author can't submit the post to the database.
 
 ### Manual Test Case
 The Test case for this project can be found [here](TEST_CASE.md)
   
 ## Bugs
+
+* I had a weird bug when I was certificating the HTML code on the Validator W3C. My code was getting the following error present in the screenshot below.
+
+![Stray Tag W3C error](./assets/readme/test/bugs/watches_clocks_stray_tag_w3c_error.jpg).
+
+* I realized that if I would move the Django block tag up and set it in between the ``<!-- END OF FOOTER -->`` and ``<!-- SCRIPTS -->``
+* I could clean my code on the validator however the Stripe script wasn't loading anymore and I couldn't make purchase.
+
+![Django Block Tag](./assets/readme/test/bugs/watches_clocks_django_block_tag_1.jpg).
