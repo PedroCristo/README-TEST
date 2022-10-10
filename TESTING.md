@@ -149,3 +149,8 @@ The Test case for this project can be found [here](TEST_CASE.md)
 I could clean my code on the validator however the Stripe script wasn't loading anymore and I couldn't make purchase.
 
 ![Django Block Tag](./assets/readme/test/bugs/watches_clocks_django_block_tag.jpg).
+
+* After a good, while trying to fix this bug without success I had a call with my mentor and he figured out the HTML and body closing tags were in the 
+wrong place. I had them in the sripts.html file and they should be on the base.html.
+
+![HTML Tags](./assets/readme/test/bugs/watches_clocks_html_tags.jpg).
